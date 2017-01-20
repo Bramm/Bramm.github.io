@@ -1,14 +1,14 @@
 ---
 published: true
 layout: post
-title:  "New bike day"
+title: New bike day
 ---
 
-Zaterdag 5 november 2016. Ik was rustig op weg naar huis na een bezoek bij een vriend in Boutersem. Nu ja, rustig. Google Maps - mijn aloude vriend - besloot, naar goede gewoonte als ik ten zuiden van Leuven fiets, me recht door de bossen te sturen. Met één voet uit het klikpedaal en tegen een tempo van gemiddeld 10 km/u baande ik me een weg door het Leuvense hinterland. Waarom geen andere route zoeken, Bram? Omdat ik weiger rechtsomkeer te maken, daarom. Daarbij, met een wegfiets een mountainbike parcours volgen leek me een leuke afwisseling.
+Het was zaterdag 5 november 2016. Ik was rustig op weg naar huis na een bezoek bij een vriend in Boutersem. Nu ja, rustig. Google Maps - mijn aloude vriend - besloot, naar goede gewoonte als ik ten zuiden van Leuven fiets, om me recht door de bossen te sturen. Met één voet uit het klikpedaal en tegen het tempo van een auto op de Brusselse ring op een weekdag baande ik me een weg door het Leuvense hinterland. Waarom geen andere route zoeken, Bram? Omdat ik weiger rechtsomkeer te maken. Daarom. Daarbij, met een wegfiets een mountainbikeparcours volgen leek me een leuke afwisseling, toch?
 
-Ik passeerde vlot Vertrijk, Bierbeek, Vaalbeek, Oud-Heverlee en Leefdaal en was op weg naar Moorsel (neen, niet Moortsel). Alsof de holle weg die ik net doorgereden was nog niet genoeg was, stuurde Google me een kasseiweg op. Ik haat kasseien. Soms twijfel ik of ik niet beter fietser in plaats van voetballer was geworden in mijn jeugdjaren. Dan denk terug ik aan kasseistroken en berg ik die "droom" gauw weer op.
+Ik passeerde vlot Vertrijk, Bierbeek, Vaalbeek, Oud-Heverlee en Leefdaal en was op weg naar Moorsel waar ik - alsof de holle weg die ik net doorgereden was nog niet genoeg was - door Google een kasseiweg opgestuurd werd. Ik haat kasseien. Soms twijfel ik of ik niet beter fietser in plaats van voetballer was geworden in mijn jeugdjaren. Dan denk terug ik aan de talrijke kasseistroken in België en berg ik die "droom" gauw weer op.
 
-Maar goed, ik hobbel - ik zou hier graag “vlotjes” typen, maar dat is het nooit - over de kasseien tot ik plots iets hoor breken. Ik klik razendsnel uit mijn pedaal, maar het was al te laat. Mijn derailleur was afgebroken en in mijn achterwiel geslagen. Vallen was de enige optie, gelukkig zonder enige lichamelijke schade. Exit eerste wegfiets. Quasi perte totale dan nog.
+Maar goed, ik hobbel - ik zou hier graag “vlotjes” typen, maar dat is het nooit - over de kasseien tot ik plots iets hoor breken. Ik klik razendsnel uit mijn pedaal, maar het was al te laat. Mijn derailleur was afgebroken en in mijn achterwiel geslagen. Vallen was de enige optie, gelukkig zonder enige lichamelijke schade. Exit eerste wegfiets.
 
 Goed nieuws, ik had nu een excuus om een nieuwe fiets te kopen. Eentje om nadien mijn toer door Europa mee aan te vangen. Spijtig genoeg verdronk ik meteen in de hoeveelheid informatie die op het net te vinden is. Ik leerde heel wat bij over fietsen in het algemeen, maar ik had geen idee met wat voor een fiets ik nu best af was. Ik wilde er namelijk zowel pakweg de Ronde van Vlaanderen mee kunnen uitrijden - aan een degelijk tempo liefst - als grindpaadjes in Kroatië mee kunnen bedwingen. Had ik misschien twee fietsen nodig? 
 
