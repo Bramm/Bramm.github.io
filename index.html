@@ -7,7 +7,7 @@ image: /images/fulls/01.jpg
   <section>
     <h2><a href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a></h2>
     <p>
-       {% assign m = page.date | date: "%-m" %}
+   <span>{{ post.date | date: "%d %B %Y" }} {% assign m = page.date | date: "%-m" %}
 {{ page.date | date: "%-d" }}
 {% case m %}
   {% when '1' %}januari
@@ -24,7 +24,7 @@ image: /images/fulls/01.jpg
   {% when '12' %}december
 {% endcase %}
 {{ page.date | date: "%Y" }}
-		  {% include readingtime.html %}
+		  {% include readingtime.html %}{% endif %}</span>
     </p>
     <div>
       {{ post.excerpt }}
