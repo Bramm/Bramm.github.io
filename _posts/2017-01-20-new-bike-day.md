@@ -28,6 +28,6 @@ Bon, binnen mijn budget bleven er 2 fietsen over: de Specialized Diverge en de E
 
 Long story short: ik fiets met een Eddy Merckx Strasbourg 71. Ik zei trouwens dat er plaats was voor een bagagerek. Wat doet een beredeneerd mens met die informatie? Negeren. Op de foto kan je zien dat ik geopteerd heb voor een "saddle pack" en een "handlebar pack": een zak aan mijn zadel en een zak aan mijn stuur.
 
-<img src="/emstrasbourg.jpg" class="fit image">
+<img src="https://bramm.github.io/emstrasbourg.jpg" class="fit image">
 
 tl;dr: My road bike broke down while driving on cobblestones, so I bought a gravelbike instead. Also, you missed a hilarious joke about Sven Nys. Make sure you ask me about it when I'm back. It's definitely worth it.
