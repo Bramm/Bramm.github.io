@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Over mij"
 image:  /preview.jpg
 ---
