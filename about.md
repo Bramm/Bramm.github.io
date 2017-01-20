@@ -1,7 +1,6 @@
 ---
 layout: default
 title:  "Over mij"
-image:  /preview.jpg
 ---
 
 <!-- Begin MailChimp Signup Form -->
