@@ -36,8 +36,8 @@
   {% when '11' %}november
   {% when '12' %}december
 {% endcase %}
-{{ page.date | date: "%Y" }}{{ page.categories | array_to_sentence_string }}.{% endif %}
-            {% include readingtime.html %}
+{{ page.date | date: "%Y" }}
+		  {% include readingtime.html %}
 	   
           </p>
         </header>
