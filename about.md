@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Over mij
+title:  "Over mij"
+image:  /preview.jpg
 ---
 
 <!-- Begin MailChimp Signup Form -->
