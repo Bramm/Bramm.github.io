@@ -21,24 +21,23 @@
           <h2>{{ page.title }}</h2>
           <p>
             {% assign m = page.date | date: "%-m" %}
-{{ page.date | date: "%-d" }}
-{% case m %}
-  {% when '1' %}januari
-  {% when '2' %}februari
-  {% when '3' %}maart
-  {% when '4' %}april
-  {% when '5' %}mei
-  {% when '6' %}juni
-  {% when '7' %}juli
-  {% when '8' %}augustus
-  {% when '9' %}september
-  {% when '10' %}oktober
-  {% when '11' %}november
-  {% when '12' %}december
-{% endcase %}
-{{ page.date | date: "%Y" }}
-		  {% include readingtime.html %}
-	   
+            {{ page.date | date: "%-d" }}
+            {% case m %}
+            {% when '1' %}januari
+            {% when '2' %}februari
+            {% when '3' %}maart
+            {% when '4' %}april
+            {% when '5' %}mei
+            {% when '6' %}juni
+            {% when '7' %}juli
+            {% when '8' %}augustus
+            {% when '9' %}september
+            {% when '10' %}oktober
+            {% when '11' %}november
+            {% when '12' %}december
+            {% endcase %}
+            {{ page.date | date: "%Y" }}
+		        {% include readingtime.html %}
           </p>
         </header>
 
@@ -54,14 +53,14 @@
       <div class="row">
         <article class="6u 12u$(xsmall) work-item">
           {% if page.previous.url %}
-          <p>Previous</p>
+          <p>vorige</p>
   				<h3><a href="{{ page.previous.url }}">{{page.previous.title}}</a></h3>
   				<p>{{ page.previous.excerpt | strip_html }}</p>
           {% endif %}
   			</article>
   			<article class="6u$ 12u$(xsmall) work-item">
           {% if page.next.url %}
-          <p>Next</p>
+          <p>volgende</p>
   				<h3><a href="{{ page.next.url }}">{{page.next.title}}</a></h3>
   				<p>{{ page.next.excerpt | strip_html }}</p>
           {% endif %}
