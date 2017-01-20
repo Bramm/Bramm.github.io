@@ -30,4 +30,4 @@ Long story short: ik fiets met een Eddy Merckx Strasbourg 71. Ik zei trouwens da
 
 <img src="/emstrasbourg.jpg" class="fit image">
 
-tl;dr: I fell off my road bike and broke it. I bought a gravelbike instead.
+tl;dr: My road bike broke down while driving on cobblestones, so I bought a gravelbike instead. Also, you missed a hilarious joke about Sven Nys. Make sure you ask me about it when I'm back. It's definitely worth it.
