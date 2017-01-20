@@ -29,6 +29,9 @@ image: /images/fulls/01.jpg
     <div>
       {{ post.excerpt }}
     </div>
+	  <ul class="actions small">
+<li><a href="{{ post.url | prepend: site.github.url }}" class="button special small">Lees meer</a></li>
+		  </ul>
   </section>
 {% endfor %}
 
