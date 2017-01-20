@@ -6,31 +6,30 @@ layout: default
   <section>
     <h2><a href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a></h2>
     <p>
-      {% assign m = post.date | date: "%-m" %}
-{{ post.date | date: "%-d" }}
-{% case m %}
-  {% when '1' %}januari
-  {% when '2' %}februari
-  {% when '3' %}maart
-  {% when '4' %}april
-  {% when '5' %}mei
-  {% when '6' %}juni
-  {% when '7' %}juli
-  {% when '8' %}augustus
-  {% when '9' %}september
-  {% when '10' %}oktober
-  {% when '11' %}november
-  {% when '12' %}december
-{% endcase %}
-{{ post.date | date: "%Y" }}
-		  {% include readingtime.html %}
+    {% assign m = post.date | date: "%-m" %}
+    {{ post.date | date: "%-d" }}
+    {% case m %}
+    {% when '1' %}januari
+    {% when '2' %}februari
+    {% when '3' %}maart
+    {% when '4' %}april
+    {% when '5' %}mei
+    {% when '6' %}juni
+    {% when '7' %}juli
+    {% when '8' %}augustus
+    {% when '9' %}september
+    {% when '10' %}oktober
+    {% when '11' %}november
+    {% when '12' %}december
+    {% endcase %}
+    {{ post.date | date: "%Y" }}
     </p>
     <div>
       {{ post.excerpt }}
     </div>
-	  <ul class="actions small">
-<li><a href="{{ post.url | prepend: site.github.url }}" class="button small">Lees meer</a></li>
-		  </ul>
+	<ul class="actions small">
+	<li><a href="{{ post.url | prepend: site.github.url }}" class="button small">Lees meer</a></li>
+	</ul>
   </section>
 {% endfor %}
 
@@ -38,11 +37,11 @@ layout: default
 <!-- Pagination links -->
 <section>
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}">Previous</a>
+    <a href="{{ paginator.previous_page_path }}">Vorige</a>
   {% endif %}
-  <span>Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  <span>Page: {{ paginator.page }} van {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}">Next</a>
+    <a href="{{ paginator.next_page_path }}">Volgende</a>
   {% endif %}
 </section>
 {% endif %}
