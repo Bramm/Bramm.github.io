@@ -8,8 +8,10 @@ kakk
 
 ak
 
+Route google maps toevoegen (evnetueel enkel foto, anders moeilijk)
 
-ak 
+
+ak
 
 
 ak
