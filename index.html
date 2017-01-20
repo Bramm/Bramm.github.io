@@ -7,24 +7,7 @@ image: /images/fulls/01.jpg
   <section>
     <h2><a href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a></h2>
     <p>
-   <span>{{ post.date | date: "%d %B %Y" }} {% assign m = page.date | date: "%-m" %}
-{{ page.date | date: "%-d" }}
-{% case m %}
-  {% when '1' %}januari
-  {% when '2' %}februari
-  {% when '3' %}maart
-  {% when '4' %}april
-  {% when '5' %}mei
-  {% when '6' %}juni
-  {% when '7' %}juli
-  {% when '8' %}augustus
-  {% when '9' %}september
-  {% when '10' %}oktober
-  {% when '11' %}november
-  {% when '12' %}december
-{% endcase %}
-{{ page.date | date: "%Y" }}
-		  {% include readingtime.html %}{% endif %}</span>
+    <span><i class="fa fa-calendar"></i> {{ post.date | date: "%d %B %Y" }}{% if post.categories %} on <i class="fa fa-tags"></i> {{ post.categories | join: ', ' }}{% endif %}</span>
     </p>
     <div>
       {{ post.excerpt }}
