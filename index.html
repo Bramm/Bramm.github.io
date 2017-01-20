@@ -37,11 +37,11 @@ layout: default
 <!-- Pagination links -->
 <section>
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}">Vorige</a>
+    <a href="{{ paginator.previous_page_path }}">vorige</a>
   {% endif %}
-  <span>Pagina: {{ paginator.page }} van {{ paginator.total_pages }}</span>
+  <span>pagina {{ paginator.page }} van {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}">Volgende</a>
+    <a href="{{ paginator.next_page_path }}">volgende</a>
   {% endif %}
 </section>
 {% endif %}
