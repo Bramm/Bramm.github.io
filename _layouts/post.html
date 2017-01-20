@@ -23,20 +23,20 @@
             {% assign m = page.date | date: "%-m" %}
 {{ page.date | date: "%-d" }}
 {% case m %}
-  {% when '1' %}Januar
-  {% when '2' %}Februar
-  {% when '3' %}M&auml;rz
-  {% when '4' %}April
-  {% when '5' %}Mai
-  {% when '6' %}Juni
-  {% when '7' %}Juli
-  {% when '8' %}August
-  {% when '9' %}September
-  {% when '10' %}Oktober
-  {% when '11' %}November
-  {% when '12' %}Dezember
+  {% when '1' %}januari
+  {% when '2' %}februari
+  {% when '3' %}maart
+  {% when '4' %}april
+  {% when '5' %}mei
+  {% when '6' %}juni
+  {% when '7' %}juli
+  {% when '8' %}augustus
+  {% when '9' %}september
+  {% when '10' %}oktober
+  {% when '11' %}november
+  {% when '12' %}december
 {% endcase %}
-{{ page.date | date: "%Y" }}{% if page.categories %} over <i class="fa fa-tags"></i> {{ page.categories | array_to_sentence_string }}.{% endif %}
+{{ page.date | date: "%Y" }}{{ page.categories | array_to_sentence_string }}.{% endif %}
             {% include readingtime.html %}
 	   
           </p>
