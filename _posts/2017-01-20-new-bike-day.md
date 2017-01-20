@@ -2,10 +2,10 @@
 published: true
 layout: post
 title:  "New bike day"
-category: preparation
+category: voorbereiding
 ---
 
-### Zaterdag 5 november 2016. Ik was rustig op weg naar huis na een bezoek bij een vriend in Boutersem. Nu ja, rustig. Google Maps - mijn aloude vriend - besloot, naar goede gewoonte als ik ten zuiden van Leuven fiets, me recht door de bossen te sturen. Met één voet uit het klikpedaal en tegen een tempo van gemiddeld 10 km/u baande ik me een weg door het Leuvense hinterland. Waarom geen andere route zoeken, Bram? Omdat ik weiger rechtsomkeer te maken, daarom. Daarbij, met een wegfiets een mountainbike parcours volgen leek me een leuke afwisseling.
+Zaterdag 5 november 2016. Ik was rustig op weg naar huis na een bezoek bij een vriend in Boutersem. Nu ja, rustig. Google Maps - mijn aloude vriend - besloot, naar goede gewoonte als ik ten zuiden van Leuven fiets, me recht door de bossen te sturen. Met één voet uit het klikpedaal en tegen een tempo van gemiddeld 10 km/u baande ik me een weg door het Leuvense hinterland. Waarom geen andere route zoeken, Bram? Omdat ik weiger rechtsomkeer te maken, daarom. Daarbij, met een wegfiets een mountainbike parcours volgen leek me een leuke afwisseling.
 
 Ik passeerde vlot Vertrijk, Bierbeek, Vaalbeek, Oud-Heverlee en Leefdaal en was op weg naar Moorsel (neen, niet Moortsel). Alsof de holle weg die ik net doorgereden was nog niet genoeg was, stuurde Google me een kasseiweg op. Ik haat kasseien. Soms twijfel ik of ik niet beter fietser in plaats van voetballer was geworden in mijn jeugdjaren. Dan denk terug ik aan kasseistroken en berg ik die "droom" gauw weer op.
 
@@ -29,7 +29,6 @@ Bon, binnen mijn budget bleven er 2 fietsen over: de Specialized Diverge en de E
 
 Long story short: ik fiets met een Eddy Merckx Strasbourg 71. Ik zei trouwens dat er plaats was voor een bagagerek. Wat doet een beredeneerd mens met die informatie? Negeren. Op de foto kan je zien dat ik geopteerd heb voor een "saddle pack" en een "handlebar pack": een zak aan mijn zadel en een zak aan mijn stuur.
 
-![Eddy Merckx Strasbourg 71]({{site.baseurl}}//emstrasbourg.jpg)
+![Eddy Merckx Strasbourg 71]({{site.baseurl}}/emstrasbourg.jpg)
 
 tl;dr: I fell off my road bike and broke it. I bought a gravelbike instead.
-
