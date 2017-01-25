@@ -12,7 +12,7 @@ Ik passeerde vlot Vertrijk, Bierbeek, Vaalbeek, Oud-Heverlee en Leefdaal en was 
 
 Maar goed, ik hobbel - ik zou hier graag “vlotjes” schrijven, maar dat is het nooit - over de kasseien tot ik plots iets hoor breken. Ik klik razendsnel uit mijn pedaal, maar het was al te laat. Mijn derailleur was afgebroken en in mijn achterwiel geslagen. Vallen was de enige optie, gelukkig zonder enige lichamelijke schade. Exit eerste wegfiets.
 
-## Opstaan
+## En weer opstaan
 Goed nieuws, ik had nu een excuus om een nieuwe fiets te kopen. Eentje om nadien mijn toer door Europa mee aan te vangen. Spijtig genoeg verdronk ik meteen in de hoeveelheid informatie die op het net te vinden is. Ik leerde heel wat bij over fietsen in het algemeen, maar ik had geen idee met wat voor fiets ik nu best af was. Ik wilde er namelijk zowel pakweg de Ronde van Vlaanderen mee kunnen uitrijden - aan een degelijk tempo liefst - als grindpaadjes in Kroatië mee kunnen bedwingen. Had ik twee fietsen nodig?
 
 Een anonieme internetter raadde me een gravelbike aan, een soort combinatie tussen een wegfiets en een mountainbike, gemaakt om snel mee te rijden op geplaveide wegen en om vlot door grindpaadjes en, jawel, holle wegen te manoeuvreren. De verschillen met een wegfiets:
