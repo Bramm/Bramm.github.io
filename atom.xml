@@ -19,7 +19,7 @@ sitemap:
 		<link rel="alternate" type="text/html" href="{{ post.url | prepend: siteurl }}"/>
 		<id>{{ post.url | prepend: siteurl }}</id>
 		<updated>{{ post.date | date_to_xmlschema }}</updated>
-		<summary>Some text.</summary>
+		<summary>On-going atom.xml</summary>
 		<content type="xhtml">
 			<div xmlns="http://www.w3.org/1999/xhtml">
 				{{ post.content }} {% include feed-footer.html %}
