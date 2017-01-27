@@ -3,54 +3,37 @@ layout: default
 title:  "Over mezelf"
 ---
 
+## Bram
+
+foto's toevoegen
+   toevoegen aan mailinglijstform: "ik respecteer jullie privacy"
+Ik ben te volgen op deze kanalen:
+
+Facebook, Strava en Github
+
+en te bereiken via:
+
+E-mail (eventueel form)
+
+For those who don't speak Dutch, I have added a tl;dr (too long, didn't read) in English at the bottom of every post. If I generate enough audience, I will translate everything into English.
+
+Het begon allemaal in 2016...
+
+En het is niet de bedoeling om het stop te zetten zodra ik terug ben. Ik wil blijven posten over alles wat mij en hopelijk ook jullie interesseert.
 
 
-It all started…
 
-In December 2003. We fell in love and thought bicycle touring would be a good way to travel. Our first trip was all about rain, only 5 degrees celsius, too much weight, not the right gear, flat tires… we loved it! From that moment on we spend every holiday in the saddle and did a lot of bicycle touring around the world.
+Mijn naam is Bram. Ik ben geworpen in 1989 en ik interesseer me in muziek, talen, sporten, duurzame ontwikkeling, exceltabellen en last but not least, bikepacking.
 
-Dunglish
+Al van jongsafaan meegenomen naar de Alpen, en er blijvend gefascineerd door geraakt. 
 
-Here ‘comes the monkey out of the sleeve’… Forgive us our ‘Dunglish’, we are Dutch and we’ll probably throw in a few Dutch sayings here and there, which make completely no sense! But, feel free to correct us! We listen to ‘Fietsjunks’, ‘Bicycle Junkies’, ‘El & El’ or just ‘Elmar & Ellen’.
+Gitaar, dj, check linkedin gezever.
 
-Elmar van Drunen
+Studies? Werk?
 
-World cyclist & Bicycle Mechanic
-
-Bicycle mechanic at Bike4travel, road biker, model for Ellens pictures and former cook. He admires Ghandi, wants to chop wood in front of his cabin when he grows up and his motto is: “Don’t worry!”
-
-Ellen van Drunen
-
-World cyclist & Photographer
-
-Wannabe photographer and travel writer, who is dreaming about their future dog ‘Zoe’ and loves to listen to Eddie Vedder or Pink Floyd. Her motto is: “Live the life you love and love the life you live!”. She admires Steve Jobs, is an Apple lover and an internet addict.
-
-Track my tour
-
-Touring routes
-
-Vimeo: short movies about our bicycle adventures. Watch them now!
-
-ellenvandrunen.com: website dedicated to Ellens photos and her publications.
-
-What began in 2012 as a blog to chronicle a bike tour through Mexico & Central America has since unfurled into an organized and growing resource for bikepacking routes, gear reviews, planning resources, a Bikepacking 101 section, feature stories, and inspiration. (allemaal links)
-
-About
-
-     My name is Jack. I’m in my early twenties and I love adventure. The second I came out of the womb I pushed the doctors and nurses aside ….marched nude out of hospital and traversed deep into the wild…where for ten years I was raised by wolves. True story. In other words, my childhood was like any other.
-
-     Jokes aside it wasn’t long before I really did have a genuine thirst for everything outdoorsy. Fortunately, my parents are equally obsessed with nature. As a result, my childhood was a whitewash of outdoor pursuits. Holidays were never sitting around the pool, they were spent trawling up mountain sides…sometimes in the completely unsuitable rental car…In order to locate some ancient ruins completely ignored….usually for health and safety reasons….by the travel brochure.
-
-     At Primary school I was…well….i was a terror. The down side of an incredibly active life was my incessant restlessness. “Jacks a capable student….but he just wont sit still and shut up.” Secondary school marked a gradual change, my love of guitar became obsessive as did my general infatuation with everything musical. Whilst, my increasing freedom meant I was able to vent more of my restlessness outside of the classroom. Subsequently, by the end of school I’d transformed. I went on to study history at Royal Holloway and became obsessed with everything ancient. The same boy seen as pretty much a waste of time at primary school finished up with first class honours.
-
-     Sooooo you’re thinking why did this troublesome child, turned first class honours graduate then create this website of literal absurdity. Well, I guess I wanted to give something back. Throughout my life I’ve been lucky enough to have an incredible network of friends, family and mentors to keep me on the straight and narrow. However, I would argue my main stability has come from the outdoors. Anytime, I was frustrated or stressed I’d get out on the bike and go for a ride, by the time I got back I was always in a better place. This website aims to inspire, to encourage others to get out on their bike, even just around the block and discover both the physical and mental rewards of cycling……ahhh but I hear you ask “ whats your reason for the crazy abstract and often damn right bizarre literal tone?!.” Well I’m glad you ask…….ten years being raised by wolves was bound to have some psychological repercussions....
-
-     I'm a photographer, explorer, writer and fitness fanatic....oh and most importantly a complete Mad Hatter! If you want to get in touch go to my " CONTACT ME " page.
-     
-     foto's van mezelf toevoegen
-     
-     toevoegen aan mailinglijstform: "ik respecteer jullie privacy"
-
+Sooooo you’re thinking why did this troublesome child, turned first class honours graduate then create this website of literal absurdity. Well, I guess I wanted to give something back. Throughout my life I’ve been lucky enough to have an incredible network of friends, family and mentors to keep me on the straight and narrow. However, I would argue my main stability has come from the outdoors. Anytime, I was frustrated or stressed I’d get out on the bike and go for a ride, by the time I got back I was always in a better place. This website aims to inspire, to encourage others to get out on their bike, even just around the block and discover both the physical and mental rewards of cycling……ahhh but I hear you ask “ whats your reason for the crazy abstract and often damn right bizarre literal tone?!.”     
+  
+  
 Founded in 2014, Bikepacker is a community driven resource created to inspire and empower bikepackers on a global scale to fuel and achieve their goals. There is no way we could accomplish what we have so far without the contributions of the community. Here are a few of the key players and consistent contributors that help make Bikepacker a success. 
 
 Ever since Neil graduated college he has soaked in the mountain life. After riding bikes recreationally for a couple of seasons, he realized he was extremely motivated and began racing. Neil drank the bikepacking Kool-Aid after completing the AZT 300 as his first bikepacking race in 2013.  In 2014 his now-fiancé Lindsay and he launched Bikepacker. What started as a hobby quickly turned into a regularly updated online publication where they created a resource for adventure cycling. They realized how many awesome bike bag manufacturers, routes, and tips there are in this sub industry of cycling, and they wanted to create a lasting resource. Neil handles the daily operations, editorial planning and social media.
