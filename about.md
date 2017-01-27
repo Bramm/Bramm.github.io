@@ -3,7 +3,7 @@ layout: default
 title:  "Over mezelf"
 ---
 
-Route google maps toevoegen (evnetueel enkel foto, anders moeilijk)
+
 
 It all started…
 
