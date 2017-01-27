@@ -16,5 +16,5 @@ Fietstocht Europa
 * <i class="fa fa-plus-circle"></i> Hoogste top: 0 meter (detail)
 * <i class="fa fa-cogs"></i> Topsnelheid: 0 km/u (detail)
 * <i class="fa fa-cog"></i> Hoogste gemiddelde snelheid: 0 km/u (detail)
-* <i class="fa fa-snowflake-o"></i> Laagste temperatuur: °C (detail)
+* <i class="fa fa-cloud"></i> Laagste temperatuur: °C (detail)
 * <i class="fa fa-sun-o"></i> Hoogste temperatuur: °C (detail)
