@@ -32,6 +32,6 @@ Binnen mijn budget bleven er 2 fietsen over: de Specialized Diverge en de Eddy M
 
 Long story short: ik ging naarh uis met de Strasbourg 71. Zei ik trouwens dat er plaats was voor een bagagerek? Zoals je op de foto kan zien, heb ik dat professioneel genegeerd. Ik heb geopteerd voor een "saddle pack" en een "handlebar pack", oftewel: een zak aan mijn zadel en een zak aan mijn stuur.
 
-<img src="https://bramm.github.io/emstrasbourg.jpg" class="fit image">
+<img src="https://bramm.github.io/images/posts/emstrasbourg.jpg" class="fit image">
 
 tl;dr: My road bike broke down while driving on cobblestones, so I bought a gravelbike instead. Also, you missed a hilarious joke about Sven Nys. Make sure you ask me about it when I'm back. It's worth it.
