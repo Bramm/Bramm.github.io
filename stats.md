@@ -7,8 +7,8 @@ title:  "Statistieken"
 
 Voor de liefhebbers: een overzichtje van de voornaamste cijfers
 
-<i class="fa fa-globe"></i> Aantal landen doorkruist: 0
-<i class="fa fa-heart"></i> Aantal kilometer afgelegd
+* <i class="fa fa-globe"></i> Aantal landen doorkruist: 0
+* <i class="fa fa-heart"></i> Aantal kilometer afgelegd
 
 <i class="fa fa-car"></i>
 <i class="fa fa-file"></i>
