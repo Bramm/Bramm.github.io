@@ -3,55 +3,235 @@ layout: default
 title:  "Over mezelf"
 ---
 
-kakk
-
-
-ak
-
 Route google maps toevoegen (evnetueel enkel foto, anders moeilijk)
 
+It all started…
 
-ak
+In December 2003. We fell in love and thought bicycle touring would be a good way to travel. Our first trip was all about rain, only 5 degrees celsius, too much weight, not the right gear, flat tires… we loved it! From that moment on we spend every holiday in the saddle and did a lot of bicycle touring around the world.
+
+Dunglish
+
+Here ‘comes the monkey out of the sleeve’… Forgive us our ‘Dunglish’, we are Dutch and we’ll probably throw in a few Dutch sayings here and there, which make completely no sense! But, feel free to correct us! We listen to ‘Fietsjunks’, ‘Bicycle Junkies’, ‘El & El’ or just ‘Elmar & Ellen’.
+
+Elmar van Drunen
+
+World cyclist & Bicycle Mechanic
+
+Bicycle mechanic at Bike4travel, road biker, model for Ellens pictures and former cook. He admires Ghandi, wants to chop wood in front of his cabin when he grows up and his motto is: “Don’t worry!”
+
+Ellen van Drunen
+
+World cyclist & Photographer
+
+Wannabe photographer and travel writer, who is dreaming about their future dog ‘Zoe’ and loves to listen to Eddie Vedder or Pink Floyd. Her motto is: “Live the life you love and love the life you live!”. She admires Steve Jobs, is an Apple lover and an internet addict.
+
+Track my tour
+
+Touring routes
+
+Vimeo: short movies about our bicycle adventures. Watch them now!
+
+ellenvandrunen.com: website dedicated to Ellens photos and her publications.
+
+What began in 2012 as a blog to chronicle a bike tour through Mexico & Central America has since unfurled into an organized and growing resource for bikepacking routes, gear reviews, planning resources, a Bikepacking 101 section, feature stories, and inspiration. (allemaal links)
+
+About
+
+     My name is Jack. I’m in my early twenties and I love adventure. The second I came out of the womb I pushed the doctors and nurses aside ….marched nude out of hospital and traversed deep into the wild…where for ten years I was raised by wolves. True story. In other words, my childhood was like any other.
+
+     Jokes aside it wasn’t long before I really did have a genuine thirst for everything outdoorsy. Fortunately, my parents are equally obsessed with nature. As a result, my childhood was a whitewash of outdoor pursuits. Holidays were never sitting around the pool, they were spent trawling up mountain sides…sometimes in the completely unsuitable rental car…In order to locate some ancient ruins completely ignored….usually for health and safety reasons….by the travel brochure.
+
+     At Primary school I was…well….i was a terror. The down side of an incredibly active life was my incessant restlessness. “Jacks a capable student….but he just wont sit still and shut up.” Secondary school marked a gradual change, my love of guitar became obsessive as did my general infatuation with everything musical. Whilst, my increasing freedom meant I was able to vent more of my restlessness outside of the classroom. Subsequently, by the end of school I’d transformed. I went on to study history at Royal Holloway and became obsessed with everything ancient. The same boy seen as pretty much a waste of time at primary school finished up with first class honours.
+
+     Sooooo you’re thinking why did this troublesome child, turned first class honours graduate then create this website of literal absurdity. Well, I guess I wanted to give something back. Throughout my life I’ve been lucky enough to have an incredible network of friends, family and mentors to keep me on the straight and narrow. However, I would argue my main stability has come from the outdoors. Anytime, I was frustrated or stressed I’d get out on the bike and go for a ride, by the time I got back I was always in a better place. This website aims to inspire, to encourage others to get out on their bike, even just around the block and discover both the physical and mental rewards of cycling……ahhh but I hear you ask “ whats your reason for the crazy abstract and often damn right bizarre literal tone?!.” Well I’m glad you ask…….ten years being raised by wolves was bound to have some psychological repercussions....
+
+     I'm a photographer, explorer, writer and fitness fanatic....oh and most importantly a complete Mad Hatter! If you want to get in touch go to my " CONTACT ME " page.
+     
+     foto's van mezelf toevoegen
+     
+     toevoegen aan mailinglijstform: "ik respecteer jullie privacy"
+
+Founded in 2014, Bikepacker is a community driven resource created to inspire and empower bikepackers on a global scale to fuel and achieve their goals. There is no way we could accomplish what we have so far without the contributions of the community. Here are a few of the key players and consistent contributors that help make Bikepacker a success. 
+
+Ever since Neil graduated college he has soaked in the mountain life. After riding bikes recreationally for a couple of seasons, he realized he was extremely motivated and began racing. Neil drank the bikepacking Kool-Aid after completing the AZT 300 as his first bikepacking race in 2013.  In 2014 his now-fiancé Lindsay and he launched Bikepacker. What started as a hobby quickly turned into a regularly updated online publication where they created a resource for adventure cycling. They realized how many awesome bike bag manufacturers, routes, and tips there are in this sub industry of cycling, and they wanted to create a lasting resource. Neil handles the daily operations, editorial planning and social media.
+
+When he’s not in the saddle he loves to take photos of the beautiful landscapes the Crested Butte area has to offer. He also really enjoy sipping on a good IPA, watching his favorite team the Chicago White Sox, and hanging out with his lady Lindsay and their dog bowie. If you are ever in the Crested Butte area give them a buzz!
+
+Lindsay and Neil co-founded Bikepacker as a way to share their passion for the sport with the world. She is in charge of marketing and creative at Bikepacker, and also assists in writing and editing content. Originally from Minnesota, adventuring and being outside has been a staple in her life from a young age. Lindsay began mountain biking in 2010, but it never really became an addiction until her first overnight bikepacking trip in the Sand Dunes of the San Luis Valley of Colorado with her dude, Neil. Since then, she has taken a path of constantly improving her endurance, gear choices, and technical riding abilities. Lindsay loves to challenge herself in the world of two-wheeled travel, and looks forward to a lifetime of adventures by bike. When not riding or planning the next trip, Lindsay enjoys exploring the depths of the upper Gunnison Valley by bike, skiing, spending time with Neil, and playing with her pup Bowie.
+
+Alex just can’t get enough gravel.  Whether it’s hitting the gravel just outside his door or toeing the line at events such as Kanza and Trans Iowa, he much prefers the unpaved roads. 
+
+Riding gravel and forest roads feels like a homecoming of sorts, as Alex’s earliest riding was on logging roads on his family’s land.  From his first mode of transportation to the custom Eriksen gravel/bikepacking frame he gave his wife as an engagement promise to the bikepacking rigs which took him and his wife on a White Rim honeymoon, bikes have always been an important part of Alex’s life.
+
+Alex is also our beer guy.  He loves hopped up IPAs, Imperial Stouts, and European-styled Pilsners.  But he won’t turn his nose up at a post-ride PBR or American lager, especially if it’s a unique Untappd check-in. 
+
+Will Scheel was just a city boy, born and raised in south Detroit. He took the midnight train going anywhere… wait that can’t be right.  He started his cycling career on a Mongoose BMX bike leaving sweet skids all over the neighborhood. Then he got in one little fight and his mom got scared… wait that’s not right either! Who took notes on this guy?! It looks like what actually happened was all the neighborhood kids got bikes with gears and Will wanted to keep up so he made his pleas with his parents who eventually caved and got him a Trek hardtail. He learned to mountain bike on the local 5.5 mile, flat singletrack trail in town, sneaking out to ride when he should have been doing homework… that slacker.
+
+Will’s life of cycling evolved through cross country racing and overnighters – until he watched Ride the Divide, which fueled his fire for bikepacking. This was definitely going to be a thing for him. He knew he could do it on his hardtail, but he was woefully unprepared. Later in June he did his first 3 day trip by road from Sacramento to South Lake Tahoe, around, and North Lake back to Sac. It felt good to dig deep, to keep going when it got hard. Following the trip, while over a beer with his friends, one told him the Divide was mostly dirt roads and there was no need for a mountain bike. Will wouldn’t be a man unless he did it on a ‘cross bike.
+
+The 2015 Tour Divide was the hardest thing Will Scheel had ever done. The Divide tried to break him, it challenged him, it took him to high places and low places, from the sleet in the Canadian Rockies to the hot dry summer heat of the New Mexican desert, and he did it on a cyclocross bike.
+
+Now, Will rides bikes every day trying to fill in his Strava Heat Map feeding his semi-healthy addiction and continues to take pictures of bike type things. He occasionally writes things about bikes and trips and whatnot while finishing his mechanical engineering degree. When asked what he wants to do after graduating, he answered with “Ride bikes every day!… but no seriously I need a Sprinter, 3 bikes, and a lot of food and I’ll be good.”
+Follow Will’s adventures on his Instagram @Will_on_2_wheels
+
+Growing up in the northwest, Grafton has always been fond of the mountains. First falling in love with them through skiing and shortly after by two wheels. With a camera in his hand from a young age, photographing his adventures only seemed natural.  He now calls Spokane, WA home but finds it hard to stay still. Follow along as he documents his travels and plenty of type two fun behind the lens at graftonpannell.com or on Instagram at instagram.com/grafton | instagram.com/graftonridesbikes .
+
+Living in the outdoor playground that Colorado is, it seems that the opportunity to get out and play at any given moment never ceases. Since my childhood years, it’s been in my blood to see what’s around the next bend on the trail, what’s over the next ridge above, or what lies in the valley below; wherein the outdoors have always been my favorite place to be. Through my college years, I supported my craving for snow as a ski-tuning snowboard bum. Working in a ski and bike shop inevitably led me to the repair department, where my hands were permanently covered in grease and bicycles quickly became my full time addiction. Since then, I’ve been fortunate enough to ride my mountain bike in almost every state across the US of A, have sent bikes to Africa through an advocacy project I piloted called “Brews for Bikes,” and bikepacked across the Colorado Trail with my significant other. Suffice it to say, bikes are in my blood for now and forever.
+
+Alex guided and climbed all over the world for over 10 years, completing numerous first ascents including several new mixed ice and rock routes on peaks over 18,000ft in Bolivia before turning his attentions to mountain biking a few years ago. During his first year on a mountain bike he got a podium in a 24 hour solo race, coming in 3rd. After that he was hooked on ultra-endurance distance racing and riding, taking podiums again in 24 hour solos and tying for 1st Place Rookie in the Trans North Georgia Adventure 350 mile race. Alex spent a year living in Ecuador researching river ecology as Fulbright Fellow, in addition to racing and bikepack-exploring all over the country and in Chile. He returned to the USA in 2015 to defend his PhD dissertation at Cornell University, then spent the summer in Changsha, China as Invited Summer Faculty before completing an 800km route across the Kham region of Tibet. He moved to Yakima to begin a faculty position at Heritage University in the Fall of 2015. In addition to teaching and research, he continues to race 24 hour Solos and Ultra-Endurance Bikepack races all over the West. He competed in 24 Hour Solo World Championships in 2015, and last year took 2nd place in both the Oregon 24 hour Solo and the Comstock Epic, a grueling 550 mile race across the Great Basin desert. He plans to continue bike-xploring, ultra-endurance racing, and ski mountaineering around the world in addition to his ecological research, teaching, and writing.
+
+Subscribe to our monthly newsletter
+No spam, no nonsense, just good ol' fashioned bikepacking news. 
 
 
-ak
+Overview
+    Hi! I am Neil Gunton, the founder/programmer/webmaster/editor of crazyguyonabike.com. This is a free, independent website for hosting bicycle touring journals, forums and resources. The content is contributed by people from all over the world. You can browse the journals and articles or register and then create your own. Also check out the forums (message boards), reviews (users' reports on bicycle touring gear), resources (links, routes, hospitality, businesses and other useful info related to bicycle touring) and classifieds (companions, for sale, wanted etc). You can find interesting content via serendipity, or see what other users think is cool (or controversial) via the ratings.
+
+    Crazyguyonabike's main strength is its simple focus on bicycle touring, combined with a scalable design which allows for a huge amount of content to be easily edited, browsed and searched. Unlike many other Web 2.0 sites, crazyguyonabike actually hosts real content, rather than simply acting as a link aggregator to point to other websites. Also, the design is deceptively simple and non-flashy, which makes it fast and easy to use on slow connections and portable computers. Finally, of course, the community itself makes crazyguyonabike special. The site would be nothing without all the people who contribute their content to make this one of the biggest repositories of bicycle touring literature in the world.
+
+    The website is mainly supported by donations from people like you; also see the sponsors page for more details. The website section has lots more info on how to use the site, including a sitemap, comprehensive help and a FAQ (Frequently Asked Questions). 
+History
+    I started crazyguyonabike in January 2000 as a simple online journal of my own 1998 bicycle tour across America. This was the original (and only) journal on the website, and it was appropriately titled "Crazy Guy on a Bike". So the name of the website actually originated with the title of my original journal. In the process of developing that first version of the site, I also wrote a number of software tools which allowed me to edit the journal online, through a web browser. This first version of the site went live in February 2000. I added a guestbook for people to leave comments in April of the same year. Almost immediately I realized that the code I had written could be expanded relatively easily to allow other people to share their own experiences from the road. So, I expanded the scope of the site to allow other people to contribute their own journals; this took longer than I thought (as always) and it eventually went live in March of 2001. The site grew organically, with me adding features here and there, and over the next few years crazyguyonabike became a fairly busy website, with hundreds of bicycle touring journals and articles.
+
+Awards
+    Crazyguyonabike was winner of The Adventure Cycling Association's 2007 Pacesetter of the Year Award. More details in the newsletter, and the forum thread.
+
+    Adventure Cycling Awards
+
+Website Implementation and Acknowledgments
+    This website was made possible by the freely available software of the Open Source community. The application-level code was developed by me using Debian GNU/Linux, Apache, Perl (including many excellent CPAN modules), mod_perl, MySQL and Embperl. For anybody interested in these tools, I wrote an article about my reasons for using Linux, Apache, Perl and MySQL. 
+    
+    
+
+Andrew P. Sykes is a writer, cyclist, speaker and teacher.
+
+415WaniUqYL._SX750_SY470_He’s also a lover of those quirky, humorous travelogues that meander comically from one minor adventure to the next. So writing about a long-distance cycling trip across Europe from southern England to southern Italy seemed the natural thing for him to do once his small-time odyssey was over. The result was ‘Crossing Europe on a Bike Called Reggie‘.
+
+In 2013, he embarked upon a second trip from Greece to Portugal following the Mediterranean coast; ‘Along The Med on a Bike Called Reggie‘ was published in 2014.
+
+A third trip was completed in 2015 from the southern tip of Spain to the northernmost point of Norway. The book, ‘Spain to Norway on a Bike Called Reggie’, will be published by Summersdale in spring 2017.
+
+Andrew has now returned to his northern roots and lives in the beautiful Calder Valley of West Yorkshire, the area where he was born and brought up. He currently mixes teaching with writing and, of course, dreaming of the next long journey.
+
+The author as a cyclist, in his own words:
+
+“I can never really remember not being a cyclist although it is only in the last few years that I have called myself one. There has to be an element of commitment to using a bike over other means of transport to seem eligible to use the title. I certainly do that now and have done, off and on, for the last thirty years. I have never really been a motorist. I have owned three cars, all during my 30s, and, hand on heart, I don’t miss them. Occasionally there is something that I could do more easily or quicker or in greater comfort if I did own a car again, but nothing that actually merits the expense of having a machine with four wheels sat outside on the road not being used for much of its working life.
+
+Not that I am anti car. I get lifts when needed, for example during the harsh winter weather in January 2010 which made cycling all but impossible. And there will come a day, due to circumstances, when I will no doubt buy a car again. But there is a difference between car ownership and car usage. So many journeys are made which are a shamefully extravagant use of a car and all the resources – space as well as energy – they take up. People forget that there are alternatives, and resort far too readily to fairly lame excuses as to why they cannot leave the keys at home and either walk, jump on public transport or, of course, cycle. Few people could really not survive without the use of a car.
+
+So that’s where I stand as a cyclist. It has become the norm for me to go about my daily life either on foot or by bike, mainly because it has never not been the norm for me to do so for most of my life. So why decide to cycle to southern Italy? Well, you can read the initially postings on the blog way back in August 2008 to discover the exact thought processes that went on, but it all boils down to one simple thing; because I can.”
+
+The author as a teacher:
+
+Andrew P. Sykes studied mathematics at the University of York in the late 80s so how he ended up as a French teacher in a secondary school in the UK is a tale of twists and turns but he first stood in front of a bunch of people and tried to teach them English back in February 1994 when he was taking a TEFL Certificate course at Leeds Metropolitan University.
+
+Six months later he found himself a job at a private language school in Tours, France and stayed there until he realised that there was no money in it. Pity it took him nearly five years! Back in the UK in mid 1999 he started to study for a PGCE in MFL at the University of Reading on a special two-year “conversion” programme for people looking to teach French but who didn’t have the appropriate academic background, just the language skills. His course took him to placements first at Trinity School in Newbury and then, for a longer period to Prospect School in Reading itself.
+
+A vacancy for a French teacher came up at Prospect and, after some persuasion (Reading was and still is an expensive place to live!), he found himself a full-time post in the school. Liz Wood, the then head of department led a vibrant group of people who very much saw how the learning of a language could and should be a skill for everyone at every level.
+
+The management didn’t always agree and by the time he left in 2006, the place of languages within the curriculum was en route to becoming a side-show for the minority. In the September of that year Andrew started work as a subject leader in charge of the languages department at Gillotts School in Henley-on-Thames, a short and picturesque cycle ride from Reading, and more importantly a school where language learning was being increasingly supported & developed.
+
+He stayed at the school until December 2014 when he left to complete the third European cycle from Tarifa to Nordkapp in spring and summer 2015…
+
+‘I thought of that while riding on my bike.’ Albert Einstein, on the theory of relativity. 
+
+I began While Out Riding as a blog, charting a bike journey south from Prudoe Bay, Alaska, through the American backcountry – along quiet backroads and dirt trails where possible.
+
+When I left Alaska in the summer of 2009, I wasn’t sure where I’d end up; life has a habit of slotting into place when I’m on my bike, so I figured I’d let it take its shape. I’ve always enjoyed bike touring for this very reason: everyday existence becomes more straightforward, funnelled through the simple act of spinning pedals. A bicycle is minimal and uncomplicated, so it’s fitting that riding is the perfect mind and body de-clutterer. The blog was a way of recording this extended journey for friends and family, and a chance to process everything I was seeing and experiencing.
+
+The journey came to a convoluted close in September 2014. Bicycles remain an important part of my life. I live car-free and most recently, I’ve cycled in Mongolia and the Republic of Georgia.
+
+Enjoy your adventures, wherever they may take you. And when in doubt… Ride Dirt!
+
+Cass
+.Background
+
+I’ve been an avid traveller since I was 19, initially hitchhiking and travelling the bus routes of Latin America. The moment I discovered bicycle touring, there was no turning back – I’ve been embarking regularly on two wheeled explorations for the last 15 years. Aside from a thorough exploration of the UK, I’ve ridden from Sydney to London, across Central Asia on a tandem, through Tunisia and Morocco, around SW China and Laos, and through backcountry Cambodia. Most recently, I’ve been aiming to connect the length of the Americas via the road less travelled. I love touring and mountain biking, and for this reason my ideal journey fuses the two, keeping to quiet dirt roads and singletracks.
+
+In the UK, I work as a freelance cycling journalist. Previously, I co-ran a bike touring business for five years in the Indian Himalaya called Out There Biking.
+I’m part-funding this trip by writing for bicycle magazines, and have been submitting words and pictures to Cycling Plus, What Mountain Bike, Bicycle Times, Singletrack, Sidetracked, Cranked, Mountain Flyer, Adventure Cycling, Boneshaker, Cycle, Privateer, Fahrstil, Worldwide Cycling Atlas, Bunyan Velo, Lonely Planet, Trailblazer and wired.co.uk. I love to meet up with cyclists along the way and explore local trails. If you have a couch/yard/floorspace where I can lay my head for the night, I’d be most grateful. Thanks!
+
+ This blog is about our life in the Nahual / Palugo community and our travels in Ecuador (for the most part). Topics may vary from mountaineering, hiking, Bike-packing, building, permaculture, photography or other. Se escribe en Español y en Ingles. No hay un idioma definitivo, todo depende del estado de animo del autor. Everything published here follows no order, no language preference or supports any particular activity. It's just a way to share adventures and encounters...
+We ride bikes, teach outdoors, build, work as mountain guides/outdoor instructors and work the land on a beautiful organic farm/school that we have developed the last 15 years.
+
+GClark_Portrait
+Photo by Greg Clark Photography.
+
+The Flaming Bike Blog is written and test-ridden by Ginger Jui. This blog follows her bike adventures from a home base in Oakland, California.
+
+About Me
+Like many adventurous people, I jack a lot of trades. Recent titles and aspirations include:
+– Adventure advocate (working on it here!)
+– Science writer
+– Program assistant and tandem pilot for blind stokers at the Bay Area Outreach & Recreation Program
+– Event and Fundraising Intern at the East Bay Bicycle Coalition
+– Program Manager for the Campus Bike Initiative
+– Graduate student at UC Berkeley
+– All around Gal About Town
+
+About the Blog
+Four summers ago, I rode with friends from San Francisco to camp overnight in Half Moon Bay. The story of that first bike camping trip inaugurated this blog. Since then, I’ve ridden around Iceland, down the Cascade Mountains of Oregon, and a whole bunch around the San Francisco Bay Area.
+
+You’ll also find here the beginnings of a bike and transit based adventure guide to the Bay Area. I’m calling it, 52 Bay Area Bike Weekends. Beginning in 2012, I will be posting my research and reconnaissance for that project here.
+
+The mission of TFR is to inspire family bicycle travel. Simply stated, we want you, and your family, to get on your bike and ride. In this blog, we share stories of ‘townie‘ and ‘touring‘ family bicycle adventures. So whether you ride to a park or a grocery store, around town or across the country, this site is an evolving tool for families that wish to go by bike.
+
+That’s me riding the Kenai coast in Alaska with a Nikon D700, Nikon 70-200 f4, Zeiss 25mm f2.8 and Zeiss 50 f1.4 along with a tripod and a bunch of batteries and memory cards. I go to great lengths to get the shots I want. – Photo by Josh Spice at http://www.staysanesleepoutside.com/
+
+My name is Jason Boucher. I am a cycling photographer. I’m passionate about bikes, cameras, people and exploration. I am happiest when all of those things are experienced together. This blog is where I share my stories. I can be followed socially at the following links.
+
+Flickr: https://www.flickr.com/photos/gnatlikesbikes/albums
+
+Instagram: https://www.instagram.com/imaginegnat/
+
+If you have a question for me, would like to purchase some of my imagery, or just want to drop me a note to say hello, please email me GNAT at LIVE dot COM.
+
+Thanks again for stopping by.
+
+It's never about going the hardest, fastest or loudest. I prefer to tread lightly, and get things right. Make them work. Define problems that beg for solution.
+
+Things I believe: running over mountains fuels ideas, fly fishing is the best video game, design isn't good or bad – it works or doesn't, nothing is cuter than my 18 month old.
+
+Time is a resource. Mine gets split between work, play, family and volunteering for numerous nonprofits. I am currently serving as the founding president of the Board of Directors for Bikepacking Roots.
+
+I’m Tom from England. That’s me on my most recent journey: the length of England without any money (no cash, no cards, and a bike I rescued from a scrapyard).
+
+Since 2006 I’ve been going on bicycle adventures to places like Sudan, Iran, Yemen, Syria, the Arctic, Ethiopia, Armenia and Mongolia. There’s about 40 countries on the list, but numbers are boring.
+
+A love of adventure is what drives my journeys, and a love of writing is what drives this blog. I share stories, ideas, news and knowledge on the subject of modern-day bicycle travel. So if you’re just dipping a toe into the world of adventure cycling, or you’re planning a big trip and are looking for a voice of experience to help out, you’re probably in the right place.
+
+I guess it started when my parents took the stabilisers off my first bike and I disappeared across the village green, aged 4. Cue much fretting and wailing from aforementioned parents.
+
+Aged 6, I completed my first long-distance cycle tour: a lap of Rutland Water, all 17 miles of it.
+
+As an older child, one of my ambitions was to ride my BMX off a ramp into the River Welland. (I built a ramp, but wasn’t quite brave enough to take the leap.)
+
+At university I got fat and lazy and spent much of my final year trying to burn off the beer and cheesy chips by throwing myself down the hillsides of Exmoor on a mountain-bike.
+
+Then I went to Scotland and spent a week lugging my bike and gear through rainy off-road trails in the West Highlands. Thoroughly miserable, the most fun I’ve ever had on a bike, and the trip that sowed the seeds.
+
+The logical progression from there seemed to be to try and ride as far as possible and see what happened. In late 2006 I began planning a long trip called “Ride Earth” — a journey around the world by bicycle. (This is where the story gets more interesting. I set off, but have never really finished.)
+
+I’ve travelled to over 40 countries on 4 continents on my bicycle since then. I’ve been spending months at a time on the road, setting up home wherever I see fit, and meeting hundreds of other cycle travellers in the process. Rather than a quick lap of the planet and a pat on the back, this somehow became my full-time occupation; I have no fixed abode, although I have bases of sorts in England and Armenia.
+
+My blog today, as well as continuing to recount tales of adventure, is largely about exploring the broad potential of bicycle travel as a tool for making personal, meaningful journeys, and sharing what I discover in the hope of making bicycle travel accessible to all who dream of it.
+
+If you’re just such a dreamer, if you’re midway through planning a journey, or even if you’re a seasoned veteran of life on the road, there’s something here for you.
+
+Welcome to Bicycle Touring Pro, the world’s most popular how-to bicycle touring blog/website and information source – with more than 750,000+ people from all around the world visiting the site each and ever year! You’ve come to the right place if want to learn how to conduct your own guided, self-guided or self-supported bicycle touring adventures.
+
+Click here to get the free Bicycle Touring Pro email newsletter and join over 20,000+ other people who have already discovered my best tips, tricks and resources for conducting an incredible bicycle tour – close to home or anywhere in the world.
+
+Bicycle Touring Pro is here to help you remove all the guesswork, wasted time and frustration that plagues so many first-time bicycle travelers! Click here to see our list of the world’s best bike touring tools & resources.
+What is Bicycle Touring?
+
+“Bicycle touring” is the act of riding a bicycle for days, weeks, months or even years on end as you travel long distances across cities, states and countries. Thousands of people of all ages, incomes and demographics are traveling by bike… and you can be one of them!
+
+In fact, my goal here at Bicycle Touring Pro is to not only inspire you with my own bicycle touring adventures, but to teach YOU how to travel by bike, remain comfortable while out on the road and have fun along the way! In other words, Bicycle Touring Pro is here to give you the inspiration, confidence and resources you need, so that you too can conduct the bicycle tour of your dreams!
 
 
-ak
 
-
-aa
-
-
-kak
-
-
-ak
-
-
-ak
-
-
-aka
-
-
-k
-
-
-ak < br/>
-aak < br/>
-ak < br/>
-ak < br/>
-ak < br/>
-ak < br/>
-aak < br/>
-ka < br/>
-ak < br/>
-ak < br/>
-akak < br/>
-ak < br/>
-ak
-a
+Bicycle Touring Pro is the world’s most popular bicycle touring website. With a community of readers in almost every country across the globe, Bicycle Touring Pro is the leading international resource for cycle touring information across the globe. The information you'll find here has helped thousands of people plan, prepare for, and execute their very own bicycle touring adventures. 
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
