@@ -3,6 +3,8 @@ layout: default
 title:  "Statistieken"
 ---
 
+# Statistieken
+
 <i class="fa fa-cloud"></i>
 <i class="fa fa-heart"></i>
 <i class="fa fa-car"></i>
