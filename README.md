@@ -2,8 +2,6 @@
 
 A simple, responsive blog theme for the [Jekyll](http://jekyllrb.com) static site generator using [HTML5 UP's Strata](http://html5up.net/strata) design.
 
-![preview](preview.jpg)
-
 Browse the [demo](http://davidforster.com/strata-jekyll/).
 
 ## How to use
