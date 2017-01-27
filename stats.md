@@ -5,15 +5,15 @@ title:  "Statistieken"
 
 # Statistieken
 
-<i class="fa fa-cloud"></i>
+Voor de liefhebbers: een overzichtje van de voornaamste cijfers
+
+<i class="fa fa-globe"></i> Aantal landen doorkruist: 0
 <i class="fa fa-heart"></i>
 <i class="fa fa-car"></i>
 <i class="fa fa-file"></i>
 <i class="fa fa-bars"></i>
-kakk
 
 
-ak
 Total Stats
 TO 1/5/14	CYCLING (2008-14)	HIKING (NON-UK 2002-14)
 Number of days	618	467
