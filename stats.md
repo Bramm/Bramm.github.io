@@ -5,10 +5,9 @@ title:  "Statistieken"
 
 # Statistieken
 
-Fietstocht Europa
+### Fietstocht Europa
 
-* <i class="fa fa-road"></i> ### Aantal kilometer afgelegd: 
-#### 0
+* <i class="fa fa-road"></i> ### Aantal kilometer afgelegd: 0
 * <i class="fa fa-globe"></i> Aantal landen doorkruist: 0
 * <i class="fa fa-forward"></i> Aantal dagen onderweg: 0
 * <i class="fa fa-rocket"></i> Aantal meter gestegen: 0
