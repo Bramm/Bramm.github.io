@@ -18,3 +18,9 @@ title:  "Statistieken"
 * <i class="fa fa-cog"></i> Hoogste gemiddelde snelheid: 0 km/u (detail)
 * <i class="fa fa-cloud"></i> Laagste temperatuur: °C (detail)
 * <i class="fa fa-sun-o"></i> Hoogste temperatuur: °C (detail)
+
+<ul class="alt">
+						<li>Dolor pulvinar etiam magna etiam.</li>
+						<li>Sagittis adipiscing lorem eleifend.</li>
+						<li>Felis enim feugiat dolore viverra.</li>
+					</ul>
