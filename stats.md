@@ -10,9 +10,8 @@ title:  "Statistieken"
 * <i class="fa fa-road"></i> Aantal kilometer afgelegd: 0
 * <i class="fa fa-globe"></i> Aantal landen doorkruist: 0
 * <i class="fa fa-forward"></i> Aantal dagen onderweg: 0
-<ul class="alt">
-<li><i class="fa fa-rocket"></i>* Aantal meter gestegen: 0</li>
-</ul>
+* <i class="fa fa-rocket"></i>Aantal meter gestegen: 0</li>
+<hr />
 
 * <i class="fa fa-plus"></i> Langste tocht op één dag: 0 kilometer (detail)
 * <i class="fa fa-plus-circle"></i> Hoogste top: 0 meter (detail)
