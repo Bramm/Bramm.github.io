@@ -3,7 +3,7 @@ layout: default
 title:  "Over mezelf"
 ---
 
-## Bram
+## Bram (On-going)
 
 foto's toevoegen
    toevoegen aan mailinglijstform: "ik respecteer jullie privacy"
