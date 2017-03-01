@@ -5,7 +5,7 @@ title:  "Over mezelf"
 
 ## Bram (On-going)
 
-foto's toevoegen
+On-going gaat over onderweg zijn. Vooral - maar niet alleen - met de fiets. foto's toevoegen
    toevoegen aan mailinglijstform: "ik respecteer jullie privacy"
 Ik ben te volgen op deze kanalen:
 
