@@ -30,7 +30,7 @@ Jowan bevestigde hetgeen mijn anonieme internetvriend zei: een gravelbike is de 
 
 Binnen mijn budget bleven er 2 fietsen over: de Specialized Diverge en de Eddy Merckx Strasbourg 71. De Merckx-collectie van 2017 was net binnen, waardoor deze laatste bestempeld werd als “oude” collectie (merk op, we waren nog steeds november 2016). Maakt mij allemaal niet uit, als ze daardoor 30% van de prijs afdoen. 
 
-Long story short: ik ging naarh uis met de Strasbourg 71. Zei ik trouwens dat er plaats was voor een bagagerek? Zoals je op de foto kan zien, heb ik dat professioneel genegeerd. Ik heb geopteerd voor een "saddle pack" en een "handlebar pack", oftewel: een zak aan mijn zadel en een zak aan mijn stuur.
+Long story short: ik ging naar huis met de Strasbourg 71. Zei ik trouwens dat er plaats was voor een bagagerek? Zoals je op de foto kan zien, heb ik dat professioneel genegeerd. Ik heb geopteerd voor een "saddle pack" en een "handlebar pack", oftewel: een zak aan mijn zadel en een zak aan mijn stuur.
 
 <img src="https://bramm.github.io/images/posts/emstrasbourg.jpg" class="fit image">
 
