@@ -26,7 +26,7 @@ Om niet volledig weg te zinken in de overvloed aan informatie op het internet, b
 
 Daar aangekomen liet ik me eerst onderwerpen aan een bike fit - kwestie van deze keer met een volledig op maat gemaakte fiets de weg op te gaan.
 
-Jowan bevestigde hetgeen mijn anonieme internetvriend zei: een gravelbike is de perfecte combinatie voor hetgeen ik van plan was te ondernemen. Ik probeerde nog te protesteren, want ik had eerder al gegeild - ja, gegeild - op een Cannondale wegfiets. Of dat niet een optie was? Dat was het niet. Hoogstens mocht ik nog eens naar de crossfietsen (dat waar Sven Nys vaak op zit en niet z’n vrouw is) kijken, maar daar zat geen valabele optie bij.
+Jowan bevestigde hetgeen mijn anonieme internetvriend zei: een gravelbike is de perfecte combinatie voor hetgeen ik van plan was te ondernemen. Ik probeerde nog te protesteren, want ik had eerder al gegeild - ja, gegeild - op een Cannondale racefiets. Of dat niet een optie was? Dat was het niet. Hoogstens mocht ik nog eens naar de crossfietsen (dat waar Sven Nys vaak op zit en niet z’n vrouw is) kijken, maar daar zat geen valabele optie bij.
 
 Binnen mijn budget bleven er 2 fietsen over: de Specialized Diverge en de Eddy Merckx Strasbourg 71. De Merckx-collectie van 2017 was net binnen, waardoor deze laatste bestempeld werd als “oude” collectie (merk op, we waren nog steeds november 2016). Maakt mij allemaal niet uit, als ze daardoor 30% van de prijs afdoen. 
 
