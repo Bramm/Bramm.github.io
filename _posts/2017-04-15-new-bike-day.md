@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 title: New bike day
 excerpt: Zaterdag 5 november 2016. Ik was rustig op weg naar huis na een bezoek bij een vriend in Boutersem. Nu ja, rustig. Google Maps - mijn aloude vriend - besloot, naar goede gewoonte als ik ten zuiden van Leuven fiets, me recht door de bossen te sturen. Met één voet uit het klikpedaal en aan het tempo van een auto op de Brusselse ring op een weekdag baande ik me een weg door het Leuvense hinterland. Waarom geen andere route zoeken, Bram? Omdat ik weiger rechtsomkeer te maken, daarom. Daarbij, met een racefiets een mountainbikeparcours volgen leek me een leuke afwisseling, neen? Neen.
