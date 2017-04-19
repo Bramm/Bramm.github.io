@@ -34,4 +34,4 @@ Long story short: ik ging naar huis met de Strasbourg 71. Zei ik trouwens dat er
 
 <img src="https://bramm.github.io/images/posts/emstrasbourg.jpg" class="fit image">
 
-tl;dr: My road bike broke down while driving on cobblestones, so I bought a gravelbike instead. Also, you missed a hilarious joke about Sven Nys. Make sure you ask me about it when I'm back. It's worth it.
+tl;dr: My road bike broke down while riding on cobblestones, so I bought a gravelbike instead. Also, you missed a hilarious joke about Sven Nys. Make sure you ask me about it when I'm back. It's worth it.
