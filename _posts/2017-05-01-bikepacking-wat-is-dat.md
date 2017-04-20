@@ -10,6 +10,7 @@ excerpt: ADAPT (FIRST PARAGRAPH)
 Bikepacken is backpacken met een fiets.
 
 ## In 't lang
+
 Goed nieuws, ik had nu een excuus om een nieuwe fiets te kopen. Eentje om nadien mijn toer door Europa mee aan te vangen. Spijtig genoeg verdronk ik meteen in de hoeveelheid informatie die op het net te vinden is. Ik leerde heel wat bij over fietsen in het algemeen, maar ik had geen idee met wat voor fiets ik nu best af was. Ik wilde er namelijk zowel pakweg de Ronde van Vlaanderen mee kunnen uitrijden - aan een degelijk tempo liefst - als grindpaadjes in Kroatië mee kunnen bedwingen. Had ik twee fietsen nodig?
 
 Een anonieme internetter raadde me een gravelbike aan, een soort combinatie tussen een racefiets en een mountainbike, gemaakt om snel mee te rijden op geplaveide wegen en om vlot door grindpaadjes en, jawel, holle wegen te manoeuvreren. De verschillen met een racefiets:
