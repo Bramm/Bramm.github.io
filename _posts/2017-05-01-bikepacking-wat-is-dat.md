@@ -35,4 +35,4 @@ Voor meer informatie kan je terecht op [bikepacking.com](http://www.bikepacking.
 
 <img src="https://bramm.github.io/images/posts/bping.jpg" class="fit image">
 
-tl;dr: My road bike broke down while driving on cobblestones, so I bought a gravelbike instead. Also, you missed a hilarious joke about Sven Nys. Make sure you ask me about it when I'm back. It's worth it.
+tl;dr: Bikepacking is backpacking with a bike.
