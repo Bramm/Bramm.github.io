@@ -52,5 +52,4 @@ Long story short: ik ging naar huis met de Strasbourg 71. Zei ik trouwens dat er
 <a href="{{ site.github.url }}/images/posts/MS7.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS7_small.jpg" alt="Merckx Strasbourg 71" /></a>
 </article>
 </div>
-
 tl;dr: My road bike broke down while riding on cobblestones, so I bought a gravelbike instead. Also, you missed a hilarious joke about Sven Nys. Make sure you ask me about it when I'm back. It's worth it.
