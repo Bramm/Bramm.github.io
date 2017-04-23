@@ -35,33 +35,18 @@ Long story short: ik ging naar huis met de Strasbourg 71. Zei ik trouwens dat er
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
 <a href="{{ site.github.url }}/images/posts/MS1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS1.jpg" alt="Merckx Strasbourg" /></a>
-<h3>De Strasbourg 71 zonder meer.</h3>
 </article>
-			<article class="6u$ 12u$(xsmall) work-item">
-				<a href="{{ site.github.url }}/images/fulls/02.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/thumbs/02.jpg" alt="" /></a>
-				<h3>Ultricies lacinia interdum</h3>
-				<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
-			</article>
-			<article class="6u 12u$(xsmall) work-item">
-				<a href="{{ site.github.url }}/images/fulls/03.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/thumbs/03.jpg" alt="" /></a>
-				<h3>Tortor metus commodo</h3>
-				<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
-			</article>
-			<article class="6u$ 12u$(xsmall) work-item">
-				<a href="{{ site.github.url }}/images/fulls/04.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/thumbs/04.jpg" alt="" /></a>
-				<h3>Quam neque phasellus</h3>
-				<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
-			</article>
-			<article class="6u 12u$(xsmall) work-item">
-				<a href="{{ site.github.url }}/images/fulls/05.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/thumbs/05.jpg" alt="" /></a>
-				<h3>Nunc enim commodo aliquet</h3>
-				<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
-			</article>
-			<article class="6u$ 12u$(xsmall) work-item">
-				<a href="{{ site.github.url }}/images/fulls/06.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/thumbs/06.jpg" alt="" /></a>
-				<h3>Risus ornare lacinia</h3>
-				<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
-			</article>
-		</div>
+<article class="6u 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/MS2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS2.jpg" alt="Merckx Strasbourg" /></a>
+<article class="6u 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/MS1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS1.jpg" alt="Merckx Strasbourg" /></a>
+</article>
+<article class="6u 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/MS1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS1.jpg" alt="Merckx Strasbourg" /></a>
+</article>
+<article class="6u 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/MS1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS1.jpg" alt="Merckx Strasbourg" /></a>
+</article>
+</div>
 
 tl;dr: My road bike broke down while riding on cobblestones, so I bought a gravelbike instead. Also, you missed a hilarious joke about Sven Nys. Make sure you ask me about it when I'm back. It's worth it.
