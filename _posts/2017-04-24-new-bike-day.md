@@ -34,22 +34,22 @@ Long story short: ik ging naar huis met de Strasbourg 71. Zei ik trouwens dat er
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/MS1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS1_tn.jpg" alt="Merckx Strasbourg 71" /></a>
+<a href="{{ site.github.url }}/images/posts/MS1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS1_small.jpg" alt="Merckx Strasbourg 71" /></a>
 </article>
 <article class="6u$ 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/MS6.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS6_tn.jpg" alt="Merckx Strasbourg 71" /></a>
+<a href="{{ site.github.url }}/images/posts/MS6.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS6_small.jpg" alt="Merckx Strasbourg 71" /></a>
 </article>
 <article class="6u 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/MS2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS2_tn.jpg" alt="Merckx Strasbourg 71" /></a>
+<a href="{{ site.github.url }}/images/posts/MS2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS2_small.jpg" alt="Merckx Strasbourg 71" /></a>
 </article>
 <article class="6u$ 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/MS3.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS3_tn.jpg" alt="Merckx Strasbourg 71" /></a>
+<a href="{{ site.github.url }}/images/posts/MS3.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS3_small.jpg" alt="Merckx Strasbourg 71" /></a>
 </article>
 <article class="6u 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/MS4.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS4_tn.jpg" alt="Merckx Strasbourg 71" /></a>
+<a href="{{ site.github.url }}/images/posts/MS4.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS4_small.jpg" alt="Merckx Strasbourg 71" /></a>
 </article>
 <article class="6u$ 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/MS7.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS7_tn.jpg" alt="Merckx Strasbourg 71" /></a>
+<a href="{{ site.github.url }}/images/posts/MS7.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS7_small.jpg" alt="Merckx Strasbourg 71" /></a>
 </article>
 </div>
 
