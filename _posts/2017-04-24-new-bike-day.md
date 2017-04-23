@@ -30,22 +30,18 @@ Jowan bevestigde hetgeen mijn anonieme internetvriend zei: een gravelbike is de 
 
 Binnen mijn budget bleven er 2 fietsen over: de Specialized Diverge en de Eddy Merckx Strasbourg 71. De Merckx-collectie van 2017 was net binnen, waardoor deze laatste bestempeld werd als “oude” collectie (merk op, we waren nog steeds november 2016). Maakt mij allemaal niet uit, als ze daardoor 30% van de prijs afdoen. 
 
-Long story short: ik ging naar huis met de Strasbourg 71. Zei ik trouwens dat er plaats was voor een bagagerek? Zoals je op de foto kan zien, heb ik dat professioneel genegeerd. Ik heb geopteerd voor een "saddle pack" en een "handlebar pack", oftewel: een zak aan mijn zadel en een zak aan mijn stuur.
+Long story short: ik ging naar huis met de Strasbourg 71. Zei ik trouwens dat er plaats was voor een bagagerek? Zoals je op de laatste foto kan zien, heb ik dat professioneel genegeerd. Ik heb geopteerd voor een "saddle pack" en een "handlebar pack", oftewel: een zak aan mijn zadel en een zak aan mijn stuur.
 
 <div class="row">
-			<article class="6u 12u$(xsmall) work-item">
-				<a href="{{ site.github.url }}/images/posts/MS1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS1.jpg" alt="Merckx Strasbourg 71" /></a>
-			</article>
-			<article class="6u$ 12u$(xsmall) work-item">
-				<a href="{{ site.github.url }}/images/posts/MS2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS2.jpg" alt="Merckx Strasbourg 71" /></a>
-				<h3>Ultricies lacinia interdum</h3>
-				<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
-			</article>
-			<article class="6u 12u$(xsmall) work-item">
-				<a href="{{ site.github.url }}/images/fulls/03.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/thumbs/03.jpg" alt="" /></a>
-				<h3>Tortor metus commodo</h3>
-				<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
-			</article>
+<article class="6u 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/MS1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS1.jpg" alt="Merckx Strasbourg 71" /></a>
+</article>
+<article class="6u$ 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/MS6.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS6.jpg" alt="Merckx Strasbourg 71" /></a>
+</article>
+<article class="6u 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/MS2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/MS2.jpg" alt="Merckx Strasbourg 71" /></a>
+</article>
 			<article class="6u$ 12u$(xsmall) work-item">
 				<a href="{{ site.github.url }}/images/fulls/04.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/thumbs/04.jpg" alt="" /></a>
 				<h3>Quam neque phasellus</h3>
