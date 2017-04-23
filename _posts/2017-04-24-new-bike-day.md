@@ -34,10 +34,9 @@ Long story short: ik ging naar huis met de Strasbourg 71. Zei ik trouwens dat er
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/fulls/01.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/thumbs/01.jpg" alt="" /></a>
-				<h3>Magna sed consequat tempus</h3>
-				<p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
-			</article>
+<a href="Bramm.github.io/images/posts/MS1.jpg" class="image fit thumb"><img src="Bramm.github.io/images/posts/MS1.jpg" alt="Merckx Strasbourg" /></a>
+<h3>De Strasbourg 71 zonder meer.</h3>
+</article>
 			<article class="6u$ 12u$(xsmall) work-item">
 				<a href="{{ site.github.url }}/images/fulls/02.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/thumbs/02.jpg" alt="" /></a>
 				<h3>Ultricies lacinia interdum</h3>
