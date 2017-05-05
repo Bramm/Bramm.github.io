@@ -2,17 +2,18 @@
 published: false
 layout: post
 title: Ik ga op reis en ik neem mee
-excerpt: Zaterdag 5 november 2016. Ik was rustig op weg naar huis na een bezoek bij een vriend in Boutersem. Nu ja, rustig. Google Maps - mijn aloude vriend - besloot, naar goede gewoonte als ik ten zuiden van Leuven fiets, me recht door de bossen te sturen. Met één voet uit het klikpedaal en aan het tempo van een auto op de Brusselse ring op een weekdag baande ik me een weg door het Leuvense hinterland. Waarom geen andere route zoeken, Bram? Omdat ik weiger rechtsomkeer te maken, daarom. Daarbij, met een racefiets een mountainbikeparcours volgen leek me een leuke afwisseling, neen? Neen.
+excerpt: Persoonlijk vind ik
 ---
 
-## Vallen
-Zaterdag 5 november 2016. Ik was rustig op weg naar huis na een bezoek bij een vriend in Boutersem. Nu ja, rustig. Google Maps - mijn aloude vriend - besloot, naar goede gewoonte als ik ten zuiden van Leuven fiets, me recht door de bossen te sturen. Met één voet uit het klikpedaal en aan het tempo van een auto op de Brusselse ring op een weekdag baande ik me een weg door het Leuvense hinterland. Waarom geen andere route zoeken, Bram? Omdat ik weiger rechtsomkeer te maken, daarom. Daarbij, met een racefiets een mountainbikeparcours volgen leek me een leuke afwisseling, neen? Neen.
+## Niet veel
+Nog niet zo heel heel heel lang geleden (van je joebadoebadoe...) las ik voor het eerst over "bikepacking", oftewel het rondtrekken met de fiets als enige hulpmiddel. 
+
 
 Ik passeerde vlot Vertrijk, Bierbeek, Vaalbeek, Oud-Heverlee en Leefdaal en was op weg naar Moorsel waar ik - alsof de holle weg die ik net doorgereden was nog niet genoeg was - een kasseiweg opgestuurd werd. Ik haat kasseien. Soms twijfel ik of ik niet beter fietser in plaats van voetballer was geworden in mijn jeugdjaren. Dan denk aan de talrijke kasseistroken in België en berg ik die "droom" gauw weer op.
 
 Maar goed, ik hobbel - ik zou hier graag “vlotjes” schrijven, maar dat is het nooit - over de kasseien tot ik plots iets hoor breken. Ik klik razendsnel uit mijn pedaal, maar het was al te laat. Mijn derailleur was afgebroken en in mijn achterwiel geslagen. Vallen was de enige optie, gelukkig zonder enige lichamelijke schade. Exit eerste racefiets.
 
-## En weer opstaan
+## Wel veel
 Goed nieuws, ik had nu een excuus om een nieuwe fiets te kopen. Eentje om nadien mijn toer door Europa mee aan te vangen. Spijtig genoeg verdronk ik meteen in de hoeveelheid informatie die op het net te vinden is. Ik leerde heel wat bij over fietsen in het algemeen, maar ik had geen idee met wat voor fiets ik nu best af was. Ik wilde er namelijk zowel pakweg de Ronde van Vlaanderen mee kunnen uitrijden - aan een degelijk tempo liefst - als grindpaadjes in Kroatië mee kunnen bedwingen. Had ik twee fietsen nodig?
 
 Een anonieme internetter raadde me een gravelbike aan, een soort combinatie tussen een racefiets en een mountainbike, gemaakt om snel mee te rijden op geplaveide wegen en om vlot door grindpaadjes en, jawel, holle wegen te manoeuvreren. De verschillen met een racefiets:
