@@ -1,6 +1,9 @@
 ---
 published: true
 title: I come from Boortmeerbeek
+excerpt: De wekker ging niet want ik was al wakker. Vol goede moed stond ik op om me klaar te maken voor het vertrek. 
+
+Ik haalde de fietscomputer uit zijn lader om vast te stellen dat die op geen enkel commando meer reageerde. “Mooi begin,” mompelde ik voor mezelf uit. Dan maar even mijn fiets controleren. Die leek gelukkig volledig in orde. Of toch nog even de banden oppompen voor de zekerheid. Ventiel losdraaien, oppompen, ventiel vastdraaien, lucht horen ontsnappen. (Weet er trouwens iemand waarom rozijnen altijd boven komen te liggen in een zakje noten? Ik ben al vijf minuten rozijnen aan het eten en besef nu pas dat er ook hazelnoten in zitten.) Soit. Ik moest dus een nieuwe binnenband steken maar besloot eerst nog even naar de andere band te kijken. Ventiel losdraaien, ventiel de tuin in zien schieten, band horen afgaan. Dat wordt zonder reservebanden vertrekken. 
 ---
 
 ## Vallen
