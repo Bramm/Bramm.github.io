@@ -43,5 +43,5 @@ Velosoof"](https://joeriwannijn.wordpress.com/ "Joeri Wannijn - Life is a cycle.
 </div>
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/d/embed?mid=11AqZciJIBKG_o8ryk4LLnR8Zh5Y' width='640' height='480'></iframe></div>
-
+<br>
 tl;dr: My road bike broke down while riding on cobblestones, so I bought a gravelbike instead. Also, you missed a hilarious joke about Sven Nys. Make sure you ask me about it when I'm back. It's worth it.
