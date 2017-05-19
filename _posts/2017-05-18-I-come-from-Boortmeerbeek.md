@@ -21,11 +21,7 @@ Ik moest nu nog ontbijten, douchen, inpakken, nieuwe binnenbanden steken, de fie
 
 - De fietscomputer: net voor ik de hoop opgaf, merkte ik dat er een software-update beschikbaar was voor mijn model. Tegen alle verwachtingen in, herkende mijn computer het nog steeds niet reagerende toestel en kon ik de update uitvoeren. CPR voor computers heet dat, want even later werkte alles perfect.
 
-Door die meevallende tegenvallers had ik zelfs nog tijd om afscheid te nemen van mijn ouders, zussen en nichtjes.
-
-Plots besefte ik hoe graag ik hen zag. 
-
-Ik had de grootste moeite met de paradox tussen het avontuurlijke vooruitzicht en hetgeen ik achter mij liet toen ik de straat uit reed.
+Door die meevallende tegenvallers had ik zelfs nog tijd om afscheid te nemen van mijn ouders, zussen en nichtjes. Plots besefte ik hoe graag ik hen zag. Ik had de grootste moeite met de paradox tussen het avontuurlijke vooruitzicht en hetgeen ik achter mij liet toen ik de straat uit reed...
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
@@ -35,7 +31,6 @@ Ik had de grootste moeite met de paradox tussen het avontuurlijke vooruitzicht e
 <a href="{{ site.github.url }}/images/posts/Goodbye2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Goodbye2.jpg" alt="Afscheid Boortmeerbeek" /></a>
 </article>
 </div>
-
 ## Vertrekken
 
 De proloog naar Brussel begon.
