@@ -34,13 +34,13 @@ Door die meevallende tegenvallers had ik zelfs nog tijd om afscheid te nemen van
 
 ## Vertrekken
 
-De proloog naar Brussel begon.
+De [proloog naar Brussel](https://www.strava.com/activities/984634440) begon.
 
-Toen ik net Kampenhout voorbij was, kwamen drie wielertoeristen langs me rijden. De eerste vertraagde, keek naar mijn volgeladen fiets en vroeg: “Van waar kom je?”. Mijn antwoord liet even op zich wachten waardoor hij meteen volgde met: “Where are you from?”. Dit keer kon ik wel tijdig antwoorden. “I come from Boortmeerbeek,” zei ik. Zij kwamen van omgeving Haacht. Kleine wereld.
+Toen ik Kampenhout net voorbij was, kwamen drie wielertoeristen langs me rijden. De eerste vertraagde, keek naar mijn volgeladen fiets en vroeg: “Van waar kom je?”. Mijn antwoord liet even op zich wachten waardoor hij dit meteen opvolgde met: “Where are you from?”. Dit keer kon ik wel tijdig antwoorden. “I come from Boortmeerbeek,” zei ik. Zij kwamen van omgeving Haacht. Kleine wereld.
 
-Dan kwam het tweede afscheid. Enkele vrienden stonden me op te wachten in het Jubelpark (uiteraard, want ik was te laat). Daar dronken we nog een glaasje in de stralende zon, waarna ik samen met een vriend vertrok naar Namen om daar te slapen aan de steile rotswanden waar de Samber in de Maas vloeit. 
+Dan kwam het tweede afscheid. Een aantal vrienden stonden me op te wachten in het Jubelpark (uiteraard was ik te laat). Daar dronken we nog een glaasje in de stralende zon, waarna ik samen met een vriend vertrok naar [Namen](https://www.strava.com/activities/984643666) via [Gembloux](https://www.strava.com/activities/984875654) om daar de nacht door te brengen aan de steile rotswanden waar de Samber in de Maas vloeit. 
 
-De volgende dag gingen we samen nog iets drinken, waarna ik een derde maal afscheid moest nemen. Deze keer stond ik er alleen voor. Ik liet alles nog even bezinken op het terras waar we zaten en vertrok. Neen, sorry. Er zat een koppel op het terras dat meteen geboeid was door mijn uitrusting. De man was namelijk van plan zelf eens zo'n tocht te ondernemen. Ik antwoordde dus in mijn beste Frans (terwijl zij de vragen in hun beste Nederlands stelden), en dán liet ik allen bezinken en vertrok.
+De volgende dag dronken we samen nog iets, waarna ik een derde maal afscheid moest nemen. Deze keer stond ik er nadien alleen voor. Ik liet alles nog even bezinken op het terras waar we zaten en vertrok. Wacht, neen. Op hetzelfde terras zat een koppel dat meteen geboeid was door mijn uitrusting. Ze waren nameljk zelf van plan een zo'n tocht te ondernemen. Ik antwoordde op hun vragen in mijn beste Frans (toen wist ik nog niet wat hangmat in het Frans was), terwijl zij vraag na vraag in hun beste Nederlands stelden. Pas daarna liet ik alles bezinken en vertrok.
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
@@ -57,9 +57,7 @@ De volgende dag gingen we samen nog iets drinken, waarna ik een derde maal afsch
 </article>
 </div>
 
-Hieronder vind je de weg die ik tot nu toe heb afgelegd. Dit zal continu bijgewerkt worden.
-
-Oh ja, weet er ten slotte iemand waarom rozijnen altijd boven komen te liggen in een zakje noten? Ik ben al vijf minuten rozijnen aan het eten en besef nu pas dat er ook hazelnoten in zitten.
+Op de kaart hieronder vind je trouwens de weg die ik tot nu toe heb afgelegd. Deze zal continu bijgewerkt worden (of toch voor zover ik internet en electriciteit blijf vinden).
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/d/embed?mid=11AqZciJIBKG_o8ryk4LLnR8Zh5Y' width='640' height='480'></iframe></div>
 <br>
