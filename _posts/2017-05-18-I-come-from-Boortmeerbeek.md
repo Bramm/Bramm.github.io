@@ -31,19 +31,16 @@ Door die meevallende tegenvallers had ik zelfs nog tijd om afscheid te nemen van
 <a href="{{ site.github.url }}/images/posts/Goodbye2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Goodbye2.jpg" alt="Afscheid Boortmeerbeek" /></a>
 </article>
 </div>
+
 ## Vertrekken
 
 De proloog naar Brussel begon.
 
-Toen ik net Kampenhout voorbij was, kwamen drie wielertoeristen langs me rijden. De eerste vertraagde, keek naar mijn volgeladen fiets en vroeg: “Van waar kom je?”. Mijn antwoord liet even op zich wachten waardoor hij meteen volgde met: “Where are you from?”. Dit keer kon ik wel tijdig antwoorden. “I come from Boortmeerbeek,” zei ik. Zij kwamen van omgeving Haacht. Kleine wereld. (Weet er trouwens iemand waarom rozijnen altijd boven komen te liggen in een zakje noten? Ik ben al vijf minuten rozijnen aan het eten en besef nu pas dat er ook hazelnoten in zitten.)
+Toen ik net Kampenhout voorbij was, kwamen drie wielertoeristen langs me rijden. De eerste vertraagde, keek naar mijn volgeladen fiets en vroeg: “Van waar kom je?”. Mijn antwoord liet even op zich wachten waardoor hij meteen volgde met: “Where are you from?”. Dit keer kon ik wel tijdig antwoorden. “I come from Boortmeerbeek,” zei ik. Zij kwamen van omgeving Haacht. Kleine wereld.
 
-Dan kwam het tweede afscheid. Enkele vrienden stonden met op te wachten in het Jubelpark (uiteraard, want ik was te laat). Daar dronken we nog een glaasje in de stralende zon, waarna ik samen met een vriend vertrok naar Namen om daar te slapen aan de steile rotswanden waar de Samber in de Maas vloeit. 
+Dan kwam het tweede afscheid. Enkele vrienden stonden me op te wachten in het Jubelpark (uiteraard, want ik was te laat). Daar dronken we nog een glaasje in de stralende zon, waarna ik samen met een vriend vertrok naar Namen om daar te slapen aan de steile rotswanden waar de Samber in de Maas vloeit. 
 
-
-Dan kwam het tweede afscheid. Ik had met enkele vrienden afgesproken in het Jubelpark om daar 
-Afscheid jubelpark (foto). Flesje Cava. Met Joep naar Namen om langs de kliffen te gaan slapen. Stop in Gembloux waar we lekker veel hebben rondgereden zonder iets te vinden om dat maar te ‘settlen’ voor frietjes (ik was vergeten dat ik nog 3 dagen in België zat, dus toch nog iets minder lang zonder goede frieten, papa). Toen waren we de klimmetjes kotsbeu en wilden we toch nog voor de donker Namen halen, dus hebben we de steenweg genomen (het valt lichtjes op op Strava).
-
-Afscheid Joep. Man op terras met vragen.
+De volgende dag gingen we samen nog iets drinken, waarna ik een derde maal afscheid moest nemen. Deze keer stond ik er alleen voor. Ik liet alles nog even bezinken op het terras waar we zaten en vertrok. Neen, sorry. Er zat een koppel op het terras dat meteen geboeid was door mijn uitrusting. De man was namelijk van plan zelf eens zo'n tocht te ondernemen. Ik antwoordde dus in mijn beste Frans (terwijl zij de vragen in hun beste Nederlands stelden), en dán liet ik allen bezinken en vertrok.
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
@@ -59,6 +56,10 @@ Afscheid Joep. Man op terras met vragen.
 <a href="{{ site.github.url }}/images/posts/Namur2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Namur2_Small.jpg" alt="Namen" /></a>
 </article>
 </div>
+
+Hieronder vind je de weg die ik tot nu toe heb afgelegd.
+
+Oh ja, weet er ten slotte iemand waarom rozijnen altijd boven komen te liggen in een zakje noten? Ik ben al vijf minuten rozijnen aan het eten en besef nu pas dat er ook hazelnoten in zitten.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/d/embed?mid=11AqZciJIBKG_o8ryk4LLnR8Zh5Y' width='640' height='480'></iframe></div>
 <br>
