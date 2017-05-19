@@ -53,7 +53,7 @@ De volgende dag gingen we samen nog iets drinken, waarna ik een derde maal afsch
 </article>
 </div>
 
-Hieronder vind je de weg die ik tot nu toe heb afgelegd.
+Hieronder vind je de weg die ik tot nu toe heb afgelegd. Dit zal continu bijgewerkt worden.
 
 Oh ja, weet er ten slotte iemand waarom rozijnen altijd boven komen te liggen in een zakje noten? Ik ben al vijf minuten rozijnen aan het eten en besef nu pas dat er ook hazelnoten in zitten.
 
