@@ -53,7 +53,7 @@ Afscheid Joep. Man op terras met vragen.
 <a href="{{ site.github.url }}/images/posts/Goodbye4.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Goodbye4.jpg" alt="Afscheid Brussel" /></a>
 </article>
 <article class="6u 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/Namur1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Namur1_Small.jpg" alt="Namen" /></a>
+<a href="{{ site.github.url }}/images/posts/BrusselsNamur1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/BrusselsNamur1_Small.jpg" alt="Brussel - Namen" /></a>
 </article>
 <article class="6u$ 12u$(xsmall) work-item">
 <a href="{{ site.github.url }}/images/posts/Namur2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Namur2_Small.jpg" alt="Namen" /></a>
