@@ -40,8 +40,6 @@ Toen ik Kampenhout net voorbij was, kwamen drie wielertoeristen langs me rijden.
 
 Dan kwam het tweede afscheid. Een aantal vrienden stonden me op te wachten in het Jubelpark (uiteraard was ik te laat). Daar dronken we nog een glaasje in de stralende zon, waarna ik samen met een vriend vertrok naar [Namen](https://www.strava.com/activities/984643666) via [Gembloux](https://www.strava.com/activities/984875654) om daar de nacht door te brengen aan de steile rotswanden waar de Samber in de Maas vloeit. 
 
-De volgende dag dronken we samen nog iets, waarna ik een derde maal afscheid moest nemen. Deze keer stond ik er nadien alleen voor. Ik liet alles nog even bezinken op het terras waar we zaten en vertrok. Wacht, neen. Op hetzelfde terras zat een koppel dat meteen geboeid was door mijn uitrusting. Ze waren nameljk zelf van plan een zo'n tocht te ondernemen. Ik antwoordde op hun vragen in mijn beste Frans (toen wist ik nog niet wat hangmat in het Frans was), terwijl zij vraag na vraag in hun beste Nederlands stelden. Pas daarna liet ik alles bezinken en vertrok.
-
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
 <a href="{{ site.github.url }}/images/posts/Goodbye3.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Goodbye3_Small.jpg" alt="Afscheid Brussel" /></a>
@@ -57,7 +55,9 @@ De volgende dag dronken we samen nog iets, waarna ik een derde maal afscheid moe
 </article>
 </div>
 
-Op de kaart hieronder vind je trouwens de weg die ik tot nu toe heb afgelegd. Deze zal continu bijgewerkt worden (of toch voor zover ik internet en electriciteit blijf vinden).
+De volgende dag dronken we samen nog iets, waarna ik een derde maal afscheid moest nemen. Deze keer stond ik er nadien alleen voor. Ik liet alles nog even bezinken op het terras waar we zaten en vertrok. Wacht, neen. Op hetzelfde terras zat een koppel dat meteen geboeid was door mijn uitrusting. Ze waren nameljk zelf van plan een zo'n tocht te ondernemen. Ik antwoordde op hun vragen in mijn beste Frans (toen wist ik nog niet wat hangmat in het Frans was), terwijl zij vraag na vraag in hun beste Nederlands stelden. Pas daarna liet ik alles bezinken en vertrok.
+
+Op de kaart hieronder vind je de weg die ik tot nu toe heb afgelegd. Deze zal continu bijgewerkt worden (of toch voor zover ik internet en electriciteit blijf vinden).
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/d/embed?mid=11AqZciJIBKG_o8ryk4LLnR8Zh5Y' width='640' height='480'></iframe></div>
 <br>
