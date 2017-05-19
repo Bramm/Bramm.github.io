@@ -11,13 +11,17 @@ De wekker ging niet want ik was al wakker. Vol goede moed stond ik op om me klaa
 
 Ik moest nu nog ontbijten, douchen, inpakken, nieuwe binnenbanden steken, de fietscomputer herstellen en afscheid nemen van mijn familie om vervolgens tijdig in Brussel te raken waar een aantal vrienden op me zouden wachten. Dat ging als volgt:
 
-- Ontbijten: zo veel mogelijk eten om zo weinig mogelijk in te moeten pakken. Vlak voor ik de fiets opstapte, speelde ik nog snel drie eieren naar binnen.
-- Douchen: hoewel dit mogelijk de laatste warme douche zou zijn tot ik een week later in Straatsburg zou aankomen, beperkte die zich tot een veredeld kattenwasje. 
-- Inpakken: ik had reeds op voorhand afgemeten waar elk ding zou komen. Wat ik vergeten was: eten. Hiervoor was minder plaats dan gedacht en bovendien zou ik het allemaal op mijn rug moeten dragen. Vandaar dus die drie eieren van hierboven.
-- Nieuwe binnenbanden: de ene stopte met sissen zodra ik het ventiel onder een andere hoek toe draaide (blijkbaar kan dat), terwijl ik het onderdeel van de andere band twintig meter verder terug vond en er opnieuw kon indraaien. Vanaf nu zou ik op een tikkende tijdbom rijden, want erg stabiel zag het resultaat er niet uit. Ik kon wel op pad mét twee reservebanden!
-- De fietscomputer: net voor ik de hoop opgaf, merkte ik dat er een software-update beschikbaar was voor mijn model. Tegen alle verwachtingen in, herkende mijn computer het nog steeds niet reagerende toestel en kon ik de update uitvoeren. CPR voor computers heet dat, want even later werkte alles perfect.
+- Ontbijten. Zo veel mogelijk eten om zo weinig mogelijk in te moeten pakken. Vlak voor ik de fiets opstapte, speelde ik nog snel drie eieren naar binnen.
 
-Door die meevallende tegenvallers had ik zelfs nog tijd om afscheid te nemen van mijn ouders, zussen en nichtjes. Plots besefte ik hoe graag ik hen zag. Ik had de grootste moeite met de paradox tussen het avontuurlijke vooruitzicht en hetgeen ik achter mij liet toen ik de straat uit reed...
+- Douchen. Hoewel dit mogelijk de laatste warme douche zou zijn tot ik een week later in Straatsburg zou aankomen, beperkte die zich tot een veredeld kattenwasje. Ik begon me af te vragen of ik niet beter een dagje later was vertrokken.
+
+- Inpakken. Ik had alles op voorhand [minutieus afgemeten](http://on-going.org/equipment). Wat ik vergeten was: eten. Hiervoor bleef minder plaats over dan gedacht. Bovendien zou ik het allemaal op mijn rug moeten dragen. Ik liet de helft van een brood achter en verving het door de drie eieren van hierboven.
+
+- Nieuwe binnenbanden. De ene stopte gelukkig met sissen zodra ik het ventiel onder een andere hoek toe draaide (blijkbaar kan dat), terwijl ik het onderdeel van de andere twintig meter verder terugvond en er opnieuw kon indraaien. Vanaf nu zou ik op een tikkende tijdbom rijden, want erg stabiel zag het resultaat er niet uit maar ik kon wel op pad mét twee reservebanden!
+
+- De fietscomputer. Net voor ik alle hoop opgaf, merkte ik dat er een software-update beschikbaar was voor mijn model. Tegen alle verwachtingen in herkende mijn computer het nog steeds niet reagerende apparaat en kon ik de update uitvoeren. CPR voor computers heet dat, want even later werkte alles perfect.
+
+Door die meevallende tegenvallers had ik zelfs nog tijd om afscheid te nemen van mijn ouders, zussen en nichtjes. Eenmaal vertrekkensklaar besefte ik plots hoe graag ik hen zag. Ik had de grootste moeite met de paradox tussen het avontuurlijke vooruitzicht en hetgeen ik achter mij liet toen ik de straat uit reed...
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
