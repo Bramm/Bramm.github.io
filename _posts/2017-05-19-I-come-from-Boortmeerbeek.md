@@ -54,7 +54,6 @@ Dan kwam het tweede afscheid. Een aantal vrienden stonden me op te wachten in he
 <a href="{{ site.github.url }}/images/posts/Namur2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Namur2_Small.jpg" alt="Namen" /></a>
 </article>
 </div>
-
 De volgende dag dronken we samen nog iets, waarna ik een derde maal afscheid moest nemen. Deze keer stond ik er nadien alleen voor. Ik liet alles nog even bezinken op het terras waar we zaten en vertrok. Wacht, neen. Op hetzelfde terras zat een koppel dat meteen geboeid was door mijn uitrusting. Ze waren nameljk zelf van plan een zo'n tocht te ondernemen. Ik antwoordde op hun vragen in mijn beste Frans (toen wist ik nog niet wat hangmat in het Frans was), terwijl zij vraag na vraag in hun beste Nederlands stelden. Pas daarna liet ik alles bezinken en vertrok.
 
 Op de kaart hieronder vind je de weg die ik tot nu toe heb afgelegd. Deze zal continu bijgewerkt worden (of toch voor zover ik internet en electriciteit blijf vinden).
