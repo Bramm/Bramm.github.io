@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Takeshi Yasutoko
 excerpt: Na de relatief korte pauze in Schengen en het verloren rijden in Frankrijk, zette ik mijn tocht verder richting Rehlingen-Siersburg. Ik was blij dat ik na een tijdje opnieuw in Duitsland kon fietsen. Om eerlijk te zijn, het stuk Frankrijk van Apach tot Launstroff kon me gestolen worden. Volgens mij waren de Duitsers er niet rouwig om dit stuk land af te geven na de oorlog (derde bericht en ik betrek de oorlog al, sorry). Vanaf hier zou ik ettelijk uren langs de Saar doorbrengen.
