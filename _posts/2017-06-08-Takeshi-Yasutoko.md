@@ -12,59 +12,63 @@ Na de relatief korte pauze in Schengen en het verloren rijden in Frankrijk, zett
 
 ## Regen in Mittersheim
 
+Bekomen van de wilde avonturen in rehlingen-Siersburg deed ik in een [leuk restaurant](http://www.cafeknorke.de/) in Saarbrücken, waar ik een volledige vegetarisch maaltijd voor 4 euro voorgeschoteld kreeg.
 
-Na het laatste afscheid trok ik de Ardennen in om die dag te eindigen in Humain, een deelgemeente van Marche-en-Famenne die net in de provincie Luxemburg ligt. Zoals gepland, volgde ik het Eurovelo fietsroutenetwerk - in dit geval de [Eurovelo 5](http://www.eurovelo.com/en/eurovelos/eurovelo-5) route (die ik inmiddels tot in Pavia gevolgd heb) - en stelde ik vast dat de route in Wallonië gelijk liep met de [Rando Vélo 6](http://www.groteroutepaden.be/nl/route/860/rando-velo-6-picardie-ardennes.html) route. Deze route had absoluut geen medelijden met bikepackers. Dat, of ik ken de Ardennen niet (meer). Het leek alsof ik elke mogelijke helling op (en gelukkig ook weer af) moest. En dat in de blakende zon. De volgende dag, toen de route me langs Bastogne tot aan de Luxemburgse grens - het land deze keer - in Strainchamps bracht, bleek nog erger.
+Hierna zou ik mijn intussen tweede mooiste slaapplek (Slovenië heeft de lat een pak hoger gelegd) vinden. In Mittersheim moest ik niet ver van mijn route afwijken om twee bomen te vinden die me een uitzicht op het Grand Etang de Mittersheim (vijver is een zwaar understatement) gaven.
 
-Ik zeg 'erger', maar meen dat eigenlijk niet. Elk van die hellingen was de moeite waard. Bovenaan stond me immers telkens een prachtig uitzicht te wachten. Ik klaag dus niet, integendeel. En ook niet over het weer trouwens. Ik hou van blakende zonnen. 
-
-Moest iemand zich ooit afgevraagd hebben waar die standaard Windows bureaublad-afbeeldingen vandaan komen: de Ardennen.
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/Windows1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Windows1_Small.jpg" alt="Windows" /></a>
+<a href="{{ site.github.url }}/images/posts/Mittersheim1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Mittersheim1_Small.jpg" alt="Mittersheim" /></a>
 </article>
 <article class="6u$ 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/Windows3.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Windows3_Small.jpg" alt="Windows" /></a>
-</article>
-<article class="6u 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/Windows4.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Windows4_Small.jpg" alt="Windows" /></a>
-</article>
-<article class="6u$ 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/Windows5.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Windows5_Small.jpg" alt="Windows" /></a>
+<a href="{{ site.github.url }}/images/posts/Mittersheim2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Mittersheim2_Small.jpg" alt="Mittersheim" /></a>
 </article>
 </div>
-## Niet de Ardennen
 
-Ik had nu al drie nachten onder de blote hemel geslapen (geen van die nachten heb ik de moeite genomen om een regenzeil op te hangen), maar nu ik in de buurt van Luxemburg stad zat, zou het misschien wat moeilijker worden om een goed plekje te vinden. Om toch maar eens een douche te nemen (ondanks de effectiviteit van natte doekjes), besloot ik een camping op te zoeken. 
+Spijtig genoeg moest ik deze meevaller bekopen met urenlange regen. De eerste druppels vielen om 3 uur 's nachts. Geen probleem, dacht ik en besloot te blijven liggen tot het regenen ophield. Dikke snikkel. 
 
-Google Translate liet me weten dat hangmat in het Frans en Duits respectievelijk hamac en Hängematte was. Zeer teleurstellend, I know. Na de avondspits in Luxemburg doorploeterd te hebben (de uitlaatgassen deden me even opnieuw verlangen naar Brussel), kwam ik aan op camping Kockelscheuer. Ik stapte de receptie volledig bezweet binnen om begroet te worden met een “Hallo!” in een gezapig Nederlands accent. “U spreekt Nederlands?”, vroeg ik. “Ja natuuurlijk”, antwoordde ze (nvdr: dat is een “u” te veel, maar dat kan de Nederlanders niet schelen). Daar stond ik met mijn hamac op een camping vol Nederlanders. Hoewel er nog nooit iemand met een hangmat verbleven had, zocht de vriendelijke vrouw meteen naar een oplossing. Welke optie bleef er over? Twee bomen aan de ingang, vlak aan de receptie. Genoeg in het zicht om iedereen te moeten antwoorden met “ja, dat ligt goed zo’n hangmat”, “neen, dat doet geen pijn aan mijn rug” en "redelijk fris 's nachts, ja".
-<section>
-<div class="box alt">
-<div class="row 50% uniform">
-<div class="12u$"><span class="image fit"><img src="{{ site.github.url }}/images/posts/Hamac1_Small.jpg" alt="Hamac" /></span></div>
-</div>
-</div>
-</section>
-## Helemaal niet de Ardennen
+Die ochtend werd ik om 7 uur wakker in de regen. Gelukkig waren de regeldruppels rustgevend dus kon ik afwisselend lezen en dutjes doen. Vijf uur en even veel hoofdstukken en dutjes later begon ik me ongerust te maken. Ik kreeg zelfs geen 10 minuten om droog in te pakken. Nog eens twee uur en een paar inwendige 'fucks' later kon ik niet anders dan inpakken in de regen. Ik bespaar je de details, maar het duurde meer dan een half uur om alles relatief droog in mijn zakken te krijgen.
 
-Vanuit Luxemburg zette ik mijn tocht voort richting het befaamde Rehlingen-Siersburg (ik moet toch érgens stoppen?), via Schengen deze keer. Daar ontmoette ik een koppel Britten dat op weg was naar Italië en me vroeg waar ik naartoe ging. “Italië”, antwoordde ik. Daarop kreeg ik een “On your bike??” voorgeschoteld. Ze wensten me veel succes en waren blij dat ze opnieuw naar hun motorhome konden om op hun gemak richting Italië te trekken.
+"Hij is weer aan het klagen...". Niet echt. Dat hoort er nu eenmaal bij en tot nu toe heb ik amper 3 dagen met regen gehad. Ik kon me geen betere start indenken en bovendien wist ik nu hoe met de regen om te gaan.
+
+Gelukkig klaarde het al snel op en werden de zon en ik beste vrienden de komende weken. Na een tussenstop in Henridorff, kwam ik al snel aan in Straatburg waar ik mijn eerste rustdag zou houden. Volgens mij zag ik er trouwens hongerig uit. De uitbater van de camping in Henridorff waas nu al de derde persoon die me op weg stuurde met een handvol snoepjes "pour la route". 
+
+Onderweg kwam ik een verlaten kanaal en bijhorende sluizen tegen. Een route die ik iedereen kan aanraden. Het geheel had een uniek karakter. De beelden spreken voor zich.
+
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/Schengen1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Schengen1_Small.jpg" alt="Schengen" /></a>
+<a href="{{ site.github.url }}/images/posts/Kanaal1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Kanaal11_Small.jpg" alt="Kanaal" /></a>
 </article>
 <article class="6u$ 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/Schengen2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Schengen2_Small.jpg" alt="Schengen" /></a>
-</article>
-<article class="6u 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/Schengen3.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Schengen3_Small.jpg" alt="Schengen" /></a>
-</article>
-<article class="6u$ 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/Schengen4.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Schengen4_Small.jpg" alt="Schengen" /></a>
+<a href="{{ site.github.url }}/images/posts/Kanaal2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Kanaal2_Small.jpg" alt="Kanaal" /></a>
 </article>
 </div>
-Op erg korte tijd fietste ik dus door Luxemburg, Duitsland en Frankrijk. Van prachtige huizen, auto’s en verzorgde fietspaden, over gestructureerde signalisatie en netheid tot iets wat leek op een arm dorp in het zuiden van Italië. En neen, het was niet “charmant” te noemen. Bovendien was mijn eerste daad in Frankrijk verloren rijden. Een slecht begin. 
 
-Gelukkig zou Frankrijk dat later nog ruimschoots goed maken.
+## Straatsburg
+
+In Straatsburg bracht ik de nacht door in hostel Ciarus. Al had het alles om een hotel genoemd te worden. De kamer was enorm proper en diende ik in dit geval slechts met twee personen te delen (een Spanjaard en een Italiaan). Aan de check-in balie vroegen ze meteen: “bent u hier voor de museumnacht?” “Neen,” antwoordde ik. “Aha! Dan bent u hier voor het internationale skate-festival,” was de reactie. Net die dag waren blijkbaar alle musea in Straatsburg gratis open tot laat in de avond. Daarnaast bleek een beetje buiten de stad een skate-festival door te gaan.
+
+Mijn keuze-aanbod bestond dus uit gratis cultuur heel de avond lang of 45 minuten wandelen naar een betalend festival met duur bier en veel te veel volk. Er bleef maar één logische optie over.
+
+<div class="row">
+<article class="6u 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/NLContest1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/NLContest1_Small.jpg" alt="NLContest" /></a>
+</article>
+<article class="6u$ 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/NLContest2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/NLContest2_Small.jpg" alt="NLContest" /></a>
+</article>
+</div>
+
+Het festival was eigenlijk een hele ervaring en ik was danig onder de indruk - vooral van het vert skaten (even bewijzen dat ik zelfs de terminologie hebt opgepikt) en meer bepaald van een zekere Takeshi Yasutoko (Youtuben die handel). Ik wil wel even benadrukken datv ik diep vanbinnen nog steeds een skater ben. #skate4life
+
+## Elzas
+
+Intussen bevond ik me midden in de Elzas waar ik me volgens mijn kinesist (*) de spreekwoordelijke ogen uit mijn kop zou kijken. En gelijk had hij. Den Duits zal wel iets meer moeite gehad hebben met het afgeven van dit stuk (tot zover mijn verwijzingen naar de oorlog - nog een geluk dat ik niet door Duitstalig België gefietst ben).
+
+(*) Even kaderen: ongeveer een jaar geleden scheurde ik mijn kruisbanden (en meer) tijdens het voetballen. Ik bezocht een Franse kinesist in Brussel gedurende 8 maanden (genoeg tijd om bevriend te geraken). Hij kende de Elzas als geen ander en gaf me een lange lijst van tips. 
+
+Ik baande me een weg door alle Middeleeuwse dorpjes - het een al mooier dan het andere. Frankrijk was goed op weg om onze eerste kennismaling goed te maken.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/d/embed?mid=11AqZciJIBKG_o8ryk4LLnR8Zh5Y' width='640' height='480'></iframe></div>
 <br>
-tl;dr: The Ardens were way hillier than I expected. The Dutch have taken over campings all over Europe, making it easy for me language-wise, and some people look at me as if I'm insane if I tell them I'm cycling thousands of kilometres.
+tl;dr: There was literally fuck all to do in Rehlingen-Siersburg, I got really wet in Mittersheim (non stop rain for about 15 hours) and France did its best to make up for the wrong turn we took at the start.
