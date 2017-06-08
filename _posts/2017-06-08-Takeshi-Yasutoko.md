@@ -6,15 +6,15 @@ excerpt: Na de relatief korte pauze in Schengen en het verloren rijden in Frankr
 ---
 Na de relatief korte pauze in Schengen en het verloren rijden in Frankrijk, zette ik mijn tocht verder richting Rehlingen-Siersburg. Ik was blij dat ik na een tijdje opnieuw in Duitsland kon fietsen. Om eerlijk te zijn, het stuk Frankrijk van Apach tot Launstroff kon me gestolen worden. Volgens mij waren de Duitsers er niet rouwig om dit stuk land af te geven na de oorlog (derde bericht en ik betrek de oorlog al...). Vanaf nu zou ik ettelijk uren langs de Saar doorbrengen.
 
-## De wilde avonturen van Rehlingen-Siersburg
+## De wilde avonturen in Rehlingen-Siersburg
 
 ...
 
 ## Regen in Mittersheim
 
-Bekomen van de wilde avonturen in rehlingen-Siersburg deed ik in een [leuk restaurant](http://www.cafeknorke.de/) in Saarbrücken, waar ik een volledige vegetarisch maaltijd voor 4 euro voorgeschoteld kreeg.
+Bekomen van de wilde avonturen in Rehlingen-Siersburg kon ik in een [leuk restaurant](http://www.cafeknorke.de/) in Saarbrücken, waar ik een volledige vegetarisch maaltijd voor 4 euro voorgeschoteld kreeg. Genoeg om er bijna 3 uur te blijven hangen.
 
-Hierna zou ik mijn intussen tweede mooiste slaapplek (Slovenië heeft de lat een pak hoger gelegd) vinden. In Mittersheim moest ik niet ver van mijn route afwijken om twee bomen te vinden die me een uitzicht op het Grand Etang de Mittersheim (vijver is een zwaar understatement) gaven.
+Hierna zou ik mijn intussen tweede mooiste slaapplek vinden (Slovenië heeft de lat een pak hoger gelegd). In Mittersheim moest ik niet ver van mijn route afwijken om twee bomen te vinden die uitgaven op op het Grand Etang de Mittersheim.
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
@@ -25,15 +25,15 @@ Hierna zou ik mijn intussen tweede mooiste slaapplek (Slovenië heeft de lat een
 </article>
 </div>
 
-Spijtig genoeg moest ik deze meevaller bekopen met urenlange regen. De eerste druppels vielen om 3 uur 's nachts. Geen probleem, dacht ik en besloot te blijven liggen tot het regenen ophield. Dikke snikkel. 
+Spijtig genoeg moest ik deze meevaller bekopen met urenlange regen. De eerste druppels vielen om 3 uur 's nachts. Geen probleem, dacht ik. Gewoon blijven liggen tot het regenen ophoudt. 
 
-Die ochtend werd ik om 7 uur wakker in de regen. Gelukkig waren de regeldruppels rustgevend dus kon ik afwisselend lezen en dutjes doen. Vijf uur en even veel hoofdstukken en dutjes later begon ik me ongerust te maken. Ik kreeg zelfs geen 10 minuten om droog in te pakken. Nog eens twee uur en een paar inwendige 'fucks' later kon ik niet anders dan inpakken in de regen. Ik bespaar je de details, maar het duurde meer dan een half uur om alles relatief droog in mijn zakken te krijgen.
+Dikke snikkel. 
 
-"Hij is weer aan het klagen...". Niet echt. Dat hoort er nu eenmaal bij en tot nu toe heb ik amper 3 dagen met regen gehad. Ik kon me geen betere start indenken en bovendien wist ik nu hoe met de regen om te gaan.
+Om 7 uur 's ochtends werd ik wakker in de gietende regen. Gelukkig waren de regeldruppels min of meer rustgevend dus kon ik afwisselend lezen en dutjes doen. Vijf uur en even veel hoofdstukken en dutjes later begon ik me ongerust te maken. Ik kreeg zelfs geen tien minuten om droog in te pakken. Nog eens twee uur en een paar inwendige 'fucks' later kon ik niet anders dan inpakken in de regen. Zonder in te gaan op de details kan ik vertellen dat het meer dan een half uur duurde om alles relatief droog op mijn fiets te krijgen.
 
-Gelukkig klaarde het al snel op en werden de zon en ik beste vrienden de komende weken. Na een tussenstop in Henridorff, kwam ik al snel aan in Straatburg waar ik mijn eerste rustdag zou houden. Volgens mij zag ik er trouwens hongerig uit. De uitbater van de camping in Henridorff waas nu al de derde persoon die me op weg stuurde met een handvol snoepjes "pour la route". 
+"Hij is weer aan het klagen...". Niet echt. Ik wist dat dit er nu eenmaal bij zou horen en tot nu toe heb ik amper 3 dagen regen gehad. Ik kon me geen betere start indenken en dankzij dit voorval wist ik hoe ik met de regen moest omgaan.
 
-Onderweg kwam ik een verlaten kanaal en bijhorende sluizen tegen. Een route die ik iedereen kan aanraden. Het geheel had een uniek karakter. De beelden spreken voor zich.
+Gelukkig klaarde het later die dag al snel op en werden de zon en ik opnieuw beste vrienden. Na een tussenstop in Henridorff kwam ik al snel aan in Straatburg waar ik mijn eerste rustdag zou houden. Volgens mij zag ik er trouwens hongerig uit. De uitbater van de camping in Henridorff was nu al de derde persoon die me op weg stuurde met een handvol snoepjes "pour la route". Onderweg kwam ik een verlaten kanaal en bijhorende sluizen tegen. Een route die ik iedereen kan aanraden. Ik laat de beelden voor zich spreken.
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
