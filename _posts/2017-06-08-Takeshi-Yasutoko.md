@@ -37,7 +37,7 @@ Gelukkig klaarde het later die dag al snel op en werden de zon en ik opnieuw bes
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/Kanaal1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Kanaal11_Small.jpg" alt="Kanaal" /></a>
+<a href="{{ site.github.url }}/images/posts/Kanaal1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Kanaal1_Small.jpg" alt="Kanaal" /></a>
 </article>
 <article class="6u$ 12u$(xsmall) work-item">
 <a href="{{ site.github.url }}/images/posts/Kanaal2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Kanaal2_Small.jpg" alt="Kanaal" /></a>
