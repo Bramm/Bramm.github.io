@@ -1,6 +1,70 @@
 ---
 published: false
+layout: post
+title: Takeshi Yasutoko
+excerpt: Na de relatief korte pauze in Schengen en het verloren rijden in Frankrijk, zette ik mijn tocht verder richting Rehlingen-Siersburg. Ik was blij dat ik na een tijdje opnieuw in Duitsland kon fietsen. Om eerlijk te zijn, het stuk Frankrijk van Apach tot Launstroff kon me gestolen worden. Volgens mij waren de Duitsers er niet rouwig om dit stuk land af te geven na de oorlog (derde bericht en ik betrek de oorlog al, sorry). Vanaf hier zou ik ettelijk uren langs de Saar doorbrengen.
 ---
-## A New Post
+Na de relatief korte pauze in Schengen en het verloren rijden in Frankrijk, zette ik mijn tocht verder richting Rehlingen-Siersburg. Ik was blij dat ik na een tijdje opnieuw in Duitsland kon fietsen. Om eerlijk te zijn, het stuk Frankrijk van Apach tot Launstroff kon me gestolen worden. Volgens mij waren de Duitsers er niet rouwig om dit stuk land af te geven na de oorlog (derde bericht en ik betrek de oorlog al, sorry). Vanaf hier zou ik ettelijk uren langs de Saar doorbrengen.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## De wilde avonturen van Rehlingen-Siersburg
+
+...
+
+## Regen in Mittersheim
+
+
+Na het laatste afscheid trok ik de Ardennen in om die dag te eindigen in Humain, een deelgemeente van Marche-en-Famenne die net in de provincie Luxemburg ligt. Zoals gepland, volgde ik het Eurovelo fietsroutenetwerk - in dit geval de [Eurovelo 5](http://www.eurovelo.com/en/eurovelos/eurovelo-5) route (die ik inmiddels tot in Pavia gevolgd heb) - en stelde ik vast dat de route in Wallonië gelijk liep met de [Rando Vélo 6](http://www.groteroutepaden.be/nl/route/860/rando-velo-6-picardie-ardennes.html) route. Deze route had absoluut geen medelijden met bikepackers. Dat, of ik ken de Ardennen niet (meer). Het leek alsof ik elke mogelijke helling op (en gelukkig ook weer af) moest. En dat in de blakende zon. De volgende dag, toen de route me langs Bastogne tot aan de Luxemburgse grens - het land deze keer - in Strainchamps bracht, bleek nog erger.
+
+Ik zeg 'erger', maar meen dat eigenlijk niet. Elk van die hellingen was de moeite waard. Bovenaan stond me immers telkens een prachtig uitzicht te wachten. Ik klaag dus niet, integendeel. En ook niet over het weer trouwens. Ik hou van blakende zonnen. 
+
+Moest iemand zich ooit afgevraagd hebben waar die standaard Windows bureaublad-afbeeldingen vandaan komen: de Ardennen.
+<div class="row">
+<article class="6u 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/Windows1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Windows1_Small.jpg" alt="Windows" /></a>
+</article>
+<article class="6u$ 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/Windows3.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Windows3_Small.jpg" alt="Windows" /></a>
+</article>
+<article class="6u 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/Windows4.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Windows4_Small.jpg" alt="Windows" /></a>
+</article>
+<article class="6u$ 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/Windows5.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Windows5_Small.jpg" alt="Windows" /></a>
+</article>
+</div>
+## Niet de Ardennen
+
+Ik had nu al drie nachten onder de blote hemel geslapen (geen van die nachten heb ik de moeite genomen om een regenzeil op te hangen), maar nu ik in de buurt van Luxemburg stad zat, zou het misschien wat moeilijker worden om een goed plekje te vinden. Om toch maar eens een douche te nemen (ondanks de effectiviteit van natte doekjes), besloot ik een camping op te zoeken. 
+
+Google Translate liet me weten dat hangmat in het Frans en Duits respectievelijk hamac en Hängematte was. Zeer teleurstellend, I know. Na de avondspits in Luxemburg doorploeterd te hebben (de uitlaatgassen deden me even opnieuw verlangen naar Brussel), kwam ik aan op camping Kockelscheuer. Ik stapte de receptie volledig bezweet binnen om begroet te worden met een “Hallo!” in een gezapig Nederlands accent. “U spreekt Nederlands?”, vroeg ik. “Ja natuuurlijk”, antwoordde ze (nvdr: dat is een “u” te veel, maar dat kan de Nederlanders niet schelen). Daar stond ik met mijn hamac op een camping vol Nederlanders. Hoewel er nog nooit iemand met een hangmat verbleven had, zocht de vriendelijke vrouw meteen naar een oplossing. Welke optie bleef er over? Twee bomen aan de ingang, vlak aan de receptie. Genoeg in het zicht om iedereen te moeten antwoorden met “ja, dat ligt goed zo’n hangmat”, “neen, dat doet geen pijn aan mijn rug” en "redelijk fris 's nachts, ja".
+<section>
+<div class="box alt">
+<div class="row 50% uniform">
+<div class="12u$"><span class="image fit"><img src="{{ site.github.url }}/images/posts/Hamac1_Small.jpg" alt="Hamac" /></span></div>
+</div>
+</div>
+</section>
+## Helemaal niet de Ardennen
+
+Vanuit Luxemburg zette ik mijn tocht voort richting het befaamde Rehlingen-Siersburg (ik moet toch érgens stoppen?), via Schengen deze keer. Daar ontmoette ik een koppel Britten dat op weg was naar Italië en me vroeg waar ik naartoe ging. “Italië”, antwoordde ik. Daarop kreeg ik een “On your bike??” voorgeschoteld. Ze wensten me veel succes en waren blij dat ze opnieuw naar hun motorhome konden om op hun gemak richting Italië te trekken.
+<div class="row">
+<article class="6u 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/Schengen1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Schengen1_Small.jpg" alt="Schengen" /></a>
+</article>
+<article class="6u$ 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/Schengen2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Schengen2_Small.jpg" alt="Schengen" /></a>
+</article>
+<article class="6u 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/Schengen3.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Schengen3_Small.jpg" alt="Schengen" /></a>
+</article>
+<article class="6u$ 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/Schengen4.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Schengen4_Small.jpg" alt="Schengen" /></a>
+</article>
+</div>
+Op erg korte tijd fietste ik dus door Luxemburg, Duitsland en Frankrijk. Van prachtige huizen, auto’s en verzorgde fietspaden, over gestructureerde signalisatie en netheid tot iets wat leek op een arm dorp in het zuiden van Italië. En neen, het was niet “charmant” te noemen. Bovendien was mijn eerste daad in Frankrijk verloren rijden. Een slecht begin. 
+
+Gelukkig zou Frankrijk dat later nog ruimschoots goed maken.
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/d/embed?mid=11AqZciJIBKG_o8ryk4LLnR8Zh5Y' width='640' height='480'></iframe></div>
+<br>
+tl;dr: The Ardens were way hillier than I expected. The Dutch have taken over campings all over Europe, making it easy for me language-wise, and some people look at me as if I'm insane if I tell them I'm cycling thousands of kilometres.
