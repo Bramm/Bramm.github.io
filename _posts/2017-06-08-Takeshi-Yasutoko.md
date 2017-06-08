@@ -46,9 +46,9 @@ Gelukkig klaarde het later die dag al snel op en werden de zon en ik opnieuw bes
 
 ## Straatsburg
 
-In Straatsburg bracht ik de nacht door in hostel Ciarus. Al had het alles om een hotel genoemd te worden. De kamer was enorm proper en diende ik in dit geval slechts met twee personen te delen (een Spanjaard en een Italiaan). Aan de check-in balie vroegen ze meteen: “bent u hier voor de museumnacht?” “Neen,” antwoordde ik. “Aha! Dan bent u hier voor het internationale skate-festival,” was de reactie. Net die dag waren blijkbaar alle musea in Straatsburg gratis open tot laat in de avond. Daarnaast bleek een beetje buiten de stad een skate-festival door te gaan.
+In Straatsburg bracht ik de nacht door in hostel Ciarus, al had het alles om een hotel genoemd te worden. De kamer was enorm proper en moest ik in dit geval slechts met twee personen delen (een Spanjaard en een Italiaan). De vrouw die me incheckte vroeg meteen: “bent u hier voor de museumnacht?” “Neen,” antwoordde ik. “Dan bent u hier zeker voor het internationale skate-festival,” was de reactie. 
 
-Mijn keuze-aanbod bestond dus uit gratis cultuur heel de avond lang of 45 minuten wandelen naar een betalend festival met duur bier en veel te veel volk. Er bleef maar één logische optie over.
+Net die dag waren blijkbaar alle musea in Straatsburg gratis open tot laat in de avond. Daarnaast bleek een beetje buiten de stad een groots skate-festival door te gaan. Mijn keuze-aanbod bestond dus uit heel de avond lang gratis cultuur of 45 minuten wandelen naar een betalend festival met duur bier en veel te veel volk. Er was maar één logische optie.
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
@@ -59,16 +59,16 @@ Mijn keuze-aanbod bestond dus uit gratis cultuur heel de avond lang of 45 minute
 </article>
 </div>
 
-Het festival was eigenlijk een hele ervaring en ik was danig onder de indruk - vooral van het vert skaten (even bewijzen dat ik zelfs de terminologie hebt opgepikt) en meer bepaald van een zekere Takeshi Yasutoko (Youtuben die handel). Ik wil wel even benadrukken datv ik diep vanbinnen nog steeds een skater ben. #skate4life
+Het festival was eigenlijk een hele ervaring en ik was danig onder de indruk - vooral van het vert skaten dan (even bewijzen dat ik zelfs de terminologie hebt opgepikt) en meer bepaald van een zekere Takeshi Yasutoko (Youtube die mens!). Ik wil wel even benadrukken dat ik diep vanbinnen nog steeds een skater ben. #skate4life
 
 ## Elzas
 
-Intussen bevond ik me midden in de Elzas waar ik me volgens mijn kinesist (*) de spreekwoordelijke ogen uit mijn kop zou kijken. En gelijk had hij. Den Duits zal wel iets meer moeite gehad hebben met het afgeven van dit stuk (tot zover mijn verwijzingen naar de oorlog - nog een geluk dat ik niet door Duitstalig België gefietst ben).
+Intussen bevond ik me midden in de Elzas waar ik me volgens mijn kinesist (*) de spreekwoordelijke ogen uit mijn kop zou kijken. En gelijk had hij. Den Duits zal wel iets meer moeite gehad hebben met het afgeven van dit stuk (tot zover mijn verwijzingen naar de oorlog).
 
-(*) Even kaderen: ongeveer een jaar geleden scheurde ik mijn kruisbanden (en meer) tijdens het voetballen. Ik bezocht een Franse kinesist in Brussel gedurende 8 maanden (genoeg tijd om bevriend te geraken). Hij kende de Elzas als geen ander en gaf me een lange lijst van tips. 
+(*) Even kaderen: ongeveer een jaar geleden scheurde ik mijn kruisbanden (en meer) tijdens het voetballen. Gedurende 8 maanden werd ik behandeld door een Franse kinesist in Brussel (genoeg tijd om bevriend te geraken) die afkomstig was uit de Elzas en me tijdens pot en pint een lange lijst van tips meegaf. 
 
-Ik baande me een weg door alle Middeleeuwse dorpjes - het een al mooier dan het andere. Frankrijk was goed op weg om onze eerste kennismaling goed te maken.
+Ik baande me een weg door tal van Middeleeuwse dorpjes, het ene al mooier dan het andere. Frankrijk was goed op weg om onze eerste kennismaking goed te maken.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/d/embed?mid=11AqZciJIBKG_o8ryk4LLnR8Zh5Y' width='640' height='480'></iframe></div>
 <br>
-tl;dr: There was literally fuck all to do in Rehlingen-Siersburg, I got really wet in Mittersheim (non stop rain for about 15 hours) and France did its best to make up for the wrong turn we took at the start.
+tl;dr: There was literally fuck all to do in Rehlingen-Siersburg, I got really wet in Mittersheim (non-stop rain for about 15 hours) and France did its best to make up for the wrong turn we took at the start.
