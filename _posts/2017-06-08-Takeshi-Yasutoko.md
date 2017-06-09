@@ -48,7 +48,7 @@ Onderweg kwam ik een verlaten kanaal en bijhorende sluizen tegen. Een route die 
 
 ## Straatsburg
 
-In Straatsburg bracht ik de nacht door in hostel Ciarus, al had het alles om een hotel genoemd te worden. De kamer was enorm proper en moest ik in dit geval slechts met twee personen delen (een Spanjaard en een Italiaan). De vrouw die me incheckte vroeg meteen: “bent u hier voor de museumnacht?” “Neen,” antwoordde ik. “Dan bent u hier zeker voor het internationale skate-festival,” was de reactie. 
+In Straatsburg bracht ik de nacht door in hostel Ciarus, al had het alles om hotel genoemd te worden. De kamer was enorm proper en moest ik in dit geval slechts met twee personen delen (een Spanjaard en een Italiaan). De vrouw die me incheckte vroeg meteen: “bent u hier voor de museumnacht?” “Neen,” antwoordde ik. “Dan bent u hier zeker voor het internationale skate-festival,” was de reactie. 
 
 Net die dag waren blijkbaar alle musea in Straatsburg gratis open tot laat in de avond. Daarnaast bleek een beetje buiten de stad een groots skate-festival door te gaan. Mijn keuze-aanbod bestond dus uit heel de avond lang gratis cultuur of 45 minuten wandelen naar een betalend festival met duur bier en veel te veel volk. Er was maar één logische optie.
 
