@@ -33,7 +33,9 @@ Om 7 uur 's ochtends werd ik wakker in de gietende regen. Gelukkig waren de rege
 
 "Hij is weer aan het klagen...". Niet echt. Ik wist dat dit er nu eenmaal bij zou horen en tot nu toe heb ik amper 3 dagen regen gehad. Ik kon me geen betere start indenken en dankzij dit voorval wist ik hoe ik met de regen moest omgaan.
 
-Gelukkig klaarde het later die dag al snel op en werden de zon en ik opnieuw beste vrienden. Na een tussenstop in Henridorff kwam ik al snel aan in Straatsburg waar ik mijn eerste rustdag zou houden. Volgens mij zag ik er trouwens hongerig uit. De uitbater van de camping in Henridorff was nu al de derde persoon die me op weg stuurde met een handvol snoepjes "pour la route". Onderweg kwam ik een verlaten kanaal en bijhorende sluizen tegen. Een route die ik iedereen kan aanraden. Ik laat de beelden voor zich spreken.
+Gelukkig klaarde het later die dag al snel op en werden de zon en ik opnieuw beste vrienden. Na een tussenstop in Henridorff kwam ik al snel aan in Straatsburg waar ik mijn eerste rustdag zou houden. Volgens mij zag ik er trouwens hongerig uit. De uitbater van de camping in Henridorff was nu al de derde persoon die me op weg stuurde met een handvol snoepjes "pour la route". 
+
+Onderweg kwam ik een verlaten kanaal en bijhorende sluizen tegen. Een route die ik iedereen kan aanraden (de beelden spreken voor zich).
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
