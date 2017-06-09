@@ -61,7 +61,7 @@ Net die dag waren blijkbaar alle musea in Straatsburg gratis open tot laat in de
 </article>
 </div>
 
-Het festival was eigenlijk een hele ervaring en ik was danig onder de indruk - vooral van het vert skaten dan (even bewijzen dat ik zelfs de terminologie hebt opgepikt) en meer bepaald van een zekere Takeshi Yasutoko (Youtube die mens!). Ik wil wel even benadrukken dat ik diep vanbinnen nog steeds een skater ben. #skater4life
+Het festival was eigenlijk een hele ervaring en ik was danig onder de indruk - vooral van het vert skaten dan (even bewijzen dat ik zelfs de terminologie heb opgepikt) en meer bepaald van een zekere Takeshi Yasutoko (Youtube die mens!). Ik wil wel even benadrukken dat ik diep vanbinnen nog steeds een skater ben. #skater4life
 
 ## Elzas
 
