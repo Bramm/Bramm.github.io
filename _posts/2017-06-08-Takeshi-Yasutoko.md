@@ -12,7 +12,7 @@ Na de relatief korte pauze in Schengen en het verloren rijden in Frankrijk, zett
 
 ## Regen in Mittersheim
 
-Bekomen van de wilde avonturen in Rehlingen-Siersburg kon ik in een [leuk restaurant](http://www.cafeknorke.de/) in Saarbrücken, waar ik een volledige vegetarische maaltijd voor 4 euro voorgeschoteld kreeg. Genoeg om er bijna 3 uur te blijven hangen.
+Bekomen van de wilde avonturen in Rehlingen-Siersburg kon ik in een [leuk restaurant](http://www.cafeknorke.de/) in Saarbrücken, waar ik een volledige vegetarische maaltijd voor 4 euro voorgeschoteld kreeg. Meer had ik niet nodig om er bijna 3 uur te blijven hangen.
 
 Hierna zou ik mijn intussen tweede mooiste slaapplek vinden (Slovenië heeft de lat een pak hoger gelegd). In Mittersheim moest ik niet ver van mijn route afwijken om twee bomen te vinden die uitgaven op op het Grand Etang de Mittersheim.
 
