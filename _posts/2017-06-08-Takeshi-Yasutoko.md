@@ -67,7 +67,7 @@ Het festival was eigenlijk een hele ervaring en ik was danig onder de indruk - v
 
 Intussen bevond ik me midden in de Elzas waar ik me volgens mijn kinesist (*) de spreekwoordelijke ogen uit mijn kop zou kijken. En gelijk had hij. Den Duits zal wel iets meer moeite gehad hebben met het afgeven van dit stuk (tot zover mijn verwijzingen naar de oorlog).
 
-(*) Even kaderen: ongeveer een jaar geleden scheurde ik mijn kruisbanden (en meer) tijdens het voetballen. Gedurende 8 maanden werd ik behandeld door een Franse kinesist in Brussel (genoeg tijd om bevriend te geraken) die afkomstig was uit de Elzas en me tijdens pot en pint een lange lijst van tips meegaf. 
+(*) Even kaderen: ongeveer een jaar geleden scheurde ik mijn kruisbanden (en meer) tijdens het voetballen. Gedurende 8 maanden werd ik behandeld door een Franse kinesist in Brussel die afkomstig was uit de Elzas en me tijdens pot en pint een lange lijst van tips meegaf. 
 
 Ik baande me een weg door tal van Middeleeuwse dorpjes, het ene al mooier dan het andere. Frankrijk was goed op weg om onze eerste kennismaking goed te maken.
 
