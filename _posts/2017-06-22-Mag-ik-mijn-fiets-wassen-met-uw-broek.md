@@ -12,7 +12,9 @@ Enkele kilometers voor Bazel kon ik via Warmshowers terecht bij Elodie en Noémi
 
 Als ik de Koppenberg kon opfietsen, zouden de Alpen ook wel lukken zeker? Om Wim Helsen nog een laatste keer te quoten: dikke snikkel. De beklimmingen de dag na mijn verblijf in Hégenheim (zo heette het dorpje waar het koppel woonde) duurden eindeloos en bleken slechts een voorsmaakje van wat komen zou.
 
-Toegegeven, inmiddels heb ik een sadomasochistische liefde voor lange en steile klimmen ontwikkeld. Het is een onbeschrijfelijk gevoel urenlang te zwoegen om uiteindelijk beloond te worden met een prachtig uitzicht. Afdalen doe ik trouwens ook graag. Nu ik erover denk, op vlakke wegen rijden vind ik ook wel leuk. Ik ga hier even concluderen dat ik gewoon graag fiets (wat een geluk).
+Maar toegegeven, inmiddels heb ik een soort sadomasochistische liefde voor lange en steile klimmen ontwikkeld. Het is een onbeschrijfelijk gevoel urenlang te zwoegen om uiteindelijk beloond te worden met een prachtig uitzicht. 
+
+Afdalen doe ik trouwens ook graag. Nu ik erover denk, op vlakke wegen rijden vind ik ook wel leuk. Ik ga hier even concluderen dat ik gewoon graag fiets (wat een geluk).
 
 Even tussendoor: het was mij nooit opgevallen hoe onverstaanbaar de Zwitsers zijn als ze hun best niet doen om zich verstaanbaar te maken. Voor mij klonk het als ... een Nederlander die net een beroerte heeft gehad? (sorry Nederlanders, sorry Zwitsers)
 
