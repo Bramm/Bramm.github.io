@@ -43,4 +43,4 @@ Het is licht overdreven om te stellen dathet vanaf dan uitbollen was tot in Mila
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/d/embed?mid=1h52MkOEyZpzAVWLbLCiISP-lOKk' width='640' height='480'></iframe></div>
 <br>
-tl;dr: There was literally fuck all to do in Rehlingen-Siersburg, I got really wet in Mittersheim (non-stop rain for about 15 hours) and France did its best to make up for the wrong turn we took at the start.
+tl;dr: My first time using Warmshowers was great, I managed to get over the Gotthard Pass but not without a scratch and I did arrive on time in Milan to catch the finish of the Giro d'Italia (ssst, I didn't mention this in the Dutch text). 
