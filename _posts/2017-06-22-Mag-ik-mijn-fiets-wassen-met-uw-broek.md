@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Mag ik mijn fiets wassen met uw broek?
-excerpt: Langzaamaan naderde ik Zwitserland. De pittoreske dorpjes in de Elzas verdwenen uit het zicht terwijl de Alpen voor me opdoemden. Pas toen besefte ik ten volle hoe ver ik al gekomen was. Wat ik nog niet doorhad, was hoe zwaar het zou worden om de bergen over te raken. Om de beklimming volledig voorbereid aan te vatten, maakte ik voor het eerst gebruik van [Warmshowers](https://www.warmshowers.org/), een online platform dat te vergelijken valt met Couchsurfing, maar specifiek gericht is op "touring cyclists".
+excerpt: Langzaamaan naderde ik Zwitserland. De pittoreske dorpjes in de Elzas verdwenen uit het zicht terwijl de Alpen voor me opdoemden. Pas toen besefte ik ten volle hoe ver ik al gekomen was. Wat ik nog niet doorhad, was hoe zwaar het zou worden om de bergen over te raken. Om de beklimming volledig voorbereid aan te vatten, maakte ik voor het eerst gebruik van Warmshowers, een online platform dat te vergelijken valt met Couchsurfing, maar specifiek gericht is op "touring cyclists".
 ---
 Langzaamaan naderde ik Zwitserland. De pittoreske dorpjes in de Elzas verdwenen uit het zicht terwijl de Alpen voor me opdoemden. Pas toen besefte ik ten volle hoe ver ik al gekomen was. Wat ik nog niet doorhad, was hoe zwaar het zou worden om de bergen over te raken. Om de beklimming volledig voorbereid aan te vatten, maakte ik voor het eerst gebruik van [Warmshowers](https://www.warmshowers.org/), een online platform dat te vergelijken valt met Couchsurfing, maar specifiek gericht is op "touring cyclists".
 
