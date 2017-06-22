@@ -58,6 +58,6 @@ De volgende dag dronken we samen nog iets, waarna ik een derde maal afscheid moe
 
 Op de kaart hieronder vind je de weg die ik tot nu toe heb afgelegd. Deze zal continu bijgewerkt worden (of toch voor zover ik internet en electriciteit blijf vinden).
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/d/embed?mid=11AqZciJIBKG_o8ryk4LLnR8Zh5Y' width='640' height='480'></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/d/embed?mid=1h52MkOEyZpzAVWLbLCiISP-lOKk' width='640' height='480'></iframe></div>
 <br>
 tl;dr: I had to say goodbye three times, but it made me realise how much I love my friends and family. No joke this time.
