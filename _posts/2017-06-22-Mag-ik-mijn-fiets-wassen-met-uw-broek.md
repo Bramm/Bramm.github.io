@@ -2,9 +2,9 @@
 published: false
 layout: post
 title: Mag ik mijn fiets wassen met uw broek?
-excerpt: Langzaamaan naderde ik Zwitserland. De pittoreske dorpjes in de Elzas verdwenen uit het zicht terwijl de Alpen voor me opdoemden. Pas toen besefte ik ten volle hoe ver ik al gekomen was. Wat ik echter nog niet doorhad, was hoe zwaar het zou worden om deze bergen over te geraken. Om volledig voorbereid aan de beklimming te beginnen, maakte ik voor het eerst gebruik van [Warmshowers](https://www.warmshowers.org/), een online platform dat te vergelijken valt met Couchsurfing, maar dan specifiek gericht op "touring cyclists".
+excerpt: Langzaamaan naderde ik Zwitserland. De pittoreske dorpjes in de Elzas verdwenen uit het zicht terwijl de Alpen voor me opdoemden. Pas toen besefte ik ten volle hoe ver ik al gekomen was. Ik had echter nog niet door hoe zwaar het zou worden om deze bergen over te raken. Om volledig voorbereid aan de beklimming te kunnen beginnen, maakte ik voor het eerst gebruik van [Warmshowers](https://www.warmshowers.org/), een online platform dat te vergelijken valt met Couchsurfing, maar specifiek gericht is op "touring cyclists".
 ---
-Langzaamaan naderde ik Zwitserland. De pittoreske dorpjes in de Elzas verdwenen uit het zicht terwijl de Alpen voor me opdoemden. Pas toen besefte ik ten volle hoe ver ik al gekomen was. Wat ik echter nog niet doorhad, was hoe zwaar het zou worden om deze bergen over te geraken. Om volledig voorbereid aan de beklimming te beginnen, maakte ik voor het eerst gebruik van [Warmshowers](https://www.warmshowers.org/), een online platform dat te vergelijken valt met Couchsurfing, maar dan specifiek gericht op "touring cyclists".
+Langzaamaan naderde ik Zwitserland. De pittoreske dorpjes in de Elzas verdwenen uit het zicht terwijl de Alpen voor me opdoemden. Pas toen besefte ik ten volle hoe ver ik al gekomen was. Ik had echter nog niet door hoe zwaar het zou worden om deze bergen over te raken. Om volledig voorbereid aan de beklimming te kunnen beginnen, maakte ik voor het eerst gebruik van [Warmshowers](https://www.warmshowers.org/), een online platform dat te vergelijken valt met Couchsurfing, maar specifiek gericht is op "touring cyclists".
 
 ## Na heuvels komen bergen
 
