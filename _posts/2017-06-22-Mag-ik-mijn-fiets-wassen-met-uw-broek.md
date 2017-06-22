@@ -26,16 +26,16 @@ Een kleine selectie: het opdoemen van de Alpen, de aankomst bovenop de pas, het 
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/Alpen1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Alpen1_Small.jpg" alt="Alpen" /></a>
+<a href="{{ site.github.url }}/images/posts/Alpen 1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Alpen1_Small.jpg" alt="Alpen" /></a>
 </article>
 <article class="6u$ 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/Alpen2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Alpen2_Small.jpg" alt="Alpen" /></a>
+<a href="{{ site.github.url }}/images/posts/Alpen 2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Alpen2_Small.jpg" alt="Alpen" /></a>
 </article>
 <article class="6u 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/Alpen3.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Alpen3_Small.jpg" alt="Alpen" /></a>
+<a href="{{ site.github.url }}/images/posts/Alpen 3.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Alpen3_Small.jpg" alt="Alpen" /></a>
 </article>
 <article class="6u$ 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/Alpen4.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Alpen4_Small.jpg" alt="Alpen" /></a>
+<a href="{{ site.github.url }}/images/posts/Alpen 4.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Alpen4_Small.jpg" alt="Alpen" /></a>
 </article>
 </div>
 
