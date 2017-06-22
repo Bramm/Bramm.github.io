@@ -41,7 +41,7 @@ Een kleine selectie: het opdoemen van de Alpen, de aankomst bovenop de pas, het 
 
 ## Na bergen komen...
 
-Het is licht overdreven om te stellen dat het vanaf dan uitbollen was tot in Milaan, maar zo voelde het wel. Het leek alsof ik in geen tijd Zwitserland verlaten had en Italië binnenreed, mede gemotiveerd omdat ik de aankomst van de Giro d'Italia zou kunnen meemaken. En om eerlijk te zijn wilde ik zo snel mogelijk weg uit Zwitserland. Mijn budget ging er daar dubbel zo snel door dan gewoonlijk.
+Het is licht overdreven om te stellen dat het vanaf dan uitbollen was tot in Milaan, maar zo voelde het wel. Het leek alsof ik in geen tijd Zwitserland verlaten had en Italië binnenreed, mede gemotiveerd door de nakende aankomst van de Giro d'Italia. En om eerlijk te zijn wilde ik zo snel mogelijk weg uit Zwitserland. Mijn budget ging er daar dubbel zo snel door dan gewoonlijk.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/d/embed?mid=1h52MkOEyZpzAVWLbLCiISP-lOKk' width='640' height='480'></iframe></div>
 <br>
