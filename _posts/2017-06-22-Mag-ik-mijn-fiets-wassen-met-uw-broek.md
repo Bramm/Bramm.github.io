@@ -29,7 +29,7 @@ Na deze korte pauze ging ik verder met de - ik zal het maar zeggen - eeuwig dure
 <article class="6u$ 12u$(xsmall) work-item">
 <a href="{{ site.github.url }}/images/posts/Alpen2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Alpen2_Small.jpg" alt="Alpen" /></a>
 </article>
-<article class="6u$ 12u$(xsmall) work-item">
+<article class="6u 12u$(xsmall) work-item">
 <a href="{{ site.github.url }}/images/posts/Alpen3.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Alpen3_Small.jpg" alt="Alpen" /></a>
 </article>
 <article class="6u$ 12u$(xsmall) work-item">
