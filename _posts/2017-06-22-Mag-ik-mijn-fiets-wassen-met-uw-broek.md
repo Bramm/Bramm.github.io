@@ -22,7 +22,7 @@ Hoedanook was ik stilaan klaar om de Gotthardpas aan te vatten. Ik wist dat het 
 
 Na kort gebruik te maken van hun meubilair zette ik de beklimming voort. Nadat ik Andermatt gepasseerd was, dacht ik oprecht dat het ergste stuk voorbij was. Het gezegde klopt echter: de laatste loodjes wegen het zwaarst. Op dit laatste stuk had ik ook mijn eerste, prachtig uitgevoerde (al zeg ik het zelf) valpartij. Ik was een korte pauze aan het nemen op een enorm steil stuk van de beklimming om wat te drinken en te eten (water en Snickers - voor de geïnteresseerden). Niet veel later was ik klaar om opnieuw te vertrekken. Ik klikte mijn linkervoet vast en leunde licht naar dezelfde kant. Slecht idee. Uiteraard helde ik te ver over terwijl mijn voet vast zat in het klikpedaal. Als gevolg viel ik vanuit stilstand op het harde asfalt van de Gotthardpas (pal op de macadam, zoals pIE p.KLEIN dat zo mooi zegt). Het klinkt grappig, maar ik heb er drie verschillende schaafwonden aan overgehouden. Het laatste stuk werd daardoor extra moeilijk, maar het was het uitzicht op het einde helemaal waard. 
 
-Een kleine selectie: het opdoemen van de Alpen, de aankomst bovenop de pas, het uitzicht bovenop en het uizicht bij aankomst in het dal.
+Een kleine selectie: het opdoemen van de Alpen, de aankomst bovenop de pas, het uitzicht op de top en dat bij aankomst in het dal.
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
