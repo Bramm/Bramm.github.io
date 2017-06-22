@@ -71,6 +71,6 @@ Intussen bevond ik me midden in de Elzas waar ik me volgens mijn kinesist (*) de
 
 Ik baande me een weg door tal van Middeleeuwse dorpjes, het ene al mooier dan het andere. Frankrijk was goed op weg om onze eerste kennismaking goed te maken.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/d/embed?mid=11AqZciJIBKG_o8ryk4LLnR8Zh5Y' width='640' height='480'></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/d/embed?mid=1h52MkOEyZpzAVWLbLCiISP-lOKk' width='640' height='480'></iframe></div>
 <br>
 tl;dr: There was literally fuck all to do in Rehlingen-Siersburg, I got really wet in Mittersheim (non-stop rain for about 15 hours) and France did its best to make up for the wrong turn we took at the start.
