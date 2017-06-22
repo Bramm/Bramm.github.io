@@ -8,9 +8,13 @@ Langzaamaan naderde ik Zwitserland. De pittoreske dorpjes in de Elzas verdwenen 
 
 ## Na heuvels komen bergen
 
-...
+Enkele kilometers voor Bazel - nog net in Frankrijk - kon ik terecht bij Elodie en Noémi die me met open armen ontvingen. Ik kreeg een maaltijd en de mogelijkheid om nog eens in een knus bed te slapen. Als kers op de taart mocht ik zelfs gebruik maken van hun wasmachine waardoor ik met frisgewassen kleren aan de overtocht kon beginnen. Het werd naarmate de avond vorderde ook dé gelegenheid om mijn Frans wat bij te schaven. Ik deed nochtans m'n uiterste best om mijn slechtste Frans boven te halen in de hoop dat we ons gesprek verder konden zetten in het Engels. 
 
 ## Na bergen komen...
+
+Als ik de Koppenberg kon opfietsen, zouden de Alpen ook wel lukken zeker? Om Wim Helsen nog een laatste keer te quoten: dikke snikkel. De beklimmingen tijdens de dag na mijn verblijf in Hégenheim (zo heette het dorp waarin het koppel woonde) bleken slechts
+De volgende dag begon ik vol goede moed aan die heuvels. Als ik de koppenberg op konm, zouden de Alpen ook wel lukken zeker? Dikke snikkel (mag ik dat blijven gebruiken of blijf ik dan een select gezelschap Wim Helsen liefhebbers aanspreken?). Die dag bleek bovendien slechts een voorsmaakje van wat nog komen zou. Toegegeven, inmiddels heb ik een liefde voor klimmen gekweekt. Het heeft iets om urenlang te zwoegen om te eindigen bovenop een berg met uitzicht over de hele vallei om vervolgens op een tiende van de tijd beneden te zijn. Nu ik erover denk, afdalen doe ik ook best graag. Het blijft volgens mij het enige dat je in Belgie kan doen dat ook maar een beetje in de buurt komt van skieen / snowboarden (schrap wat niet past). Vlak rijden doe ik ook best graag. Misschien tijd om te concluderen dat ik graag fiets.
+
 
 Bekomen van de wilde avonturen in Rehlingen-Siersburg kon ik in een [leuk restaurant](http://www.cafeknorke.de/) in Saarbrücken, waar ik een volledige vegetarische maaltijd voor 4 euro voorgeschoteld kreeg. Meer had ik niet nodig om er bijna 3 uur te blijven hangen.
 
