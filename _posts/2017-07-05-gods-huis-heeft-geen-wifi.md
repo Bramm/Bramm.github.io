@@ -42,11 +42,13 @@ Vlak ernaast lag gelukkig een bar (of eerder een toog in iemands tuin) waar ik l
 
 De volgende ochtend maakte ik me zo snel mogelijk uit de voeten om mogelijke pogingen tot bekering (lees: het ochtendgebed) te vermijden. Desondanks was ik erg dankbaar voor de hulp en gastvrijheid.
 
-De volgende dag liep volledig anders. Na een lange tocht kwam ik per toeval terecht in [Ostello Dei Concari](http://www.ostellodeiconcari.com/) en de erg sympathieke en begane Nicola. Hij wist meer over mijn fiets en mijn tocht dan ikzelf, waardoor het zelfs een leerrijke ervaring werd. Bovendien deelde hij mijn mening over de fietspaden langs de Po ('they are not cycling roads'). Voor wie ooit in de buurt is: een echte aanrader, net als het eten daar. Wie me trouwens bij aankomst meteen een lokaal bier aanbiedt, heeft altijd een streepje voor.
+## Giro d'Italianen die ik tegenkwam
+
+De volgende dag liep volledig anders. Na een lange tocht kwam ik per toeval terecht in [Ostello Dei Concari](http://www.ostellodeiconcari.com/) bij de erg sympathieke en begane Nicola. Hij wist meer over mijn fiets en mijn tocht dan ikzelf, waardoor het zelfs een leerrijke ervaring werd. Bovendien deelde hij mijn mening over de fietspaden langs de Po ('they are not cycling roads'). Voor wie ooit in de buurt is: een echte aanrader, net als het eten daar. Wie me trouwens bij aankomst meteen een lokaal bier aanbiedt, heeft altijd een streepje voor (misverstanden rond taal en bier zijn inmiddels een constante aan het worden).
 
 Daags nadien beging ik een misdaad. Laten we zeggen dat ik van een drankfontein een gewone fontein gemaakt heb op een marktplein in Italie, maar dat is dan ook het laatste dat ik erover kwijt wil.
 
-Interessanter is mijn ontmoeting met Federica, die een fietsstandje uitbaatte aan een bar in de buurt van Ferrara. Zij nam me mee naar het centrum van de stad waar ik een rondleiding kreeg van haar en haar vriend. We belandden op een gezellige 'foodmarket' waar ik lokale en minder lokale specialiteiten getrakteerd werd. Hieronder een beetje promomateriaal voor het hostel van Nicola (neen, mijn houding op die foto is niet awkward!) en de fietsstand van Federica. Meteen ook bewijs dat ik effectief gelijkgestemde zielen tegenkom!
+Interessanter is mijn ontmoeting met Federica die een fietsstandje uitbaatte aan een bar in de buurt van Ferrara. Zij nam me mee naar het centrum van de stad waar ik een rondleiding (en een zak vol kersen) kreeg van haar en haar vriend. We belandden op een gezellige braderij waar ik op lokale en minder lokale specialiteiten getrakteerd werd. Hieronder een beetje promomateriaal voor het hostel van Nicola (neen, mijn houding op die foto is niet awkward) en de fietsstand van Federica. Meteen ook het bewijs dat ik effectief gelijkgestemde zielen tegenkom!
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
@@ -60,4 +62,3 @@ Interessanter is mijn ontmoeting met Federica, die een fietsstandje uitbaatte aa
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/d/embed?mid=1h52MkOEyZpzAVWLbLCiISP-lOKk' width='640' height='480'></iframe></div>
 <br>
 tl;dr: The Giro was really interesting to see, but got boring very quickly as well. Smooth my apples, useless gibbon.
-
