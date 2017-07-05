@@ -19,9 +19,12 @@ De volgende dag trok ik samen met diezelfde Brit naar het centrum van Milaan om 
 </article>
 </div>
 
-## Na bergen komen...
+## Giro di Po
 
-Het is licht overdreven om te stellen dat het vanaf dan uitbollen was tot in Milaan, maar zo voelde het wel. Het leek alsof ik in geen tijd Zwitserland verlaten had en Italië binnenreed, mede gemotiveerd door de nakende aankomst van de Giro d'Italia. En om eerlijk te zijn wilde ik zo snel mogelijk weg uit Zwitserland. Mijn budget ging er daar dubbel zo snel door dan gewoonlijk.
+In Milaan was het tijd om te beslissen over mijn volgende bestemming. Ik twijfelde. Mijn origineel plan om via Rome naar Bari te gaan om daar de boot naar Albanië te nemen bleef erg aanlokkelijk, maar het alternatief om de Po te volgen richting Slovenië werd ook steeds aantrekkelijker. Op deze manier zou ik mijn trip wat inkorten en zou ik nadien wat meer beslissingsvrijheid hebben. Het zal inmiddels al wel opgevallen zijn dat ik voor deze laatste optie gegaan ben (vermits de blog inmiddels een kleine eeuwigheid achter loopt). De titel van dit stukje tekst verried het misschien ook wel.
+
+Uiteindelijk besloot ik nog iets meer naar het zuiden te gaan tot in Pavia om vervolgens oostwaarts te trekken. Na mijn korte stop in Pavia ging ik riching Piazenca om er opnieuw in een hostel te verblijven. Die tijd van het jaar gaat er blijkbaar geen kat naar Piacenza, waardoor ik een kamer voor mij alleen had. Een ongeziene luxe op dat moment. Dit werd echter prachtig gecompenseerd door het kuispersoneel dat me de volgende dag letterlijk uit mijn kamer veegde. Ik was rustig aan het inpakken toen mijn kamerdeur werd opengemaakt en mijn badkamer gekuist werd. Iets zegt mij dat dit een inbreuk op de privacy was, maar zoals een echte Belg betaamt, maakte ik er geen enkele opmerking over. 
+
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/d/embed?mid=1h52MkOEyZpzAVWLbLCiISP-lOKk' width='640' height='480'></iframe></div>
 <br>
