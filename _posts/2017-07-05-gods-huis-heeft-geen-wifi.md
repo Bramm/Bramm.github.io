@@ -25,7 +25,19 @@ In Milaan was het tijd om te beslissen over mijn volgende bestemming. Ik twijfel
 
 Uiteindelijk besloot ik nog iets meer naar het zuiden te gaan tot in Pavia om vervolgens oostwaarts te trekken. Na mijn korte stop in Pavia ging ik riching Piazenca om er opnieuw in een hostel te verblijven. Die tijd van het jaar gaat er blijkbaar geen kat naar Piacenza, waardoor ik een kamer voor mij alleen had. Een ongeziene luxe op dat moment. Dit werd echter prachtig gecompenseerd door het kuispersoneel dat me de volgende dag letterlijk uit mijn kamer veegde. Ik was rustig aan het inpakken toen mijn kamerdeur werd opengemaakt en mijn badkamer gekuist werd. Iets zegt mij dat dit een inbreuk op de privacy was maar zoals een echte Belg betaamt, maakte ik er geen enkele opmerking over. 
 
-Ik bleef de Po volgen richting Venetië en begon mijn eerdere beslissing stilaan in vraag te stellen. Ik verwachtte me aan een koele rit langs het water met een mooi uitzicht. In plaats daarvan kreeg ik een fietspad op een kleine heuvel met rijstvelden langs beide kanten. Nergens schaduw, nergens een teken van de Po te bekennen. Ik overdrijf. Af en toe verscheen die waardoor ik toch nog kon genieten van een mooi uitzicht.
+Ik bleef de Po volgen richting Venetië en begon mijn eerdere beslissing stilaan in vraag te stellen. Ik verwachtte me aan een koele rit langs het water met een mooi uitzicht. In plaats daarvan kreeg ik een fietspad op een kleine heuvel met rijstvelden langs beide kanten. Nergens schaduw, nergens een teken van de Po te bekennen. Ik overdrijf misschien. Af en toe verscheen die even waardoor ik toch nog kon genieten van een mooi uitzicht.
+
+<div class="row">
+<article class="6u 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/Po1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Po1_Small.jpg" alt="Po" /></a>
+</article>
+<article class="6u$ 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/Po2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Po2_Small.jpg" alt="Po" /></a>
+</article>
+</div>
+
+Het ging van kwaad naar erger. Soms zag ik kilometerslang geen enkele boom en kreeg ik schrik dat ik geen plaats zou vinden om mijn hangmat op te hangen. Een paar dagen later had ik prijs. Het was 9u ‘s avonds en ik had nog steeds geen degelijke slaapplek gevonden. Net toen ik me echt ongerust begon te maken, kwam ik langs een klooster waar ze blijkbaar (want mijn Italiaans is beperkt tot het herkennen van logo’s met bedden) plek hadden om bedevaarders te slapen te leggen. Het klooster bleek spijtig genoeg gesloten toen ik er aankwam. Vlak ernaast was er echter een bar (of eerder een toog in iemands tuin) waar ik letterlijk met handen en voeten heb zitten uitleggen wat mijn bedoeling was. Ze belden iemand op die Engels sprak en als tolk kon dienen, waarna er een non opgetrommeld werd om me binnen te laten. Ik knikte terwijl ze alles uitlegde, maar verstond er amper een woord van. Als zij me iets vroeg en ik begreep de vraag, antwoordde ik in het Frans en plakte een “a” of een “o” achter elk woord. Guess what? Het werkte niet. Aprèso is niét het Italiaans voor 'nadien'. Gods huis had bovendien geen wifi en blokkeerde zelfs mijn telefoonsignaal. Ik vond mijn heil die avond in Freecell (dankuwel nieuwe Windowscomputer). De volgende ochtend maakte ik me zo snel mogelijk uit de voeten om mogelijke pogingen tot bekering (lees: het ochtendgebed) te vermijden. Desondanks was ik erg dankbaar voor hun hulp en gastvrijheid.
+
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/d/embed?mid=1h52MkOEyZpzAVWLbLCiISP-lOKk' width='640' height='480'></iframe></div>
 <br>
