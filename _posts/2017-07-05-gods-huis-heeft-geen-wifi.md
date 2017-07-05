@@ -48,7 +48,6 @@ Interessanter is mijn ontmoeting met Federica, die een fietsstandje uitbaatte aa
 <article class="6u 12u$(xsmall) work-item">
 <a href="{{ site.github.url }}/images/posts/Nicola.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Nicola.jpg" alt="Nicola" /></a>
 </article>
-<div class="row">
 <article class="6u$ 12u$(xsmall) work-item">
 <a href="{{ site.github.url }}/images/posts/Federica.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Federica.jpg" alt="Federica" /></a>
 </article>
