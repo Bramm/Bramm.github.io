@@ -40,14 +40,17 @@ Het ging van kwaad naar erger. Soms zag ik kilometerslang geen enkele boom en kr
 
 De volgende dag liep volledig anders. Na een lange tocht kwam ik per toeval terecht in [Ostello Dei Concari](http://www.ostellodeiconcari.com/) en de erg sympathieke en begane Nicola. Hij wist meer over mijn fiets en mijn tocht dan ikzelf, waardoor het zelfs een leerrijke ervaring werd. Bovendien deelde hij mijn mening over de fietspaden langs de Po ('they are not cycling roads'). Voor wie ooit in de buurt is: een echte aanrader, net als het eten daar. Wie me trouwens bij aankomst meteen een lokaal bier aanbiedt, heeft altijd een streepje voor.
 
+<div class="row">
+<article class="6u 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/Nicola.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Nicola.jpg" alt="Nicola" /></a>
+</article>
+</div>
+
 Daags nadien beging ik een misdaad. Laten we zeggen dat ik van een drankfontein een gewone fontein gemaakt heb op een marktplein in Italie, maar dat is dan ook het laatste dat ik erover kwijt wil.
 
 Interessanter is mijn ontmoeting met Federica, die een fietsstandje uitbaatte aan een bar in de buurt van Ferrara. Zij nam me mee naar het centrum van de stad waar ik een rondleiding kreeg van haar en haar vriend. We belandden op een gezellige 'foodmarket' waar ik lokale en minder lokale specialiteiten getrakteerd werd. Hieronder een beetje promomateriaal voor het hostel van Nicola en de fietsstand van Federica. Meteen ook bewijs dat ik effectief gelijkgestemde zielen tegenkom!
 
 <div class="row">
-<article class="6u 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/Nicola.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Nicola.jpg" alt="Nicola" /></a>
-</article>
 <article class="6u$ 12u$(xsmall) work-item">
 <a href="{{ site.github.url }}/images/posts/Federica.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Federica.jpg" alt="Federica" /></a>
 </article>
