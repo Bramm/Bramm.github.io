@@ -44,8 +44,14 @@ Daags nadien beging ik een misdaad. Laten we zeggen dat ik van een drankfontein 
 
 Interessanter is mijn ontmoeting met Federica, die een fietsstandje uitbaatte aan een bar in de buurt van Ferrara. Zij nam me mee naar het centrum van de stad waar ik een rondleiding kreeg van haar en haar vriend. We belandden op een gezellige 'foodmarket' waar ik lokale en minder lokale specialiteiten getrakteerd werd. Hieronder een beetje promomateriaal voor het hostel van Nicola en de fietsstand van Federica. Meteen ook bewijs dat ik effectief gelijkgestemde zielen tegenkom!
 
-
-
+<div class="row">
+<article class="6u 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/Nicola.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Nicola.jpg" alt="Nicola" /></a>
+</article>
+<article class="6u$ 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/Federica.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Federica.jpg" alt="Federica" /></a>
+</article>
+</div>
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/d/embed?mid=1h52MkOEyZpzAVWLbLCiISP-lOKk' width='640' height='480'></iframe></div>
 <br>
