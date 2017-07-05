@@ -8,35 +8,14 @@ Milaan. Mijn eerste doel was bereikt. Zelfs voor de aankomst van de Giro. Ik kwa
 
 ## Giro d'Italia
 
-De volgende dag trok ik samen met de Brit naar het centrum van Milaan om vast te stellen dat daar een massa volk aan het samentroepen was om de aankomst van de Giro mee te maken. Ondanks mijn voorliefde voor grote massa’s mensen, lawaai en rondvliegend zweet, besloten we naar een park te gaan waar de renners ook zouden passeren. Kort samengevat kan ik stellen dat het een boeiende ervaring was, maar niet meer dan dat (nvdr: het ging om een tijdrit waardoor er dus elke 15 minuten een renner langskwam). Een uurtje later hadden we het gehad en baanden we ons opnieuw een weg door de massa op weg naar het hostel. 
-
-
-Als ik de Koppenberg kon opfietsen, zouden de Alpen ook wel lukken zeker? Om Wim Helsen nog een laatste keer te quoten: dikke snikkel. De beklimmingen de dag na mijn verblijf in Hégenheim (zo heette het dorpje waar het koppel woonde) duurden eindeloos en bleken slechts een voorsmaakje van wat komen zou.
-
-Maar toegegeven, inmiddels heb ik een soort sadomasochistische liefde voor lange en steile klimmen ontwikkeld. Het is een onbeschrijfelijk gevoel urenlang te zwoegen om uiteindelijk beloond te worden met een prachtig uitzicht (en een pint). Afdalen doe ik trouwens ook graag. Het blijft volgens mij datgene dat het dichtst komt bij skieën of snowboarden zonder sneeuw nodig te hebben. Nu ik erover denk, op vlakke wegen rijden vind ik ook wel leuk. Misschien tijd om te concluderen dat ik gewoon graag fiets (shocker!).
-
-Even tussendoor: het was mij nooit opgevallen hoe onverstaanbaar de Zwitsers zijn als ze hun best niet doen om zich verstaanbaar te maken. De eerste Zwitser die ik hoorde klonk als een Nederlander die net een beroerte had gehad (sorry Nederlanders, sorry Zwitsers).
-
-Gelukkig is mijn Duits dan weer onberispelijk. Op de eerste camping waar ik overnachtte in Zwitserland zag ik een tuinslang liggen waarmee ik mijn fiets voor het eerst proper zou kunnen maken. Met volle overtuiging zei ik: "Kann ich bitte deine Hose kurz nutzen?" Hose. Hose...hose is tuinslang in het Engels. Het ergste van dit prachtig tafereel was dat ik mijn fout besefte terwijl ik ze maakte. Daar stond ik mooi te wijzen naar een tuinslang met de vraag of ik "alstublieft haar broek even mocht gebruiken".
-
-Hoedanook was ik stilaan klaar om de Gotthardpas aan te vatten. Ik wist dat het niet eenvoudig zou zijn, dus besloot ik vroeg genoeg op te staan. Vol goede moed begon ik aan het eerste stuk van de beklimming waar ik voor het eerst sinds Luxemburg gepasseerd werd door een auto met een Belgische nummerplaat. Een aantal meter verder stond diezelfde auto geparkeerd aan de kant van de weg en werd ik begroet door een oude bekende uit Rijmenam die met zijn vriendin aan het rondreizen was. Small world [(theory)](https://en.wikipedia.org/wiki/Small-world_experiment).
-
-Na kort gebruik te maken van hun meubilair zette ik de beklimming voort. Nadat ik Andermatt gepasseerd was, dacht ik oprecht dat het ergste stuk voorbij was. Het gezegde klopt echter: de laatste loodjes wegen het zwaarst. Op dit laatste stuk had ik ook mijn eerste, prachtig uitgevoerde (al zeg ik het zelf) valpartij. Ik was een korte pauze aan het nemen op een enorm steil stuk van de beklimming om wat te drinken en te eten (water en Snickers - voor de geïnteresseerden). Niet veel later was ik klaar om opnieuw te vertrekken. Ik klikte mijn linkervoet vast en leunde licht naar dezelfde kant. Slecht idee. Uiteraard helde ik te ver over terwijl mijn voet vast zat in het klikpedaal. Als gevolg viel ik vanuit stilstand op het harde asfalt van de Gotthardpas (pal op de macadam, zoals pIE p.KLEIN dat zo mooi zegt). Het klinkt grappig, maar ik heb er drie verschillende schaafwonden aan overgehouden. Het laatste stuk werd daardoor extra moeilijk, maar het was het uitzicht op het einde helemaal waard. 
-
-Een kleine selectie: het opdoemen van de Alpen, de aankomst bovenop de pas, het uitzicht op de top en dat bij aankomst in het dal.
+De volgende dag trok ik samen met diezelfde Brit naar het centrum van Milaan om vast te stellen dat daar een massa volk aan het samentroepen was om de aankomst van de Giro mee te maken. Ondanks onze voorliefde voor grote massa’s mensen, lawaai en rondvliegend bier, besloten we naar een park buiten het centrum te gaan waar de renners ook zouden passeren. Kort samengevat: elke 15 minuten een renner zien passeren (het was een tijdrit) was een boeiende ervaring, maar niet meer dan dat. Een uur later hadden we het gehad en baanden we ons opnieuw een weg door de massa op weg naar ons hostel. 
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/Alpen 1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Alpen1_Small.jpg" alt="Alpen" /></a>
+<a href="{{ site.github.url }}/images/posts/Giro1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Giro1_Small.jpg" alt="Giro" /></a>
 </article>
 <article class="6u$ 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/Alpen 2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Alpen2_Small.jpg" alt="Alpen" /></a>
-</article>
-<article class="6u 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/Alpen 3.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Alpen3_Small.jpg" alt="Alpen" /></a>
-</article>
-<article class="6u$ 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/Alpen 4.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Alpen4_Small.jpg" alt="Alpen" /></a>
+<a href="{{ site.github.url }}/images/posts/Giro2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Giro2_Small.jpg" alt="Giro" /></a>
 </article>
 </div>
 
