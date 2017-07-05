@@ -8,7 +8,7 @@ Milaan. Mijn eerste doel was bereikt. Zelfs voor de aankomst van de Giro. Ik kwa
 
 ## Giro d'Italia
 
-De volgende dag trok ik samen met diezelfde Brit naar het centrum van Milaan om vast te stellen dat daar een massa volk aan het samentroepen was om de aankomst van de Giro mee te maken. Ondanks onze voorliefde voor grote massa’s mensen, lawaai en rondvliegend bier, besloten we naar een park buiten het centrum te gaan waar de renners ook zouden passeren. Kort samengevat: elke 15 minuten een renner zien passeren (het was een tijdrit) was een boeiende ervaring, maar niet meer dan dat. Een uur later hadden we het gehad en baanden we ons opnieuw een weg door de massa op weg naar ons hostel. 
+De volgende dag trok ik samen met diezelfde Brit naar het centrum van Milaan om vast te stellen dat daar een massa volk aan het samentroepen was om de aankomst van de Giro mee te maken. Ondanks onze voorliefde voor grote massa’s mensen, lawaai en rondvliegend bier, besloten we naar een park buiten het centrum te gaan waar de renners ook zouden passeren. Kort samengevat: elke 15 minuten een renner zien passeren (nvdr: het was een tijdrit) was een boeiende ervaring, maar niet meer dan dat. Een uur later hadden we het gehad en baanden we ons opnieuw een weg door de massa op weg naar ons hostel. 
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
