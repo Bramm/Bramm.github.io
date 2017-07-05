@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Gods huis heeft geen wifi
 excerpt: Milaan. Mijn eerste doel was bereikt. Zelfs voor de aankomst van de Giro. Ik kwam toe in een gezellig hostel waar ik meteen een pint voorgeschoteld kreeg, net wat ik nodig had om mijn verlies te verwerken. Hoewel ik nooit een fan was van de kleine laptop die ik meesleurde, miste ik de mogelijkheid om te schrijven (pen en papier zijn te jaren 80 voor mij). Zelfs met de hulp van een vriendelijke Brit kreeg ik hem niet meer aan de praat. Schrijven op een smartphone bleek een ramp, dus besloot ik ter plekke een nieuwe laptop te kopen. Zwaarder, trager, lomper en in het Italiaans, maar hij deed (en doet) wat hij moest (en moet).
