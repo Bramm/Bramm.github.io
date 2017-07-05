@@ -42,7 +42,7 @@ De volgende dag liep volledig anders. Na een lange tocht kwam ik per toeval tere
 
 Daags nadien beging ik een misdaad. Laten we zeggen dat ik van een drankfontein een gewone fontein gemaakt heb op een marktplein in Italie, maar dat is dan ook het laatste dat ik erover kwijt wil.
 
-Interessanter is mijn ontmoeting met Federica, die een fietsstandje uitbaatte aan een bar in de buurt van Ferrara. Zij nam me mee naar het centrum van de stad waar ik een rondleiding kreeg van haar en haar vriend. We belandden op een gezellige 'foodmarket' waar ik lokale en minder lokale specialiteiten getrakteerd werd. Hieronder een beetje promomateriaal voor het hostel van Nicola en de fietsstand van Federica. Meteen ook bewijs dat ik effectief gelijkgestemde zielen tegenkom!
+Interessanter is mijn ontmoeting met Federica, die een fietsstandje uitbaatte aan een bar in de buurt van Ferrara. Zij nam me mee naar het centrum van de stad waar ik een rondleiding kreeg van haar en haar vriend. We belandden op een gezellige 'foodmarket' waar ik lokale en minder lokale specialiteiten getrakteerd werd. Hieronder een beetje promomateriaal voor het hostel van Nicola (neen, mijn houding op die foto is niet awkward!) en de fietsstand van Federica. Meteen ook bewijs dat ik effectief gelijkgestemde zielen tegenkom!
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
