@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Over dingen gesproken
 excerpt: Na mijn bezoek aan Ferrara vertrok ik richting Venetië en vond ik opnieuw geen plek om te overnachten. De Italianen vierden hun nationale feestdag en namen alle campings in beslag. Midden in dit toeristische gebied bleek het bovendien nagenoeg onmogelijk om subtiel te kamperen langs de weg. Na lang zoeken vond ik gelukkig een camping in Chioggia die me er nogal letterlijk besloot tussen te proppen (inmiddels was het half elf 's avonds). Ik vond twee bomen tussen een aantal tenten en hoopte dat niemand ‘s nachts over mij zou struikelen om vervolgens nóg slechter gezind te worden. Juventus had namelijk net de finale van de Champions League verloren.
