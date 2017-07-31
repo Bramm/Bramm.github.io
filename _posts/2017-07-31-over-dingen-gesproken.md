@@ -6,9 +6,9 @@ excerpt: Na mijn bezoek aan Ferrara vertrok ik richting Venetië en vond ik opni
 ---
 Na mijn bezoek aan Ferrara vertrok ik richting Venetië en vond ik opnieuw geen plek om te overnachten. De Italianen vierden blijkbaar hun nationale feestdag en namen alle campings in beslag. Midden in dit toeristische gebied leek het bovendien onmogelijk om subtiel te kamperen langs de weg. Na lang zoeken vond ik gelukkig toch een camping in Chioggia die me - nogal letterlijk - tussen de andere kampeerders in wilde proppen. Aangezien het inmiddels half elf 's avonds was, ging ik hier graag op in. Ik vond twee bomen tussen een aantal tenten en hoopte dat niemand over mijn hangmat zou struikelen om vervolgens nóg slechter gezind rond te lopen (Juventus had net de finale van de Champions League verloren).
 
-Daags nadien kwam ik nog wat gelijkgezinden tegen. Twee Fransmannen uit Toulouse maakten de omgekeerde beweging en waren dus op weg naar huis. Na een koffie en een kort gesprek zetten we elk onze tocht weer verder. Het mag duidelijk zijn dat we allemaal een figuurlijke zee van tijd hebben, maar dat we tegelijkertijd toch elke dag onze doelen moeten (lees: willen) halen. 
+Daags nadien kwam ik nog wat gelijkgezinden tegen. Twee Fransmannen uit Toulouse maakten de omgekeerde beweging en waren dus op weg naar huis. Na een koffie en een kort gesprek zetten we elk onze tocht weer verder. Het mag duidelijk zijn dat bikepackers een figuurlijke zee van tijd hebben, maar tegelijkertijd elke dag hun doelen moeten (lees: willen) halen. 
 
-Even een zicht op de zee en een zicht op de Fransmannen.
+Even een zicht op de letterlijke zee van water en een zicht op de Fransmannen.
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
