@@ -21,9 +21,9 @@ Even een zicht op de letterlijke zee van water en een zicht op de Fransmannen.
 
 ## Over gelijkgezinden gesproken
 
-Nog steeds rond Venetië bevond ik me op een camping met naast me een volgeladen tourfiets. Aangezien hij een achteruitkijkspiegel had, ging ik er meteen van uit dat het om een oude man ging. Ik kon er niet verder naast zitten. Niet veel later kwam er een jonge vrouw naar me toe gewandeld. Daar stond ik met m'n vooringenomenheden.
+Nog steeds in de buurt van Venetië bevond ik me op een camping met naast me een volgeladen tourfiets. Aangezien de fiets een achteruitkijkspiegel had, ging ik er meteen van uit dat het om een oude man ging. Ik kon er niet verder naast zitten. Niet veel later kwam er een jonge vrouw naar me toe gewandeld. Daar stond ik met m'n vooringenomenheden.
 
-Ze kwam uit het zuiden van Argentinië en was vertrokken vanuit Berlijn. Opnieuw iemand die de omgekeerde beweging maakte dus. Het voordeel hiervan is natuurlijk wel dat je elkaar tips kan geven over wat er te wachten staat. We brachten twee leuke avonden aan het strand door (ondanks de kleine muggenplaag), waarvan eentje vergezeld werd van vuurwerk. Letterlijk vuurwerk. Denk wat je zelf wil over figuurlijk vuurwerk.
+Ze kwam uit het zuidelijkste punt van Argentinië en was vertrokken vanuit Berlijn. Opnieuw iemand die de omgekeerde beweging maakte dus. Het voordeel hiervan is dat je elkaar tips kan geven over wat komen zal. We brachten twee leuke avonden aan het strand door (ondanks de muggenplaag), waarvan eentje vergezeld werd van vuurwerk. Letterlijk vuurwerk. Denk wat je zelf wil over figuurlijk vuurwerk.
 
 ## Over vooringenomenheden gesproken
 
