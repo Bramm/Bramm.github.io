@@ -63,11 +63,11 @@ Niet alle wegen waren zo makkelijk.
 
 Niet alles was zalig. Ik lijk het ene leuke avontuur na het andere te beleven, maar uiteraard laat ik de mindere momentjes weg. Zal ik even een kleine bloemlezing geven om het geheel opnieuw wat realistischer te maken?
 
-Ik ben niet een keer, niet twee keer, niet drie keer, maar vier keer gevallen (dat krijg je als je blindelings Google Maps volgt - zelfs doorheen militaire gebieden).
-Ik heb een wespensteek op mijn ooglid gehad.
-Ik heb mijn lip gesneden door mijn zakmes af te likken (toegegeven, dat was volledig mijn fout).
-Ik ben een keer uit de bocht gevlogen rakelings langs een auto die uit de andere richting kwam.
-Mijn ketting en mijn volledige ‘versnellingsbak’ zijn onderweg vervangen moeten worden.
+- Ik ben niet een keer, niet twee keer, niet drie keer, maar vier keer gevallen (dat krijg je als je blindelings Google Maps volgt - zelfs doorheen militaire gebieden).
+- Ik heb een wespensteek op mijn ooglid gehad.
+- Ik heb mijn lip gesneden door mijn zakmes af te likken (toegegeven, dat was volledig mijn fout).
+- Ik ben een keer uit de bocht gevlogen rakelings langs een auto die uit de andere richting kwam.
+- Mijn ketting en mijn volledige ‘versnellingsbak’ zijn onderweg vervangen moeten worden.
 …
 
 Er zijn nog tal van andere grote en klein voorbeelden, maar die hou ik tot het einde!
