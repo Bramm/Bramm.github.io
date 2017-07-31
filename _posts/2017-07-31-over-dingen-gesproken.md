@@ -29,11 +29,9 @@ Ze kwam uit het zuidelijkste punt van Argentinië en was vertrokken vanuit Berli
 
 Een aantal dagen later kwam ik een koppel erg sympathieke Britten tegen die met vouwfietsen (!) een tocht van duizenden kilometers aan het ondernemen waren. Zij raadden me aan om zo snel mogelijk richting Slovenië te rijden en wie was ik om hun raad in de wind te slaan? Ik schrapte mijn geplande bezoek aan Triëst meteen uit mijn agenda en zocht de kortste weg naar Slovenië.
 
-Ze hadden gelijk. Slovenië was het mooiste land dat ik tot nog toe gezien had. Het onweer dat ik over me heen kreeg in Most na Soči nam ik er dan ook graag bij. Het was spijtig genoeg weer laat in de avond waardoor ik geen andere keuze had dan ter plekke een hotelkamer te boeken (blijkbaar leer ik niet uit mijn fouten). De uitbater van het hotel bekeek die avond nog mijn uitgestippelde route en verklaarde me tot gek. Er zouden wegen bijzitten waar ik met mijn fiets over rotsen moest klimmen. Hij toonde me een andere route die hij vaak nam en die zeker de moeite zou zijn. Ik zou enkel een aanzienlijke omweg moeten maken omdat er halverwege wegenwerken aan de gang waren. 
+Ze hadden gelijk. Slovenië was het mooiste land dat ik tot nog toe gezien had. Het onweer dat ik over me heen kreeg in Most na Soči nam ik er dan ook graag bij. Het was spijtig genoeg weer laat in de avond waardoor ik geen andere keuze had dan ter plekke een hotelkamer te boeken (blijkbaar leer ik niet uit mijn fouten). De uitbater van het hotel bekeek die avond nog mijn uitgestippelde route en verklaarde me tot gek. Een aantal wegen waren eerder rotsen en dus onbegaanbaar met een fiets. Hij toonde me een andere route die hij vaak nam en die zeker de moeite zou zijn. Ik zou enkel een omweg moeten maken omdat er halverwege wegenwerken aan de gang waren. 
 
-De volgende ochtend tijdens het ontbijt kwam hij naar me toe om (a) mij een goede koffie aan te bieden - diegene waar enkel het personeel toegang tot heeft - en (b) mij te vertellen dat hij de verantwoordelijke van de wegenwerken had gebeld om te vragen of er fietsers door mochten. Die vertelde hem dat de weg volledig versperd was, maar dat ze fietsers die het vroegen doorlieten. Resultaat: na amper 50 meter zand (de wegenwerken) had ik tientallen kilometers perfect geasfalteerde wegen voor mij alleen. Zalig. 
-
-Ook Slovenië laat ik graag voor zich spreken.
+De volgende ochtend tijdens het ontbijt kwam hij naar me toe om mij (a) een koffie aan te bieden die eigenlijk enkel voor het personeel was en (b) te vertellen dat hij de verantwoordelijke van de wegenwerken had gebeld om te vragen of er fietsers door mochten. Die wist hem te vertellen dat de weg volledig versperd was, maar dat fietsers die het vroegen doorgelaten werden. Resultaat: na amper 50 meter wegenwerken had ik tientallen kilometers perfect geasfalteerde wegen voor mij alleen. Zalig. 
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
@@ -50,7 +48,7 @@ Ook Slovenië laat ik graag voor zich spreken.
 </article>
 </div>
 
-Niet alle wegen waren zo makkelijk.
+Nu, niet alle wegen in Slovenië waren zo toegankelijk. Soms had ik de indruk dat ik door iemands tuin aan het fietsen was (bevestigd door de hond die me achtervolgde), soms kon ik niet anders dat te voet verder gaan en het gebeurde dat ik niet goed wist waar de weg juist was. Dit alles werd echter volledig gecompenseerd door het landschap en de vriendelijke lokale bevolking.
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
@@ -63,16 +61,16 @@ Niet alle wegen waren zo makkelijk.
 
 ## Over zalig gesproken
 
-Niet alles was zalig. Ik lijk het ene leuke avontuur na het andere te beleven, maar uiteraard laat ik de mindere momentjes weg. Zal ik even een kleine bloemlezing geven om het geheel opnieuw wat realistischer te maken?
+Niet alles was zalig. Ik lijk het ene onwaarschijnlijke avontuur na het andere te beleven, maar uiteraard laat ik de mindere momenten vaak genoeg weg. Zal ik even een kleine bloemlezing geven om het geheel opnieuw wat realistischer te maken?
 
-- Ik ben niet een keer, niet twee keer, niet drie keer, maar vier keer gevallen (dat krijg je als je blindelings Google Maps volgt - zelfs doorheen militaire gebieden).
+- Ik ben niet een keer, niet twee keer, niet drie keer, maar vier keer gevallen (dat krijg je als je blindelings Google Maps volgt, zelfs doorheen militaire gebieden).
 - Ik heb een wespensteek op mijn ooglid gehad.
 - Ik heb mijn lip gesneden door mijn zakmes af te likken (toegegeven, dat was volledig mijn fout).
-- Ik ben een keer uit de bocht gevlogen rakelings langs een auto die uit de andere richting kwam.
+- Ik ben een keer uit de bocht gevlogen, rakelings langs een auto die uit de andere richting kwam.
 - Mijn ketting en mijn volledige ‘versnellingsbak’ zijn onderweg vervangen moeten worden.
 …
 
-Er zijn nog tal van andere grote en klein voorbeelden, maar die hou ik tot het einde!
+Er zijn nog tal van andere grote en kleine voorbeelden, maar die hou ik tot het einde! Hoedanook was er niets bij dat erg genoeg was om me van mijn spreekwoordelijke melk te brengen...  
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/d/embed?mid=1h52MkOEyZpzAVWLbLCiISP-lOKk' width='640' height='480'></iframe></div>
 <br>
