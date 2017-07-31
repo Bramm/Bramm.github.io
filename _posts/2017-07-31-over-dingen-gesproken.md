@@ -27,11 +27,11 @@ Ze kwam uit het zuiden van Argentinië en was vertrokken vanuit Berlijn. Opnieuw
 
 ## Over vooringenomenheden gesproken
 
-In Milaan was het tijd om te beslissen over mijn volgende bestemming. Ik twijfelde. Mijn origineel plan om via Rome naar Bari te gaan en daar de boot naar Albanië te nemen bleef erg aanlokkelijk, maar het alternatief om de Po te volgen richting Slovenië werd ook steeds aantrekkelijker. Op deze manier zou ik mijn trip wat inkorten en zou ik nadien wat meer beslissingsvrijheid hebben. Het zal inmiddels al wel opgevallen zijn dat ik voor deze laatste optie gegaan ben (vermits de blog inmiddels een kleine eeuwigheid achter loopt en aangezien de titel van dit stukje tekst een en ander verraad).
+Een aantal dagen later kwam ik een koppel erg sympathieke Britten tegen die met vouwfietsen (ja, vouwfietsen) een tocht van duizenden kilometers aan het ondernemen waren. Zij raadden me aan om Slovenië niet links te laten liggen en er zelfs zo snel mogelijk naartoe te gaan. Wie was ik om hun raad in de wind te slaan? Ik schrapte mijn geplande bezoek aan Triest meteen uit mijn agenda en liet mijn gps me recht naar Slovenië leiden.
 
-Uiteindelijk besloot ik nog iets meer naar het zuiden te gaan tot in Pavia om vervolgens oostwaarts te trekken. Na mijn korte stop in Pavia ging ik riching Piacenza om er opnieuw in een hostel te verblijven. Die tijd van het jaar gaat er blijkbaar geen kat naar daar, waardoor ik een kamer voor mij alleen had. Een ongeziene luxe op dat moment. Dit werd echter gecompenseerd door het kuispersoneel dat me de volgende dag letterlijk uit mijn kamer veegde. Ik was rustig aan het inpakken toen mijn kamerdeur werd opengemaakt en mijn badkamer gekuist werd. Iets zegt mij dat dit een inbreuk op de privacy was, maar zoals een echte Belg betaamt, maakte ik er geen enkele opmerking over. 
+Ze hadden verdomme gelijk. Slovenië was het prachtigste land dat ik totnogtoe gezien had. Ik laat opnieuw de foto’s voor zich spreken. Nu, omdat het uiteraard niet perfect mocht zijn, werd ik in Most na Soči getroffen door een onweer. Het was weer laat in de avond dus had ik geen andere keus (of dat vond ik toch op dat moment) om ter plekke een hotelkamer te boeken. De uitbater van het hotel bekeek mijn uitgestippelde route en verklaarde me tot gek. Blijkbaar zaten er ‘wegen’ bij waar ik met mijn fiets over de rotsen zou moeten klimmen. Hij toonde me een alternatieve route die hij regelmatig nam en die zeker de moeite zou zijn. Spijtig genoeg bleken er halverwege wegenwerken aan de gang (hiervoor hadden de Britten me ook al gewaarschuwd). De volgende ochtend tijdens het ontbijt kwam hij naar me toe om (a) mij een goede koffie aan te bieden - diegene waar enkel het personeel toegang tot heeft - en (b) mij te vertellen dat hij de verantwoordelijke van de wegenwerken had gebeld om te vragen of er fietsers door mochten. Die vertelde hem dat de weg volledig versperd was, maar dat ze fietsers die het vroegen doorlieten. Resultaat: na amper 50 meter zand (de wegenwerken) had ik tientallen kilometers perfect geasfalteerde wegen voor mij alleen. Zalig. 
 
-Ik bleef de Po volgen richting Venetië en begon mijn eerdere beslissing stilaan in vraag te stellen. Ik verwachtte me aan een koele rit langs het water met een mooi uitzicht. In plaats daarvan kreeg ik een fietspad op een kleine heuvel met rijstvelden langs beide kanten. Nergens schaduw, nergens een teken van de Po te bekennen. Al overdrijf ik misschien. Af en toe verscheen die even waardoor ik toch nog kon genieten van een mooi uitzicht.
+Ook Slovenië laat ik graag voor zich spreken.
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
@@ -41,6 +41,10 @@ Ik bleef de Po volgen richting Venetië en begon mijn eerdere beslissing stilaan
 <a href="{{ site.github.url }}/images/posts/Po2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Po2_Small.jpg" alt="Po" /></a>
 </article>
 </div>
+
+Niet alle wegen waren zo makkelijk.
+
+
 
 Het ging echter van kwaad naar erger. Soms zag ik kilometerslang geen enkele boom en kreeg ik schrik dat ik geen geschikte plek zou vinden om mijn hangmat op te hangen. Een paar dagen later had ik prijs. Het was 9u ‘s avonds en ik had nog steeds geen degelijke slaapplek gevonden. Net toen ik me ongerust begon te maken, kwam ik langs een klooster waar ze blijkbaar (want mijn Italiaans is beperkt tot het herkennen van logo’s met bedden) bedevaarders te slapen legden. Het bleek spijtig genoeg gesloten toen ik er aankwam. 
 
