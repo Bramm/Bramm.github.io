@@ -21,11 +21,11 @@ Zicht op zee en zicht op de Fransmannen.
 
 ## Over gelijkgezinden gesproken
 
-De volgende dag trok ik samen met diezelfde Brit naar het centrum van Milaan om vast te stellen dat daar een massa volk aan het samentroepen was om de aankomst van de Giro mee te maken. Ondanks onze voorliefde voor grote massa’s mensen, lawaai en rondvliegend bier, besloten we naar een park buiten het centrum te gaan waar de renners ook zouden passeren. Kort samengevat: elke 15 minuten een renner zien passeren (nvdr: het was een tijdrit) was een boeiende ervaring, maar niet meer dan dat. Een uur later hadden we het gehad en baanden we ons opnieuw een weg door de massa op weg naar ons hostel. 
+Nog steeds rond Venetië bevond ik me op een camping met naast me een volgeladen tourfiets. Aangezien hij een achteruitkijkspiegel had, ging ik er meteen van uit dat het om een oude man ging. Ik kon er niet verder naast zitten. Niet veel later kwam er een jonge vrouw naar me toe gewandeld. Daar stond ik met m'n vooringenomenheden.
 
+Ze kwam uit het zuiden van Argentinië en was vertrokken vanuit Berlijn. Opnieuw iemand die de omgekeerde beweging maakte dus. Het voordeel hiervan is natuurlijk wel dat je elkaar tips kan geven over wat er te wachten staat. We brachten twee leuke avonden aan het strand door (ondanks de kleine muggenplaag), waarvan eentje vergezeld werd van vuurwerk. Letterlijk vuurwerk. Denk wat je zelf wil over figuurlijk vuurwerk.
 
-
-## Giro di Po
+## Over vooringenomenheden gesproken
 
 In Milaan was het tijd om te beslissen over mijn volgende bestemming. Ik twijfelde. Mijn origineel plan om via Rome naar Bari te gaan en daar de boot naar Albanië te nemen bleef erg aanlokkelijk, maar het alternatief om de Po te volgen richting Slovenië werd ook steeds aantrekkelijker. Op deze manier zou ik mijn trip wat inkorten en zou ik nadien wat meer beslissingsvrijheid hebben. Het zal inmiddels al wel opgevallen zijn dat ik voor deze laatste optie gegaan ben (vermits de blog inmiddels een kleine eeuwigheid achter loopt en aangezien de titel van dit stukje tekst een en ander verraad).
 
