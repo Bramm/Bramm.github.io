@@ -68,7 +68,6 @@ Niet alles was zalig. Ik lijk het ene onwaarschijnlijke avontuur na het andere t
 - Ik heb mijn lip gesneden door mijn zakmes af te likken (toegegeven, dat was volledig mijn fout).
 - Ik ben een keer uit de bocht gevlogen, rakelings langs een auto die uit de andere richting kwam.
 - Mijn ketting en mijn volledige ‘versnellingsbak’ zijn onderweg vervangen moeten worden.
-- …
 
 Er zijn nog tal van andere grote en kleine voorbeelden, maar die hou ik tot het einde! Hoedanook was er niets bij dat erg genoeg was om me van mijn spreekwoordelijke melk te brengen...  
 
