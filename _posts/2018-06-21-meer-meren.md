@@ -2,9 +2,35 @@
 published: true
 layout: post
 title: Meer meren
-excerpt: Na mijn bezoek aan Ferrara vertrok ik richting Venetië en vond ik opnieuw geen plek om te overnachten. De Italianen vierden blijkbaar hun nationale feestdag en namen alle campings in beslag. Midden in dit toeristische gebied leek het bovendien onmogelijk om subtiel te kamperen langs de weg. Na lang zoeken vond ik gelukkig toch een camping in Chioggia die me - nogal letterlijk - tussen de andere kampeerders in wilde proppen. Aangezien het inmiddels half elf 's avonds was, ging ik hier graag op in. Ik vond twee bomen tussen een aantal tenten en hoopte dat niemand over mijn hangmat zou struikelen om vervolgens nóg slechter gezind rond te lopen (Juventus had net de finale van de Champions League verloren).
+excerpt: Niet enkel de Sloveense bergen waren prachtig, ook de meren mochten er zijn. Ik ging van het minder bekende meer van Bohinj naar het alom bekende meer van Bled. Aan dat eerste meer hing ik mijn hangmat op en ontmoette ik een vriendelijke Duitser die met zijn fiets aan het rondtrekken was. "De ideale gelegenheid om mijn Duits op te poetsen", dacht ik. Ik vroeg hem om geen Engels te spreken - voor hem een grote opluchting - maar het daaropvolgende gesprek verliep spijtig genoeg minder vlot dan verwacht. Hij had op z'n minst mogen vermelden dat hij uit Beieren kwam en een lokaal dialect sprak. Daar zat ik dan met mijn matig Hoogduits...”ja, nein, genau, stimmt, tschüss!”.
 ---
-Na mijn bezoek aan Ferrara vertrok ik richting Venetië en vond ik opnieuw geen plek om te overnachten. De Italianen vierden blijkbaar hun nationale feestdag en namen alle campings in beslag. Midden in dit toeristische gebied leek het bovendien onmogelijk om subtiel te kamperen langs de weg. Na lang zoeken vond ik gelukkig toch een camping in Chioggia die me - nogal letterlijk - tussen de andere kampeerders in wilde proppen. Aangezien het inmiddels half elf 's avonds was, ging ik hier graag op in. Ik vond twee bomen tussen een aantal tenten en hoopte dat niemand over mijn hangmat zou struikelen om vervolgens nóg slechter gezind rond te lopen (Juventus had net de finale van de Champions League verloren).
+Niet enkel de Sloveense bergen waren prachtig, ook de meren mochten er zijn. Ik ging van het minder bekende meer van Bohinj naar het alom bekende meer van Bled. Aan dat eerste meer hing ik mijn hangmat op en ontmoette ik een vriendelijke Duitser die met zijn fiets aan het rondtrekken was. "De ideale gelegenheid om mijn Duits op te poetsen", dacht ik. Ik vroeg hem om geen Engels te spreken - voor hem een grote opluchting - maar het daaropvolgende gesprek verliep spijtig genoeg minder vlot dan verwacht. Hij had op z'n minst mogen vermelden dat hij uit Beieren kwam en een lokaal dialect sprak. Daar zat ik dan met mijn matig Hoogduits...”ja, nein, genau, stimmt, tschüss!”.
+
+## Meer
+
+De camping aan het meer van Bohinj is trouwens een aanrader voor iedereen. Het gaat om beschermd gebied, dus auto’s zijn slechts beperkt toegelaten en mogen zeker niet tot vlak aan het meer komen. Fietsers en voetgangers daarentegen kunnen hun tent bij wijze van spreken bijna in het water zetten. Hetzelfde water waarin ik trouwens al mijn vuile was spoelde om hem nadien voor iedereen uit te hangen.
+
+## Meren
+
+Daags nadien bevond ik me reeds aan het meer van Bled, duidelijk het meer populaire van de twee. Het liep er tjokvol toeristen die elk dezelfde identieke foto wilden van het diepblauwe meer. Aan deze commerce deed ik uiteraard niet mee *kuch kuch*.
+
+(foto’s in mapje writing)
+
+Meren bleven een rode draad doorheen mijn tocht. Niet alleen door mijn aantrekking door water (hoewel ik niet de grootste fan ben van zwemmen), maar vooral ook omdat campings zich neigen te plaatsen naast meren.
+
+
+Een groot voordeel aan al het fietsen trouwens: slapen is geen enkel probleem. Zodra de zon onder gaat, vallen mijn ogen langzaam toe en ‘s ochtends word ik door het eerste licht gewekt.
+
+## Minder meren
+
+Ljubljana Metalkova met Emma Jo Pickup Michael en Walter
+
+Wandeling kasteel bezoeken
+
+Skyscraper, 2 maal metalcova, michael
+
+(fotos downloads)
+
 
 Daags nadien kwam ik nog wat gelijkgezinden tegen. Twee Fransmannen uit Toulouse maakten de omgekeerde beweging en waren dus op weg naar huis. Na een koffie en een kort gesprek zetten we elk onze tocht weer verder. Het mag duidelijk zijn dat bikepackers een figuurlijke zee van tijd hebben, maar tegelijkertijd elke dag hun doelen moeten (lees: willen) halen. 
 
