@@ -8,7 +8,7 @@ Niet enkel de Sloveense bergen waren prachtig, ook de meren mochten er zijn. Ik 
 
 ## Meer
 
-De camping aan het meer van Bohinj is trouwens een aanrader voor iedereen. Het volledig natuurgebied is beschermd waardoor auto’s slechts beperkt toegelaten worden en zeker niet tot vlak aan het meer mogen komen. Fietsers en voetgangers daarentegen kunnen hun tent bij wijze van spreken bijna in het water zetten. Hetzelfde water waarin ik trouwens al mijn vuile was spoelde om hem nadien voor iedereen uit te hangen.
+De camping aan het meer van Bohinj is trouwens voor iedereen een aanrader. Het gaat om een beschermd natuurgebied waardoor auto’s slechts beperkt toegelaten worden en zeker niet in de buurt van het meer mogen komen. Fietsers en voetgangers daarentegen kunnen hun tent bij wijze van spreken bijna in het water zetten. Hetzelfde water waarin ik trouwens al mijn vuile was spoelde om hem nadien voor iedereen uit te hangen.
 
 ## Meren
 
