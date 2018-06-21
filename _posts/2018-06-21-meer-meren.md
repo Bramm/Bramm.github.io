@@ -2,9 +2,9 @@
 published: true
 layout: post
 title: Meer meren
-excerpt: Niet enkel de Sloveense bergen waren prachtig, ook de meren mochten er zijn. Ik ging van het minder bekende meer van Bohinj naar het alom bekende meer van Bled. Aan dat eerste meer hing ik mijn hangmat op en ontmoette ik een vriendelijke Duitser die net als ik met zijn fiets aan het rondtrekken was. De ideale gelegenheid om mijn Duits op te poetsen, dacht ik. Ik vroeg hem om geen Engels te spreken (hetgeen voor hem een grote opluchting was), maar het daaropvolgende gesprek verliep minder vlot dan verwacht. Hij had op z'n minst mogen vermelden dat hij uit Beieren kwam en een lokaal dialect sprak. Daar zat ik dan met mijn matig Hoogduits...”ja, nein, genau, stimmt, tschüss!”.
+excerpt: Niet enkel de Sloveense bergen waren prachtig, ook de meren mochten er zijn. Ik ging van het minder bekende meer van Bohinj naar het alom bekende meer van Bled. Aan dat eerste meer hing ik mijn hangmat op en ontmoette ik een vriendelijke Duitser die net als ik met zijn fiets aan het rondtrekken was. De ideale gelegenheid om mijn Duits op te poetsen, dacht ik. Ik vroeg hem om geen Engels te spreken (hetgeen voor hem een grote opluchting was), maar het daaropvolgende gesprek verliep minder vlot dan verwacht. Hij had op z'n minst mogen vermelden dat hij uit Beieren kwam en een lokaal dialect sprak. Daar zat ik dan met mijn matig Hoogduits: ”ja, nein, genau, stimmt, tschüss!”.
 ---
-Niet enkel de Sloveense bergen waren prachtig, ook de meren mochten er zijn. Ik ging van het minder bekende meer van Bohinj naar het alom bekende meer van Bled. Aan dat eerste meer hing ik mijn hangmat op en ontmoette ik een vriendelijke Duitser die net als ik met zijn fiets aan het rondtrekken was. De ideale gelegenheid om mijn Duits op te poetsen, dacht ik. Ik vroeg hem om geen Engels te spreken (hetgeen voor hem een grote opluchting was), maar het daaropvolgende gesprek verliep minder vlot dan verwacht. Hij had op z'n minst mogen vermelden dat hij uit Beieren kwam en een lokaal dialect sprak. Daar zat ik dan met mijn matig Hoogduits...”ja, nein, genau, stimmt, tschüss!”.
+Niet enkel de Sloveense bergen waren prachtig, ook de meren mochten er zijn. Ik ging van het minder bekende meer van Bohinj naar het alom bekende meer van Bled. Aan dat eerste meer hing ik mijn hangmat op en ontmoette ik een vriendelijke Duitser die net als ik met zijn fiets aan het rondtrekken was. De ideale gelegenheid om mijn Duits op te poetsen, dacht ik. Ik vroeg hem om geen Engels te spreken (hetgeen voor hem een grote opluchting was), maar het daaropvolgende gesprek verliep minder vlot dan verwacht. Hij had op z'n minst mogen vermelden dat hij uit Beieren kwam en een lokaal dialect sprak. Daar zat ik dan met mijn matig Hoogduits: ”ja, nein, genau, stimmt, tschüss!”.
 
 ## Meer
 
@@ -12,9 +12,16 @@ De camping aan het meer van Bohinj is trouwens voor iedereen een aanrader. Het g
 
 ## Meren
 
-Daags nadien bevond ik me reeds aan het meer van Bled, duidelijk het meer populaire van de twee. Het liep er tjokvol toeristen die elk dezelfde identieke foto wilden van het diepblauwe meer. Aan deze *commerce* (pun intended voor wie op de hoogte is van mijn huidige fratsen) deed ik uiteraard niet mee *kuch kuch*.
+Daags nadien bevond ik me reeds aan het meer van Bled, duidelijk het meer populaire van de twee. Het liep er tjokvol toeristen die elk dezelfde foto wilden van het diepblauwe meer. Aan deze *commerce* (pun intended voor wie op de hoogte is van mijn huidige fratsen) deed ik uiteraard niet mee...
 
-(foto’s in mapje writing)
+<div class="row">
+<article class="6u 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/Bled 1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Bled1_Small.jpg" alt="Bled" /></a>
+</article>
+<article class="6u$ 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/Bled 2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Bled2_Small.jpg" alt="Bled" /></a>
+</article>
+</div>
 
 Meren bleven een rode draad doorheen mijn tocht. Niet alleen door mijn aantrekking door water (hoewel ik niet de grootste fan ben van zwemmen), maar vooral ook omdat campings zich neigen te plaatsen naast meren.
 
