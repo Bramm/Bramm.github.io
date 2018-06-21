@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Over dingen gesproken
+title: Meer meren
 excerpt: Na mijn bezoek aan Ferrara vertrok ik richting Venetië en vond ik opnieuw geen plek om te overnachten. De Italianen vierden blijkbaar hun nationale feestdag en namen alle campings in beslag. Midden in dit toeristische gebied leek het bovendien onmogelijk om subtiel te kamperen langs de weg. Na lang zoeken vond ik gelukkig toch een camping in Chioggia die me - nogal letterlijk - tussen de andere kampeerders in wilde proppen. Aangezien het inmiddels half elf 's avonds was, ging ik hier graag op in. Ik vond twee bomen tussen een aantal tenten en hoopte dat niemand over mijn hangmat zou struikelen om vervolgens nóg slechter gezind rond te lopen (Juventus had net de finale van de Champions League verloren).
 ---
 Na mijn bezoek aan Ferrara vertrok ik richting Venetië en vond ik opnieuw geen plek om te overnachten. De Italianen vierden blijkbaar hun nationale feestdag en namen alle campings in beslag. Midden in dit toeristische gebied leek het bovendien onmogelijk om subtiel te kamperen langs de weg. Na lang zoeken vond ik gelukkig toch een camping in Chioggia die me - nogal letterlijk - tussen de andere kampeerders in wilde proppen. Aangezien het inmiddels half elf 's avonds was, ging ik hier graag op in. Ik vond twee bomen tussen een aantal tenten en hoopte dat niemand over mijn hangmat zou struikelen om vervolgens nóg slechter gezind rond te lopen (Juventus had net de finale van de Champions League verloren).
