@@ -38,11 +38,11 @@ Er zijn volgens mij niet veel zaken aangenamer dan na een dagje fietsen zicht te
 
 ## Minder meren
 
-Ljubljana Metalkova met Emma Jo Pickup Michael en Walter
+Na mijn overdosis aan natuur, zette ik mijn tocht verder richting de hoofdstad van Slovenië, Ljubljana. Ik boekte twee nachten in een populair hostel in het midden van de stad en maakte kennis met 2 Amerikanen en een Britse (het zoveelste begin van een slechte mop). De eerste avond ging ik met hen naar Metalkova, een mini-stad binnenin de stad die nog het beste te vergelijken valt met Christiania in Kopenhagen. Hier dronken we menig pintje met populaire en vooral minder populaire muziek op de achtergrond. Een van de Amerikanen en ik bleven het langste hangen en besloten ook de volgende dag op stap te gaan.
 
-Wandeling kasteel bezoeken
+Nadat ik zelf het kasteel van Ljubljana (Ljubljanski grad), een middeleeuws achitecturaal monument, had bezocht, gingen we samen iets drinken in de Nebotičnik wolkenkrabber. Het werd opnieuw laat, waardoor ik er onderstaande foto aan overhield. Een zicht over Ljubljana met een quasi volle maan op de achtergrond. Alsof de avond nog niet genoeg geboden had, vertrokken we nadien voor een tweede maal naar Metalkova waar er tal van levenswijsheden uitgewisseld werden. Jammer dat zulke gesprekken moeilijk blijven hangen.
 
-Skyscraper, 2 maal metalcova, michael
+De volgende dag ging ieder opnieuw zijn of haar eigen weg op. Voor mij zouden dit helse beklimmingen richting Maribor betekenen...
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
