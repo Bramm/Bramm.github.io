@@ -21,7 +21,7 @@ De camping aan het meer van Bohinj is trouwens een absolute aanrader. Ze ligt vo
 
 ## Meren
 
-Daags nadien bevond ik me reeds aan het meer van Bled, duidelijk het meer populaire van de twee. Het liep er tjokvol toeristen die elk dezelfde foto wilden van het diepblauwe meer. Aan deze *commerce* (pun intended voor wie op de hoogte is van mijn huidige fratsen) deed ik uiteraard niet mee...
+Daags nadien bevond ik me reeds aan het meer van Bled, duidelijk het meer populaire van de twee. Het liep er tjokvol toeristen die elk eenzelfde foto wilden van het diepblauwe meer en de groene omgeving. Aan deze *commerce* (pun intended voor wie op de hoogte is van mijn huidige fratsen) deed ik uiteraard niet mee...
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
@@ -32,7 +32,9 @@ Daags nadien bevond ik me reeds aan het meer van Bled, duidelijk het meer popula
 </article>
 </div>
 
-Meren bleven sindsdien een rode draad doorheen mijn tocht. Niet alleen door mijn aantrekking door water (hoewel ik niet de grootste fan ben van zwemmen), maar vooral ook omdat campings zich naast meren neigen te plaatsen. Er zijn volgens mij niet veel zaker aangenamer dan na een dagje fietsen zicht te hebben op water (of het nu een zee, meer, vijver of - in mindere mate - plonsbadje is) in combinatie met een ondergaande zon en een zeer middelmatige campingmaaltijd om vervolgens van vermoeidheid als een blok in slaap te vallen in de zwoele avondwarmte en nadien door diezelfde opkomende zon gewekt te worden.
+Sindsdien bleven meren een rode draad doorheen mijn tocht. Niet alleen door de aantrekking die water op mij uitoefent (hoewel ik niet de grootste zwemfanaat ben), maar vooral ook omdat campings zich naast meren neigen te plaatsen. 
+
+Er zijn volgens mij niet veel zaken aangenamer dan na een dagje fietsen zicht te hebben op water (of het nu een zee, meer, vijver of plonsbadje is) in combinatie met een ondergaande zon, een middelmatige campingmaaltijd en een lauwe pint om vervolgens als een blok in slaap te vallen in de zwoele avondwarmte.
 
 ## Minder meren
 
