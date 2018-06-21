@@ -32,10 +32,7 @@ Daags nadien bevond ik me reeds aan het meer van Bled, duidelijk het meer popula
 </article>
 </div>
 
-Meren bleven een rode draad doorheen mijn tocht. Niet alleen door mijn aantrekking door water (hoewel ik niet de grootste fan ben van zwemmen), maar vooral ook omdat campings zich neigen te plaatsen naast meren.
-
-
-Een groot voordeel aan al het fietsen trouwens: slapen is geen enkel probleem. Zodra de zon onder gaat, vallen mijn ogen langzaam toe en ‘s ochtends word ik door het eerste licht gewekt.
+Meren bleven sindsdien een rode draad doorheen mijn tocht. Niet alleen door mijn aantrekking door water (hoewel ik niet de grootste fan ben van zwemmen), maar vooral ook omdat campings zich naast meren neigen te plaatsen. Er zijn volgens mij niet veel zaker aangenamer dan na een dagje fietsen zicht te hebben op water (of het nu een zee, meer, vijver of - in mindere mate - plonsbadje is) in combinatie met een ondergaande zon en een zeer middelmatige campingmaaltijd om vervolgens van vermoeidheid als een blok in slaap te vallen in de zwoele avondwarmte en nadien door diezelfde opkomende zon gewekt te worden.
 
 ## Minder meren
 
