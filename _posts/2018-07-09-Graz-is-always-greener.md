@@ -42,7 +42,7 @@ Vanuit Maribor stak ik de grens over naar Oostenrijk. Op het eerste zicht erg ba
 
 ## Schloßberg in the moonlight
 
-Wie de [Jowan](http://www.jowan.be/ "Jowan - supporting cyclists since 1979") pagina gelezen heeft, weet dat ik een hele tijd gegamed heb. Daarbij speelde ik steeds samen met eenzelfde groep mensen. De Oostenrijker van de groep stak erboven uit, mede dankzij de gelijkaardige muzieksmaak en - vermoed ik - hetzelfde gevoel voor humon. Welnu, ik besloot mijn tocht Graz te laten passeren en hem daar voor het eerst te ontmoeten, afgezien van de ettelijke uren online spelen en muziek luisteren.
+Wie de [Over mezelf](http://on-going.org/about "Over mezelf") pagina gelezen heeft, weet dat ik een hele tijd gegamed heb. Daarbij speelde ik steeds samen met eenzelfde groep mensen. De Oostenrijker van de groep stak erboven uit, mede dankzij de gelijkaardige muzieksmaak en - vermoed ik - hetzelfde gevoel voor humon. Welnu, ik besloot mijn tocht Graz te laten passeren en hem daar voor het eerst te ontmoeten, afgezien van de ettelijke uren online spelen en muziek luisteren.
 
 Toegekomen in Graz leek het meteen alsof we elkaar al jaren kenden (wat natuurlijk ook wel een beetje zo was). We kochten wat pinten in een Spar (die daar wel lang open blijft) en wandelden de Schloßberg op. Bovenop de berg stond de Grazer Uhrturm, een klokkentoren waarvan de minuutwijzer korter was dan de uurwijzer. Blijkbaar - correct me if I'm wrong, Rafael - was dit omdat er eerst enkel een uurwijzer hing die goed zichtbaar moest zijn voor de inwoners van de stad (vandaar de grootte). Pas later werd de minuutwijzer toegevoegd die eigenlijk minder belangrijk was. Een mini-geschiedenislesje. 
 
