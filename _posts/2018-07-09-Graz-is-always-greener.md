@@ -27,7 +27,7 @@ Vooraleer ik verder fietste naar Oostenrijk - waar ik vrienden in Graz en Wenen 
 
 Al snel kwam ik aan in Maribor, de tweede grootste stad van Slovenië, waar ik opnieuw een nacht in een hostel geboekt had. Zo kon ik - het was nu al even geleden - nog eens op een degelijke matras slapen en een warme douche nemen. Het hostel lag midden in wat ik een "alternatieve" buurt zal noemen. ‘s Avonds viel het me namelijk op dat er luide muziek aan het spelen was op en naast het pleintje dat ik vanuit mijn kamer kon zien. Geïntrigeerd ging ik naar buiten om vast te stellen dat er mini-rave plaatsvond voor de 4 aanwezigen. Jammer dat 5 Slovenen mijn benedengrens is om me volledig comfortabel te voelen en spontaan aan te sluiten... 
 
-Na een korte avondwandeling door de stad kwam ik terug aan in het hostel waar inmiddels een familie met twee kinderen was aanbeland. Ze spraken Arabisch en 2 woorden Duits. Spijtig genoeg was dit niet het sterkste punt van de nachtwaker die op dat moment aan de balie zat. Als tolk Duits, Engels en Google-Translate Arabisch kon ik de mensen aan een kamer helpen. Gratis karma. 
+Na een korte avondwandeling door de stad kwam ik terug aan in het hostel waar inmiddels een familie met twee kinderen was aanbeland. Ze spraken Arabisch en ongeveer 2 woorden Duits. Spijtig genoeg was dit niet het sterkste punt van de nachtwaker die op dat moment aan de balie zat. Als tolk Duits, Engels en Google-Translate Arabisch kon ik de mensen aan een kamer helpen. Gratis karma. 
 
 Vanuit Maribor stak ik de grens over naar Oostenrijk. Op het eerste zicht lijkt misschien erg normaal, tot je de restanten ziet van wat eens een streng gecontroleerde grensovergang was en mogelijk opnieuw dreigt te worden.
 
