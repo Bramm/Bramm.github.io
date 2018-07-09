@@ -50,7 +50,7 @@ We zochten een goed plekje op de berg en dronken terwijl we wijsheden uitwisseld
 
 Als de pinten op waren, namen we de lift naar beneden (als ik me goed herinner zelfs - per ongeluk - gratis) en besloten we nog een laatste te drinken op café. Daar viel het me voor het eerst op dat er in Oostenrijk nog steeds binnen gerookt mag worden. Iets waar ik - sinds mijn bezoek in Marokko - helemaal niet meer aan gewend was.
 
-Na de warme lenteavond (13 juni 2017 was het) vertrok ik richting mijn hostel om de volgende dag opnieuw op weg te gaan. Deze keer naar een Finse vriend in Wenen, deze keer met nog steilere beklimmingen, deze keer (misschien) met nog meer Woody Allen referenties in mijn tussentiteltjes.
+Na de warme lenteavond (ik had eerst zomeravond geschreven, maar het bleek 13 juni te zijn) vertrok ik richting mijn hostel om de volgende dag opnieuw op weg te gaan. Deze keer naar een Finse vriend in Wenen, deze keer met nog steilere beklimmingen, deze keer (misschien) met nog meer Woody Allen referenties in mijn tussentiteltjes.
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
