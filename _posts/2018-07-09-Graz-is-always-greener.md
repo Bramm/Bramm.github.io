@@ -2,9 +2,9 @@
 published: true
 layout: post
 title: Graz is always greener on the other side
-excerpt: Wie dacht dat het nu gedaan zou zijn met de meren, is eraan voor de moeite. Het verhaal zet zich voort op Camping Jezero in Velenje, Slovenië. Deze camping lag aan een prachtig meer dat meteen voor afkoeling zorgde na de onverwacht steile hellingen die ik eerder die dag had moeten trotseren. De minder flatterende foto waarop ik van kop tot teen bezweet voor me uit staar op een van die hellingen, bespaar ik jullie. Wat ik jullie echter niet zal besparen, zijn de opnieuw verbluffende uitzichten en het bewijs dat ik niet loog over die hellingen!
+excerpt: Wie dacht dat het nu gedaan zou zijn met de meren, is eraan voor de moeite. Het verhaal zet zich voort op Camping Jezero in Velenje, Slovenië. Deze camping lag aan een prachtig meer dat meteen voor afkoeling zorgde na de onverwacht steile hellingen die ik eerder die dag had moeten trotseren. De minder flatterende foto waarop ik van kop tot teen bezweet voor me uit staar op een van die hellingen, bespaar ik jullie. Wat ik jullie niet bespaar, zijn de opnieuw verbluffende uitzichten en het bewijs dat ik niet loog over die hellingen!
 ---
-Wie dacht dat het nu gedaan zou zijn met de meren, is eraan voor de moeite. Het verhaal zet zich voort op Camping Jezero in Velenje, Slovenië. Deze camping lag aan een prachtig meer dat meteen voor afkoeling zorgde na de onverwacht steile hellingen die ik eerder die dag had moeten trotseren. De minder flatterende foto waarop ik van kop tot teen bezweet voor me uit staar op een van die hellingen, bespaar ik jullie. Wat ik jullie echter niet zal besparen, zijn de opnieuw verbluffende uitzichten en het bewijs dat ik niet loog over die hellingen!
+Wie dacht dat het nu gedaan zou zijn met de meren, is eraan voor de moeite. Het verhaal zet zich voort op Camping Jezero in Velenje, Slovenië. Deze camping lag aan een prachtig meer dat meteen voor afkoeling zorgde na de onverwacht steile hellingen die ik eerder die dag had moeten trotseren. De minder flatterende foto waarop ik van kop tot teen bezweet voor me uit staar op een van die hellingen, bespaar ik jullie. Wat ik jullie niet bespaar, zijn de opnieuw verbluffende uitzichten en het bewijs dat ik niet loog over die hellingen!
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
