@@ -4,7 +4,9 @@ layout: post
 title: Graz is always greener on the other side
 excerpt: Wie dacht dat het nu gedaan zou zijn met de meren, is eraan voor de moeite. Het verhaal zet zich voort op Camping Jezero in Velenje, Slovenië. De camping lag aan een prachtig meer dat meteen voor afkoeling zorgde na de onverwacht steile hellingen die ik eerder die dag had moeten trotseren. De minder flatterende foto waarop ik van kop tot teen bezweet voor me uit staar op een van die hellingen, bespaar ik jullie. Wat ik jullie echter niet zal besparen, zijn de opnieuw verbluffende uitzichten. Vooraleer ik verder fietste naar Oostenrijk - waar ik vrienden in Graz en Wenen zou bezoeken - hield ik nog een laatste keer halt in Slovenië.
 ---
-Wie dacht dat het nu gedaan zou zijn met de meren, is eraan voor de moeite. Het verhaal zet zich voort op Camping Jezero in Velenje, Slovenië. De camping lag aan een prachtig meer dat meteen voor afkoeling zorgde na de onverwacht steile hellingen die ik eerder die dag had moeten trotseren. De minder flatterende foto waarop ik van kop tot teen bezweet voor me uit staar op een van die hellingen, bespaar ik jullie. Wat ik jullie echter niet zal besparen, zijn de opnieuw verbluffende uitzichten. Vooraleer ik verder fietste naar Oostenrijk - waar ik vrienden in Graz en Wenen zou bezoeken - hield ik nog een laatste keer halt in Slovenië.
+Wie dacht dat het nu gedaan zou zijn met de meren, is eraan voor de moeite. Het verhaal zet zich voort op Camping Jezero in Velenje, Slovenië. De camping lag aan een prachtig meer dat meteen voor afkoeling zorgde na de onverwacht steile hellingen die ik eerder die dag had moeten trotseren. De minder flatterende foto waarop ik van kop tot teen bezweet voor me uit staar op een van die hellingen, bespaar ik jullie. Wat ik jullie echter niet zal besparen, zijn de opnieuw verbluffende uitzichten. 
+
+Vooraleer ik verder fietste naar Oostenrijk - waar ik vrienden in Graz en Wenen zou bezoeken - hield ik nog een laatste keer halt in Slovenië.
 
 ## Midnight in Maribor
 
