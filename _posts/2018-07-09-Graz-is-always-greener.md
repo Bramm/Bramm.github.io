@@ -65,4 +65,4 @@ Het begint me trouwens op te vallen dat mijn notitieboekje grote gaten begint te
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/d/embed?mid=1h52MkOEyZpzAVWLbLCiISP-lOKk' width='640' height='480'></iframe></div>
 <br>
-tl;dr: From Slovenia I made my way into Austria where I met a first friend. After a what I would never ever call a boring history lesson, we got tipsy and talked and walked throughout the city (Graz in case you didn't decipher the funny word pun in the title).
+tl;dr: From Slovenia I made my way into Austria where I met a first friend. After a what I would never ever call a boring history lesson, we got tipsy and talked and walked throughout the city (which was Graz in case you didn't decipher the funny word pun in the title).
