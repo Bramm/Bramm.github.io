@@ -21,7 +21,7 @@ Wie dacht dat het nu gedaan zou zijn met de meren, is eraan voor de moeite. Het 
 </article>
 </div>
 
-Vooraleer ik verder fietste naar Oostenrijk - waar ik vrienden in zowel Graz als Wenen zou bezoeken - hield ik nog een laatste keer halt in Slovenië.
+Vooraleer ik verder fietste naar Oostenrijk - waar ik vrienden in Graz en Wenen zou bezoeken - hield ik nog een laatste keer halt in Slovenië.
 
 ## Midnight in Maribor
 
