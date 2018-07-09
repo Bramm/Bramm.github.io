@@ -13,6 +13,12 @@ Wie dacht dat het nu gedaan zou zijn met de meren, is eraan voor de moeite. Het 
 <article class="6u$ 12u$(xsmall) work-item">
 <a href="{{ site.github.url }}/images/posts/Uitzicht2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Uitzicht2_Small.jpg" alt="Uitzicht" /></a>
 </article>
+<article class="6u 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/Verkeersbord1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Verkeersbord1_Small.jpg" alt="Verkeersbord" /></a>
+</article>
+<article class="6u$ 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/Verkeersbord2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Verkeersbord2_Small.jpg" alt="Verkeersbord" /></a>
+</article>
 </div>
 
 Vooraleer ik verder fietste naar Oostenrijk - waar ik vrienden in Graz en Wenen zou bezoeken - hield ik nog een laatste keer halt in Slovenië.
