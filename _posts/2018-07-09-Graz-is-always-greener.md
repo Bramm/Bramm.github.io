@@ -8,7 +8,7 @@ Wie dacht dat het nu gedaan zou zijn met de meren, is eraan voor de moeite. Het 
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
-<a href="{{ site.github.url }}/images/posts/Uizicht1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Uizicht1_Small.jpg" alt="Uitzicht" /></a>
+<a href="{{ site.github.url }}/images/posts/Uitzicht1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Uitzicht1_Small.jpg" alt="Uitzicht" /></a>
 </article>
 <article class="6u$ 12u$(xsmall) work-item">
 <a href="{{ site.github.url }}/images/posts/Uitzicht2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Uitzicht2_Small.jpg" alt="Uitzicht" /></a>
