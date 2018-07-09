@@ -6,6 +6,15 @@ excerpt: Wie dacht dat het nu gedaan zou zijn met de meren, is eraan voor de moe
 ---
 Wie dacht dat het nu gedaan zou zijn met de meren, is eraan voor de moeite. Het verhaal zet zich voort op Camping Jezero in Velenje, Slovenië. De camping lag aan een prachtig meer dat meteen voor afkoeling zorgde na de onverwacht steile hellingen die ik eerder die dag had moeten trotseren. De minder flatterende foto waarop ik van kop tot teen bezweet voor me uit staar op een van die hellingen, bespaar ik jullie. Wat ik jullie echter niet zal besparen, zijn de opnieuw verbluffende uitzichten. 
 
+<div class="row">
+<article class="6u 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/Uizicht1.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Uizicht1_Small.jpg" alt="Uitzicht" /></a>
+</article>
+<article class="6u$ 12u$(xsmall) work-item">
+<a href="{{ site.github.url }}/images/posts/Uitzicht2.jpg" class="image fit thumb"><img src="{{ site.github.url }}/images/posts/Uitzicht2_Small.jpg" alt="Uitzicht" /></a>
+</article>
+</div>
+
 Vooraleer ik verder fietste naar Oostenrijk - waar ik vrienden in Graz en Wenen zou bezoeken - hield ik nog een laatste keer halt in Slovenië.
 
 ## Midnight in Maribor
