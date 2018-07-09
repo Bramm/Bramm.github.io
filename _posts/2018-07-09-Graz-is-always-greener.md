@@ -61,7 +61,7 @@ Na de warme lenteavond (ik had eerst zomeravond geschreven, maar het bleek 13 ju
 </article>
 </div>
 
-Het begint me trouwens op te vallen dat mijn notitieboekje grote gaten begint te vertonen. Ik heb het gevoel dat ik meer en meer (bekende) mensen tegenkwam en me meer en meer op mijn gemak voelde in dit nieuwe leven onderweg. Er bleef dan ook minder en minder tijd over om mijn avonturen neer te pennen. Ik doe uiteraard m'n best de overgebleven verhalen niet te veel aan te dikken.
+Het begint me trouwens op te vallen dat mijn notitieboekje grote gaten begint te vertonen. Ik heb het gevoel dat ik meer en meer (bekende) mensen tegenkwam en me meer en meer op mijn gemak voelde. Er bleef dan ook minder en minder tijd over om mijn avonturen neer te pennen. Ik doe uiteraard m'n best de overgebleven verhalen niet te veel aan te dikken.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.google.com/maps/d/embed?mid=1h52MkOEyZpzAVWLbLCiISP-lOKk' width='640' height='480'></iframe></div>
 <br>
