@@ -29,7 +29,7 @@ Al snel kwam ik aan in Maribor, de tweede grootste stad van Slovenië, waar ik o
 
 Na een korte nachtwandeling door de stad kwam ik terug aan in het hostel waar inmiddels een familie met twee kinderen was aanbeland. Ze spraken Arabisch en ongeveer 2 woorden Duits. Spijtig genoeg was dit niet het sterkste punt van de nachtwaker die op dat moment aan de balie zat. Als tolk Duits, Engels en Google-Translate Arabisch kon ik de mensen aan een kamer helpen. Gratis karma. 
 
-Vanuit Maribor stak ik de grens over naar Oostenrijk. Op het eerste zicht lijkt misschien erg normaal, tot je de restanten ziet van wat eens een streng gecontroleerde grensovergang was en mogelijk opnieuw dreigt te worden.
+Vanuit Maribor stak ik de grens over naar Oostenrijk. Op het eerste zicht lijkt dit misschien erg normaal, tot je de restanten ziet van wat eens een streng gecontroleerde grensovergang was. Ik fietste er vrolijk doorheen.
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
