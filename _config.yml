@@ -4,7 +4,7 @@ description: >
 copyright: On-going
 sass:
   sass_dir: assets/sass
-url: http://on-going.org
+url: https://on-going.org
 disqus_shortname: https-bramm-github-io
 facebook_username: bram.smers
 twitter_username:
@@ -13,8 +13,8 @@ instagram_username:
 strava_username: athletes/bsmers
 flickr_username:
 github_username:  "Bramm"
-feed_icon: rss
-email: "bram@seasoning.be"
+feed_icon:
+email: "somersbram@gmail.com"
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
